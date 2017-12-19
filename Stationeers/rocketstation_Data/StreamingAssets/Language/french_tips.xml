@@ -3,7 +3,7 @@
 	<Code>FR</Code>
 	<Font>font_extended</Font> <!-- Permet l'ajout des accents ^^ -->
 	<GameTip>
-		<String>Appuyez sur &lt;color=yellow&gt;{KEY:HelmetSlot}&lt;/color&gt;, &lt;color=yellow&gt;{KEY:SuitSlot}&lt;/color&gt;, &lt;color=yellow&gt;{KEY:BackSlot}&lt;/color&gt;, &lt;color=yellow&gt;{KEY:UniformSlot}&lt;/color&gt; ou sur &lt;color=yellow&gt;{KEY:ToolBeltSlot}&lt;/color&gt; pour basculer entre les interactions et les emplacements de tous les éléments que vous portez. Appuyez et maintenez enfonce pour permuter entre cette fente et vos mains actives.</String>  
+		<String>Appuyez sur &lt;color=yellow&gt;{KEY:HelmetSlot}&lt;/color&gt;, &lt;color=yellow&gt;{KEY:SuitSlot}&lt;/color&gt;, &lt;color=yellow&gt;{KEY:BackSlot}&lt;/color&gt;, &lt;color=yellow&gt;{KEY:UniformSlot}&lt;/color&gt; ou sur &lt;color=yellow&gt;{KEY:ToolBeltSlot}&lt;/color&gt; pour basculer entre les interactions et les emplacements de tous les éléments que vous portez. Appuyez et maintenez enfoncé pour permuter entre cette fente et vos mains actives.</String>  
 		<String>Appuyez sur &lt;color=yellow&gt;{KEY:ToggleHandPower}&lt;/color&gt; pour activer ou désactiver rapidement un outil dans vos mains.</String>
 		<String>Appuyez sur &lt;color=yellow&gt;{KEY:ToggleUI}&lt;/color&gt; pour activer ou desactiver l'interface utilisateur afin d'obtenir des captures d'écran ou des vidéos étonnantes.</String>  
 		<String>Appuyer sur &lt;color=yellow&gt;{KEY:Ascend}&lt;/color&gt; vous fera monter si votre &lt;color=yellow&gt;{THING:ItemSpacepack}&lt;/color&gt; est actif, sinon votre personnage essaiera de sauter. Vous pouvez activer ou désactiver &lt;color=yellow&gt;{THING:ItemSpacepack}&lt;/color&gt; à l'aide du bouton &lt;color=yellow&gt;{THING:ItemSpacepack}&lt;/color&gt;.</String>
