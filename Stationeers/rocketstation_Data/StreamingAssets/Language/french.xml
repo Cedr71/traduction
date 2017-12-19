@@ -2121,6 +2121,30 @@
       <Key>StructureLogicMinMax</Key>
       <Value>Logique Min / Max</Value>
     </Record>
+    <Record>
+      <Key>StructureLogicDisplay5</Key>
+      <Value>Affichage LED (Petit)</Value>
+    </Record>
+    <Record>
+      <Key>StructureConsoleLED5</Key>
+      <Value>Affichage LED (Moyen)</Value>
+    </Record>
+    <Record>
+      <Key>StructureConsoleLED8Large</Key>
+      <Value>Affichage LED (Grand)</Value>
+    </Record>
+    <Record>
+      <Key>StructureSign1x1</Key>
+      <Value>Panneau de structure 1x1</Value>
+    </Record>
+    <Record>
+      <Key>StructureConsoleLED5Large</Key>
+      <Value>Structure Console LED 5 Grand</Value>
+    </Record>
+    <Record>
+      <Key>StructureSolarPanelDual</Key>
+      <Value>Panneau solaire</Value>
+    </Record>
   </Things>
   <Slots>
     <Record>
@@ -3236,6 +3260,14 @@ Scroll &lt;color=red&gt;Roulette de la souris&lt;/color&gt; pour plus d'options.
     <Record>
       <Key>SettingsTooltipOpacity</Key>
       <Value>Opacité de l'info-bulle</Value>
+    </Record>
+    <Record>
+      <Key>MenuDownloadDriverButton</Key>
+      <Value>Télécharger les pilotes</Value>
+    </Record>
+    <Record>
+      <Key>MenuDownloadDriverWarning</Key>
+      <Value>De nombreux utilisateurs de cartes graphiques AMD ont signalé des problèmes avec le jeu qui ont été résolus en mettant à jour leurs pilotes. Nous vous recommandons &lt;b&gt;FORTEMENT&lt;/b&gt; de le mettre à jour avant de jouer.</Value>
     </Record>
   </Interface>
   <Colors>
