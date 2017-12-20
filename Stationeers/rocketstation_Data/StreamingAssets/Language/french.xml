@@ -295,223 +295,223 @@
     </Record>
     <Record>
       <Key>BodyPartAstronautFemaleArmL</Key>
-      <Value>Partie du corps d'Astronaute Femmelle: Bras G</Value>
+      <Value>Bras Gauche Femme</Value>
     </Record>
     <Record>
       <Key>BodyPartAstronautFemaleArmR</Key>
-      <Value>Partie du corps d'Astronaute Femmelle: Bras D</Value>
+      <Value>Bras Droit Femme</Value>
     </Record>
     <Record>
       <Key>BodyPartAstronautFemaleHead</Key>
-      <Value>Partie du corps d'Astronaute Femmelle: Tête</Value>
+      <Value>Tête Femme</Value>
     </Record>
     <Record>
       <Key>BodyPartAstronautFemaleLegL</Key>
-      <Value>Partie du corps d'Astronaute Femmelle: Jambe G</Value>
+      <Value>Jambe Gauche Femme</Value>
     </Record>
     <Record>
       <Key>BodyPartAstronautFemaleLegR</Key>
-      <Value>Partie du corps d'Astronaute Femmelle: Jambe D</Value>
+      <Value>Jambe Droid Femme</Value>
     </Record>
     <Record>
       <Key>BodyPartAstronautFemaleTorso</Key>
-      <Value>Partie du corps d'Astronaute Femmelle: Torse</Value>
+      <Value>Torse Femme</Value>
     </Record>
     <Record>
       <Key>BodyPartAstronautMaleArmL</Key>
-      <Value>Partie du corps d'Astronaute Mâle: Bras G</Value>
+      <Value>Bras Gauche Homme</Value>
     </Record>
     <Record>
       <Key>BodyPartAstronautMaleArmR</Key>
-      <Value>Partie du corps d'Astronaute Mâle: Bras D</Value>
+      <Value>Bras Droite Homme</Value>
     </Record>
     <Record>
       <Key>BodyPartAstronautMaleHead</Key>
-      <Value>Partie du corps d'Astronaute Mâle: Tête</Value>
+      <Value>Tête Homme</Value>
     </Record>
     <Record>
       <Key>BodyPartAstronautMaleLegL</Key>
-      <Value>Partie du corps d'Astronaute Mâle: Jambe G</Value>
+      <Value>Jambe Gauche Homme</Value>
     </Record>
     <Record>
       <Key>BodyPartAstronautMaleLegR</Key>
-      <Value>Partie du corps d'Astronaute Mâle: Jambe D</Value>
+      <Value>Jambe Droite Mâle</Value>      
     </Record>
     <Record>
       <Key>BodyPartAstronautTorso</Key>
-      <Value>Partie du corps d'Astronaute Mâle: Torse</Value>
+      <Value>Torse Homme</Value>
     </Record>
     <Record>
       <Key>BodyPartChickBody</Key>
-      <Value>Partie du corps Poussin: Tronc</Value>
+      <Value>Corps de Poussin</Value>
     </Record>
     <Record>
       <Key>BodyPartChickenBrownBody</Key>
-      <Value>Partie du Corps de Poulet Brun: Tronc</Value>
+      <Value>Corps de Poulet</Value>
     </Record>
     <Record>
       <Key>BodyPartChickenBrownHead</Key>
-      <Value>Partie du Corps de Poulet Brun: Tête</Value>
+      <Value>Tête de Poulet Brun</Value>
     </Record>
     <Record>
       <Key>BodyPartChickenBrownLegL</Key>
-      <Value>Partie du Corps de Poulet Brun: Jambe G</Value>
+      <Value>Patte Gauche de Poulet Brun</Value>
     </Record>
     <Record>
       <Key>BodyPartChickenBrownLegR</Key>
-      <Value>Partie du Corps de Poulet Brun: Jambe D</Value>
+      <Value>Patte Droite de Poulet Brun</Value>
     </Record>
     <Record>
       <Key>BodyPartChickenBrownTail</Key>
-      <Value>Partie du Corps de Poulet Brun: Queue</Value>
+      <Value>Queue de Poulet Brun</Value>
     </Record>
     <Record>
       <Key>BodyPartChickenBrownWingL</Key>
-      <Value>Partie du Corps de Poulet Brun: Aile G</Value>
+      <Value>Aile Gauche de Poulet Brun</Value>
     </Record>
     <Record>
       <Key>BodyPartChickenBrownWingR</Key>
-      <Value>Partie du Corps de Poulet Brun: Aile D</Value>
+      <Value>Aile Droite de Poulet Brun</Value>
     </Record>
     <Record>
       <Key>BodyPartChickenWhiteBody</Key>
-      <Value>Partie du Corps de Poulet Blanc: Tronc</Value>
+      <Value>Corps de Poulet Blanc</Value>
     </Record>
     <Record>
       <Key>BodyPartChickenWhiteHead</Key>
-      <Value>Partie du Corps de Poulet Blanc: Tête</Value>
+      <Value>Tête de Poulet Blanc</Value>
     </Record>
     <Record>
       <Key>BodyPartChickenWhiteLegL</Key>
-      <Value>Partie du Corps de Poulet Blanc: Jambe G</Value>
+      <Value>Jambe Gauche de Poulet Blanc</Value>
     </Record>
     <Record>
       <Key>BodyPartChickenWhiteLegR</Key>
-      <Value>Partie du Corps de Poulet Blanc: Jambe D</Value>
+      <Value>Jambe Droite de Poulet Blanc</Value>
     </Record>
     <Record>
       <Key>BodyPartChickenWhiteTail</Key>
-      <Value>Partie du Corps de Poulet Blanc: Queue</Value>
+      <Value>Queue de Poulet Blanc</Value>
     </Record>
     <Record>
       <Key>BodyPartChickenWhiteWingL</Key>
-      <Value>Partie du Corps de Poulet Blanc: Aile G</Value>
+      <Value>Aile Gauche de Poulet Blanc</Value>
     </Record>
     <Record>
       <Key>BodyPartChickenWhiteWingR</Key>
-      <Value>Partie du Corps de Poulet Blanc: Aile D</Value>
+      <Value>Aile Droite de Poulet Blanc</Value>
     </Record>
     <Record>
       <Key>BodyPartChickHead</Key>
-      <Value>Partie du corps Poussin: Tête</Value>
+      <Value>Tête de Poussin</Value>
     </Record>
     <Record>
       <Key>BodyPartChickLegL</Key>
-      <Value>Partie du corps Poussin: Patte G</Value>
+      <Value>Patte Gauche de Poussin</Value>
     </Record>
     <Record>
       <Key>BodyPartChickLegR</Key>
-      <Value>Partie du corps Poussin: Patte D</Value>
+      <Value>Patte Droite de Poussin</Value>
     </Record>
     <Record>
       <Key>BodyPartChickTail</Key>
-      <Value>Partie du corps Poussin: Queue</Value>
+      <Value>Queue de Poussin</Value>
     </Record>
     <Record>
       <Key>BodyPartChickWingL</Key>
-      <Value>Partie du corps Poussin: Aile G</Value>
+      <Value>Aile Gauche de Poussin</Value>
     </Record>
     <Record>
       <Key>BodyPartChickWingR</Key>
-      <Value>Partie du corps Poussin: Aile D</Value>
+      <Value>Aile Droite de Poussin</Value>
     </Record>
     <Record>
-      <Key>BodyPartGraylienArmL </Key>
-      <Value>Partie du Corps Graylien: Bras G </Value>
+      <Key>BodyPartGraylienArmL</Key>
+      <Value>Bras Gauche d'Extraterrestre Gris</Value>
     </Record>
     <Record>
-      <Key>BodyPartGraylienArmR </Key>
-      <Value>Partie du Corps Graylien: Bras D </Value>
+      <Key>BodyPartGraylienArmR</Key>
+      <Value>Bras Droite d'Extraterrestre Gris</Value>
     </Record>
     <Record>
-      <Key>BodyPartGraylienBody </Key>
-      <Value>Partie du Corps Graylien: Tronc </Value>
+      <Key>BodyPartGraylienBody</Key>
+      <Value>Corps d'Extraterrestre Gris</Value>
     </Record>
     <Record>
-      <Key>BodyPartGraylienHead </Key>
-      <Value>Partie du Corps Graylien: Tête </Value>
+      <Key>BodyPartGraylienHead</Key>
+      <Value>Tête d'Extraterrestre Gris</Value>
     </Record>
     <Record>
-      <Key>BodyPartGraylienLegL </Key>
-      <Value>Partie du Corps Graylien: Jambe G </Value>
+      <Key>BodyPartGraylienLegL</Key>
+      <Value>Jambe Gauche d'Extraterrestre Gris</Value>
     </Record>
     <Record>
-      <Key>BodyPartGraylienLegR </Key>
-      <Value>Partie du Corps Graylien: Jambe D </Value>
+      <Key>BodyPartGraylienLegR</Key>
+      <Value>Jambe Droite d'Extraterrestre Gris</Value>
     </Record>
     <Record>
-      <Key>BodyPartGraylienPelvis </Key>
-      <Value>Partie du Corps Graylien: Pelvis </Value>
+      <Key>BodyPartGraylienPelvis</Key>
+      <Value>Pelvis d'Extraterrestre Gris</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBlackBody</Key>
-      <Value>Partie du Corps Coq Noir: Tronc</Value>
+      <Value>Corps de Coq Noir</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBlackHead</Key>
-      <Value>Partie du Corps Coq Noir: Tête</Value>
+      <Value>Tête de Coq Noir</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBlackLegL</Key>
-      <Value>Partie du Corps Coq Noir: Patte G</Value>
+      <Value>Patte Gauche de Coq Noir</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBlackLegR</Key>
-      <Value>Partie du Corps Coq Noir: Patte D</Value>
+      <Value>Patte Droite de Coq Noir</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBlackTail</Key>
-      <Value>Partie du Corps Coq Noir: Queue</Value>
+      <Value>Queue de Coq Noir</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBlackWingL</Key>
-      <Value>Partie du Corps Coq Noir: Aile G</Value>
+      <Value>Aile Gauche de Coq Noir</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBlackWingR</Key>
-      <Value>Partie du Corps Coq Noir: Aile D</Value>
+      <Value>Aile Droite de Coq Noir</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBrownBody</Key>
-      <Value>Partie du Corps Coq Brun: Tronc</Value>
+      <Value>Corps de Coq Brun</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBrownHead</Key>
-      <Value>Partie du Corps Coq Brun: Tête</Value>
+      <Value>Tête de Coq Brun</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBrownLegL</Key>
-      <Value>Partie du Corps Coq Brun: Patte G</Value>
+      <Value>Patte Gauche de Coq Brun</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBrownLegR</Key>
-      <Value>Partie du Corps Coq Brun: Patte D</Value>
+      <Value>Patte Droite de Coq Brun</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBrownTail</Key>
-      <Value>Partie du Corps Coq Brun: Queue</Value>
+      <Value>Queue de Coq Brun</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBrownWingL</Key>
-      <Value>Partie du Corps Coq Brun: Aile G</Value>
+      <Value>Aile Gauche de Coq Brun</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBrownWingR</Key>
-      <Value>Partie du Corps Coq Brun: Aile D</Value>
+      <Value>Aile Droite de Coq Brun</Value>
     </Record>
     <Record>
       <Key>CartridgeAtmosAnalyser</Key>
-      <Value>Carte (Analyseur Atmos)</Value>
+      <Value>Carte (Analyseur Atmosherique)</Value>
     </Record>
     <Record>
       <Key>CartridgeMedicalAnalyser</Key>
@@ -851,7 +851,7 @@
     </Record>
     <Record>
       <Key>ItemGasTankStorage</Key>
-      <Value>Stockage de Réservoir de Gaz</Value>
+      <Value>Connecteur de Cartouche</Value>
     </Record>
     <Record>
       <Key>ItemGlassSheets</Key>
