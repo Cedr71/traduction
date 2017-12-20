@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- Created by CedricS and [FR] Rem For Stationeers v0.1.1027.5176 -->
+<!-- Created by CedricS and [FR]Rem For Stationeers -->
   <Name>French</Name>
   <Code>FR</Code>
   <Font>font_extended</Font> <!-- Permet l'ajout des accents ^^ -->
@@ -112,7 +112,7 @@
     </RecordReagent>
     <RecordReagent>
       <Key>Oil</Key>
-      <Value>Huile</Value>
+      <Value>Pétrole</Value><!-- A voir in  game le contexte et choisir entre Huile et pétrol -->
       <Unit>ml</Unit>
     </RecordReagent>
   </Reagents>
@@ -919,7 +919,7 @@
     </Record>
     <Record>
       <Key>ItemKitChute</Key>
-      <Value>Kit de construction (Gaine)</Value>
+      <Value>Kit (Gaine)</Value>
     </Record>
     <Record>
       <Key>ItemKitComputer</Key>
@@ -927,19 +927,19 @@
     </Record>
     <Record>
       <Key>ItemKitConsole</Key>
-      <Value>Kit de construction (Consoles)</Value>
+      <Value>Kit (Consoles)</Value>
     </Record>
     <Record>
       <Key>ItemKitConveyor</Key>
-      <Value>Kit de construction (Convoyeurs)</Value>
+      <Value>Kit (Convoyeurs)</Value>
     </Record>
     <Record>
       <Key>ItemKitCryoTube</Key>
-      <Value>Kit de construction (Cryo Tube)</Value>
+      <Value>Kit (Cryo Tube)</Value>
     </Record>
     <Record>
       <Key>ItemKitEngine</Key>
-      <Value>Kit de construction (Moteurs)</Value>
+      <Value>Kit  (Moteurs)</Value>
     </Record>
     <Record>
       <Key>ItemKitFabricator</Key>
@@ -959,11 +959,11 @@
     </Record>
     <Record>
       <Key>ItemKitRegulator</Key>
-      <Value>Kit de construction (Régulateur de Pression)</Value>
+      <Value>Kit (Régulateur de Pression)</Value>
     </Record>
     <Record>
       <Key>ItemKitSensor</Key>
-      <Value>Kit de construction (Capteurs)</Value>
+      <Value>Kit (Capteurs)</Value>
     </Record>
     <Record>
       <Key>ItemKitSleeper</Key>
@@ -979,11 +979,11 @@
     </Record>
     <Record>
       <Key>ItemKitStellarAnchor</Key>
-      <Value>Kit de construction (ancre stellaire)</Value>
+      <Value>Kit (ancre stellaire)</Value>
     </Record>
     <Record>
       <Key>ItemKitStorage</Key>
-      <Value>Kit de construction (Stockage)</Value>
+      <Value>Kit (Stockage)</Value>
     </Record>
     <Record>
       <Key>ItemKitTank</Key>
@@ -991,7 +991,7 @@
     </Record>
     <Record>
       <Key>ItemKitTorpedoTube</Key>
-      <Value>Kit de construction (Lance-Torpilles)</Value>
+      <Value>Kit (Lance-Torpilles)</Value>
     </Record>
     <Record>
       <Key>ItemKitTurret</Key>
@@ -999,7 +999,7 @@
     </Record>
     <Record>
       <Key>ItemKitWall</Key>
-      <Value>Kit de construction (Murs)</Value>
+      <Value>Kit (Murs)</Value>
     </Record>
     <Record>
       <Key>ItemLabeller</Key>
@@ -1115,7 +1115,7 @@
     </Record>
     <Record>
       <Key>ItemRTG</Key>
-      <Value>R T G</Value>
+      <Value>RTG</Value> <!-- https://fr.wikipedia.org/wiki/G%C3%A9n%C3%A9rateur_thermo%C3%A9lectrique_%C3%A0_radioisotope -->
     </Record>
     <Record>
       <Key>ItemScanner</Key>
@@ -1243,7 +1243,7 @@
     </Record>
     <Record>
       <Key>ItemWireCutters</Key>
-      <Value>Pinces coupantes</Value>
+      <Value>Pinces Coupantes</Value>
     </Record>
     <Record>
       <Key>ItemWrench</Key>
@@ -1271,7 +1271,7 @@
     </Record>
     <Record>
       <Key>NpcGrounder</Key>
-      <Value>NPC Insect</Value>
+      <Value>Insecte NPC</Value>
     </Record>
     <Record>
       <Key>OrganBrain</Key>
@@ -1279,11 +1279,11 @@
     </Record>
     <Record>
       <Key>OrganLungs</Key>
-      <Value>Poumons humains</Value>
+      <Value>Poumons Humains</Value>
     </Record>
     <Record>
       <Key>SpaceShuttle</Key>
-      <Value>Navette spatiale</Value>
+      <Value>Navette Spatiale</Value>
     </Record>
     <Record>
       <Key>StructureActiveVent</Key>
@@ -1363,11 +1363,11 @@
     </Record>
     <Record>
       <Key>StructureChuteBin</Key>
-      <Value>Gaine poubelle</Value>
+      <Value>Gaine Poubelle</Value>
     </Record>
     <Record>
       <Key>StructureChuteCorner</Key>
-      <Value>Gaine (coin)</Value>
+      <Value>Gaine (Coin)</Value>
     </Record>
     <Record>
       <Key>StructureChuteInlet</Key>
@@ -1427,39 +1427,39 @@
     </Record>
     <Record>
       <Key>StructureConsole</Key>
-      <Value>Console</Value>
+      <Value>Consôle</Value>
     </Record>
     <Record>
       <Key>StructureConsoleDual</Key>
-      <Value>Console double</Value>
+      <Value>Console Double</Value>
     </Record>
     <Record>
       <Key>StructureConsoleMonitor</Key>
-      <Value>Console Monitor</Value>
+      <Value>Consôle Moniteur</Value>
     </Record>
     <Record>
       <Key>StructureControlChair</Key>
-      <Value>Chaise de controle</Value>
+      <Value>Siège de Contrôle</Value>
     </Record>
     <Record>
       <Key>StructureConveyorCorner</Key>
-      <Value>Convoyeur (coin)</Value>
+      <Value>Convoyeur (Coin)</Value>
     </Record>
     <Record>
       <Key>StructureConveyorRiser</Key>
-      <Value>Convoyeur (Riser)</Value>
+      <Value>Convoyeur (Riser)</Value> <!-- https://fr.wikipedia.org/wiki/Riser -->
     </Record>
     <Record>
       <Key>StructureConveyorStraight</Key>
-      <Value>Convoyeur (droit)</Value>
+      <Value>Convoyeur (Droit)</Value>
     </Record>
     <Record>
       <Key>StructureConveyorStraightLong</Key>
-      <Value>Convoyeur (droit long)</Value>
+      <Value>Convoyeur (Droit Long)</Value>
     </Record>
     <Record>
       <Key>StructureConveyorStraightShort</Key>
-      <Value>Convoyeur (court droit)</Value>
+      <Value>Convoyeur (Court Droit)</Value>
     </Record>
     <Record>
       <Key>StructureCryoTube</Key>
@@ -1471,7 +1471,7 @@
     </Record>
     <Record>
       <Key>StructureDigitalValve</Key>
-      <Value>Valve numérique</Value>
+      <Value>Valve Numérique</Value>
     </Record>
     <Record>
       <Key>StructureFabricator</Key>
@@ -1491,7 +1491,7 @@
     </Record>
     <Record>
       <Key>StructureFrameCorner</Key>
-      <Value>Cadre (coin)</Value>
+      <Value>Cadre (Coin)</Value>
     </Record>
     <Record>
       <Key>StructureFrameSide</Key>
@@ -1643,7 +1643,7 @@
     </Record>
     <Record>
       <Key>StructureStellarAnchor</Key>
-      <Value>Ancrage stellaire</Value>
+      <Value>Ancrage Stellaire</Value>
     </Record>
     <Record>
       <Key>StructureSuitStorage</Key>
@@ -1743,11 +1743,11 @@
     </Record>
     <Record>
       <Key>ItemKitGenerator</Key>
-      <Value>Kit de Construction (Générateur)</Value>
+      <Value>Kit (Générateur)</Value>
     </Record>
     <Record>
       <Key>ItemCableFuse</Key>
-      <Value>Kit de construction (Fusibles de Câble)</Value>
+      <Value>Kit (Fusibles de Câble)</Value>
     </Record>
     <Record>
       <Key>StructureCableStraightH</Key>
@@ -1783,7 +1783,7 @@
     </Record>
     <Record>
       <Key>StructureCableCornerHBurnt</Key>
-      <Value>Câble Loure Brûlé (Coin)</Value>
+      <Value>Câble Lourd Brûlé (Coin)</Value>
     </Record>
     <Record>
       <Key>StructureCableCornerH</Key>
@@ -1835,7 +1835,7 @@
     </Record>
     <Record>
       <Key>ItemKitFabrication</Key>
-      <Value>Construction Kit (Fabrication)</Value>
+      <Value>Kit (Fabrication)</Value>
     </Record>
     <Record>
       <Key>ItemPipeKit</Key>
@@ -1843,7 +1843,7 @@
     </Record>
     <Record>
       <Key>ItemKitPipe</Key>
-      <Value>Kit de construction (Conduit)</Value>
+      <Value>Kit (Conduit)</Value>
     </Record>
     <Record>
       <Key>CartridgeElectronicReader</Key>
@@ -1851,7 +1851,7 @@
     </Record>
     <Record>
       <Key>ItemCableCoilHeavy</Key>
-      <Value>Bobine de Câble (Lourde)</Value>
+      <Value>Bobine de Câble (Lourd)</Value> <!-- c'est du câble lourd qui est enroulé sur la bobine -->
     </Record>
     <Record>
       <Key>StructureFrameIron</Key>
@@ -1911,7 +1911,7 @@
     </Record>
     <Record>
       <Key>ApplianceChemistryStation</Key>
-      <Value>Station de chimie</Value>
+      <Value>Station de Chimie</Value>
     </Record>
     <Record>
       <Key>StructureDiode</Key>
@@ -1923,7 +1923,7 @@
     </Record>
     <Record>
       <Key>ItemAngleGrinder</Key>
-      <Value>Meuleuse d angle</Value>
+      <Value>Meuleuse d'Angle</Value>
     </Record>
     <Record>
       <Key>ItemSiliconOre</Key>
@@ -1939,7 +1939,7 @@
     </Record>
     <Record>
       <Key>ItemCerealBar</Key>
-      <Value>Barre de céréales</Value>
+      <Value>Barre de Céréales</Value>
     </Record>
     <Record>
       <Key>StructureElectronicsPrinter</Key>
@@ -2061,9 +2061,9 @@
       <Key>ItemKitToolManufactory</Key>
       <Value>Kit (Fabricateur d'Outils)</Value>
     </Record>
-	    <Record>
+    <Record>
       <Key>StructureTransformerSmallReversed</Key>
-      <Value>Transformer (Small)</Value>
+      <Value>Transformateur Inverse (Petit)</Value>
     </Record>
     <Record>
       <Key>StructureLogicUnit</Key>
@@ -2273,7 +2273,7 @@
     </Record>
     <Record>
       <Key>TransportSlot</Key>
-      <Value>Emplacement de transport</Value>
+      <Value>Emplacement de Transport</Value>
     </Record>
     <Record>
       <Key>Motherboard</Key>
@@ -2289,7 +2289,7 @@
     </Record>
     <Record>
       <Key>PortableSlot</Key>
-      <Value>Emplacement portable</Value>
+      <Value>Emplacement Portable</Value>
     </Record>
     <Record>
       <Key>Bed</Key>
@@ -2407,7 +2407,7 @@
     </Record>
     <Record>
       <Key>SplitOne</Key>
-      <Value>Diviser en un</Value>
+      <Value>En Prendre Un</Value>
     </Record>
     <Record>
       <Key>SplitHalf</Key>
@@ -2435,11 +2435,11 @@
     </Record>
     <Record>
       <Key>PressureUp</Key>
-      <Value>Pression en hausse</Value>
+      <Value>Pression en Hausse</Value>
     </Record>
     <Record>
       <Key>PressureDown</Key>
-      <Value>Pression en baisse</Value>
+      <Value>Pression en Baisse</Value>
     </Record>
     <Record>
       <Key />
@@ -2447,7 +2447,7 @@
     </Record>
     <Record>
       <Key>Flush</Key>
-      <Value>Chasser eau</Value>
+      <Value>Vider</Value>
     </Record>
     <Record>
       <Key>Battery</Key>
@@ -2587,7 +2587,7 @@
     </Record>
     <Record>
       <Key>CreatePlan</Key>
-      <Value>Créer un plan</Value>
+      <Value>Créer un Plan</Value>
     </Record>
     <Record>
       <Key>Button4</Key>
@@ -2921,7 +2921,7 @@
     </Record>
     <Record>
       <Key>SettingsTitleBasicScreen</Key>
-      <Value>Paramètres de base</Value>
+      <Value>Paramètres de Base</Value>
     </Record>
     <Record>
       <Key>SettingsTitleAdvScreen</Key>
@@ -2949,11 +2949,11 @@
     </Record>
     <Record>
       <Key>SettingsFOV</Key>
-      <Value>Champ de vision</Value>
+      <Value>Champ de Vision</Value>
     </Record>
     <Record>
       <Key>SettingsOverallQuality</Key>
-      <Value>Qualité globale</Value>
+      <Value>Qualité Globale</Value>
     </Record>
     <Record>
       <Key>SettingsTextureQuality</Key>
@@ -2973,7 +2973,7 @@
     </Record>
     <Record>
       <Key>SettingsPixelLightCount</Key>
-      <Value>Nombre de lumière par Pixel</Value>
+      <Value>Nombre de Lumière par Pixel</Value>
     </Record>
     <Record>
       <Key>SettingsShadows</Key>
@@ -3009,7 +3009,7 @@
     </Record>
     <Record>
       <Key>SettingsVoiceNotifications</Key>
-      <Value>Notifications vocales</Value>
+      <Value>Notifications Vocales</Value>
     </Record>
     <Record>
       <Key>SettingsTitleKeybinds</Key>
@@ -3017,7 +3017,7 @@
     </Record>
     <Record>
       <Key>SettingsTitleMisc</Key>
-      <Value>Paramètres divers</Value>
+      <Value>Paramètres Divers</Value>
     </Record>
     <Record>
       <Key>SettingsLanguage</Key>
@@ -3025,11 +3025,11 @@
     </Record>
     <Record>
       <Key>SettingsVoiceControl</Key>
-      <Value>Commande vocale</Value>
+      <Value>Commande Vocale</Value>
     </Record>
     <Record>
       <Key>SettingsCameraSensitivity</Key>
-      <Value>Sensibilité de la caméra</Value>
+      <Value>Sensibilité de la Caméra</Value>
     </Record>
     <Record>
       <Key>NotificationTitle</Key>
@@ -3065,7 +3065,7 @@
     </Record>
     <Record>
       <Key>InputPassword</Key>
-      <Value>Mot de passe</Value>
+      <Value>Mot de Passe</Value>
     </Record>
     <Record>
       <Key>ButtonKick</Key>
@@ -3093,7 +3093,7 @@
     </Record>
     <Record>
       <Key>DialogConfirmNoticeClientLeaving</Key>
-      <Value>Êtes-vous sûr de vouloir quitter la session?</Value>
+      <Value>Êtes-vous sûr de vouloir quitter la session ?</Value>
     </Record>
     <Record>
       <Key>SettingsPopupChat</Key>
@@ -3121,11 +3121,11 @@
     </Record>
     <Record>
       <Key>SettingsServerName</Key>
-      <Value>Nom du serveur</Value>
+      <Value>Nom du Serveur</Value>
     </Record>
     <Record>
       <Key>SettingsServerPassword</Key>
-      <Value>Mot de passe</Value>
+      <Value>Mot de Passe</Value>
     </Record>
     <Record>
       <Key>SettingsServerMaxPlayers</Key>
@@ -3133,7 +3133,7 @@
     </Record>
     <Record>
       <Key>SettingsTitleMultiplayer</Key>
-      <Value>Paramètres multijoueurs</Value>
+      <Value>Paramètres Multijoueurs</Value>
     </Record>
     <Record>
       <Key>SettingsUpdatePort</Key>
@@ -3194,8 +3194,7 @@
     </Record>
     <Record>
       <Key>MulticonstructorItem</Key>
-      <Value>&lt;color=yellow&gt;Option de construction {0} de {1}&lt;/color&gt;
-Scroll &lt;color=red&gt;Roulette de la souris&lt;/color&gt; pour plus d'options.</Value>
+      <Value>&lt;color=yellow&gt;Option de construction {0} de {1} &lt;/color&gt; Scroll &lt;color=red&gt;Roulette de la souris&lt;/color&gt; pour plus d'options.</Value>
     </Record>
     <Record>
       <Key>UnableToConstruct</Key>
@@ -3203,15 +3202,15 @@ Scroll &lt;color=red&gt;Roulette de la souris&lt;/color&gt; pour plus d'options.
     </Record>
     <Record>
       <Key>TooltipRotateLeftRight</Key>
-      <Value>Utiliser {&lt;color=yellow&gt;SUPPR&lt;/color&gt;} et {&lt;color=yellow&gt;PAGE BAS&lt;/color&gt;} pour tourner à gauche et à droite.</Value>
+      <Value>Utiliser la touche &lt;color=yellow&gt;{KEY:RotateLeft}&lt;/color&gt; et &lt;color=yellow&gt;{KEY:RotateRight}&lt;/color&gt; pour tourner à gauche et à droite.</Value>
     </Record>
     <Record>
       <Key>TooltipRotateUpDown</Key>
-      <Value>Utiliser {&lt;color=yellow&gt;HOME&lt;/color&gt;} et {&lt;color=yellow&gt;FIN&lt;/color&gt;} pour faire pivoter de haut en bas.</Value>
+      <Value>Utiliser la touche &lt;color=yellow&gt;{KEY:RotateUp}&lt;/color&gt; et &lt;color=yellow&gt;{KEY:RotateDown}&lt;/color&gt; pour faire pivoter de haut en bas.</Value>
     </Record>
     <Record>
       <Key>TooltipRollLeftRight</Key>
-      <Value>Utiliser {&lt;color=yellow&gt;INSERT&lt;/color&gt;} et {&lt;color=yellow&gt;PAGE HAUT&lt;/color&gt;} pour rouler à gauche et à droite.</Value>
+      <Value>Utiliser la touche &lt;color=yellow&gt;{KEY:RotateRollLeft}&lt;/color&gt; et &lt;color=yellow&gt;{KEY:RotateRollRight}&lt;/color&gt; pour rouler à gauche et à droite.</Value>
     </Record>
     <Record>
       <Key>SettingsExtendedTooltips</Key>
@@ -3239,7 +3238,7 @@ Scroll &lt;color=red&gt;Roulette de la souris&lt;/color&gt; pour plus d'options.
     </Record>
     <Record>
       <Key>TooltipPlacementSnapFaceMount</Key>
-      <Value>Le placement n'est autorisé que sur les {&lt;color=yellow&gt;Structure Cadre en Fer&lt;/color&gt;} et {&lt;color=yellow&gt;Cadre de structure&lt;/color&gt;} directement. Si ceux-ci sont mis à jour, ils offriront de meilleures options de placement.</Value>
+      <Value>Le placement n'est autorisé que sur les &lt;color=yellow&gt;{THING:ItemIronFrames}&lt;/color&gt; et &lt;color=yellow&gt;{THING:StructureFrame}&lt;/color&gt; directement. Si ceux-ci sont améliorés, ils offriront de meilleures options de placement.</Value>
     </Record>
     <Record>
       <Key>GameMenuClearDisconnectedPlayers</Key>
@@ -3251,7 +3250,7 @@ Scroll &lt;color=red&gt;Roulette de la souris&lt;/color&gt; pour plus d'options.
     </Record>
     <Record>
       <Key>SettingsTitleMultiplayerAdvanced</Key>
-      <Value>Paramètres Multijoueurs avancés</Value>
+      <Value>Paramètres Multijoueurs Avancés</Value>
     </Record>
     <Record>
       <Key>SettingsUPNPNote</Key>
