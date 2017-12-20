@@ -939,7 +939,7 @@
     </Record>
     <Record>
       <Key>ItemKitEngine</Key>
-      <Value>Kit  (Moteurs)</Value>
+      <Value>Kit (Moteurs)</Value>
     </Record>
     <Record>
       <Key>ItemKitFabricator</Key>
@@ -964,6 +964,10 @@
     <Record>
       <Key>ItemKitSensor</Key>
       <Value>Kit (Capteurs)</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitSign</Key>
+      <Value>Kit (Panneaux de Structure)</Value>
     </Record>
     <Record>
       <Key>ItemKitSleeper</Key>
@@ -1633,7 +1637,7 @@
       <Key>StructureStacker</Key>
       <Value>Empileur</Value>
     </Record>
-	<Record>
+	  <Record>
       <Key>StructureStackerReverse</Key>
       <Value>Empileur (Inversé)</Value>
     </Record>
@@ -1819,7 +1823,7 @@
     </Record>
     <Record>
       <Key>WeaponPistolEnergy</Key>
-      <Value>Pistolet Energie</Value>
+      <Value>Pistolet à Energie</Value>
     </Record>
     <Record>
       <Key>StructureChuteWindow</Key>
@@ -2049,7 +2053,7 @@
       <Key>ItemGasSensor</Key>
       <Value>Capteur de gaz</Value>
     </Record>
-	<Record>
+	  <Record>
       <Key>ItemBeacon</Key>
       <Value>Balise de Suivi</Value>
     </Record>
@@ -2138,12 +2142,32 @@
       <Value>Panneau de structure 1x1</Value>
     </Record>
     <Record>
+      <Key>StructureSign2x1</Key>
+      <Value>Panneau de structure 2x1</Value>
+    </Record>
+    <Record>
       <Key>StructureConsoleLED5Large</Key>
       <Value>Structure Console LED 5 Grand</Value>
     </Record>
     <Record>
       <Key>StructureSolarPanelDual</Key>
       <Value>Panneau solaire</Value>
+    </Record>
+    <Record>
+      <Key>StructureLogicBatchWriter</Key>
+      <Value>Batch Writer</Value>
+    </Record>
+    <Record>
+      <Key>StructureLogicButton</Key>
+      <Value>Boutton</Value>
+    </Record>
+    <Record>
+      <Key>StructureLogicSwitch2</Key>
+      <Value>Interrupteur</Value>
+    </Record>
+    <Record>
+      <Key>StructureLogicMathUnary</Key>
+      <Value>Math Unary</Value>
     </Record>
   </Things>
   <Slots>
@@ -3267,6 +3291,10 @@
     <Record>
       <Key>MenuDownloadDriverWarning</Key>
       <Value>De nombreux utilisateurs de cartes graphiques AMD ont signalé des problèmes avec le jeu qui ont été résolus en mettant à jour leurs pilotes. Nous vous recommandons &lt;b&gt;FORTEMENT&lt;/b&gt; de le mettre à jour avant de jouer.</Value>
+    </Record>
+     <Record>
+      <Key>SettingsChatFadeTimer</Key>
+      <Value>Chat délai de fondu</Value>
     </Record>
   </Interface>
   <Colors>
