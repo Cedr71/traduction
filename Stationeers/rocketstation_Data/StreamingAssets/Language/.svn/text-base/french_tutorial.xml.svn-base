@@ -78,7 +78,7 @@
     </Record>
     <Record>
       <Key>TutorialDescLifesupport3</Key>
-      <Value>Vous pouvez sélectionner des emplacements dans la {THING:ItemEvaSuit} en utilisant la {COLORRED:Roulette de la souris}. Sélectionnez l'emplacement interne {SLOT:LifeSupport} pour continuer .</Value>
+      <Value>Vous pouvez sélectionner des emplacements dans la {THING:ItemEvaSuit} en utilisant la {COLORRED:Roulette de la souris}. Sélectionnez l'emplacement interne {SLOT:LifeSupport} pour continuer.</Value>
     </Record>
     <Record>
       <Key>TutorialDescLifesupport4</Key>
@@ -114,7 +114,7 @@
     </Record>
     <Record>
       <Key>TutorialDescFilter3</Key>
-      <Value>Vous pouvez sélectionner des emplacements dans la {THING:ItemEvaSuit} en utilisant la {COLORRED:Roulette de la souris}. Sélectionnez l'un des internes {SLOT:Filter} emplacements pour continuer.</Value>
+      <Value>Vous pouvez sélectionner des emplacements dans la {THING:ItemEvaSuit} en utilisant la {COLORRED:Roulette de la souris}. Sélectionnez l'emplacement interne {SLOT:Filter} pour continuer.</Value>
     </Record>
     <Record>
       <Key>TutorialDescFilter4</Key>
