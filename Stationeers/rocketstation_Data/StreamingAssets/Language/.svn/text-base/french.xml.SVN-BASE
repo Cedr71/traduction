@@ -3,7 +3,7 @@
 <!-- Created by CedricS and [FR]Rem For Stationeers -->
   <Name>French</Name>
   <Code>FR</Code>
-  <Font>font_extended</Font> <!-- Permet l'ajout des accents ^^ -->
+  <Font>font_extended</Font>
   <Reagents>
     <RecordReagent>
       <Key>Flour</Key>
@@ -1195,7 +1195,7 @@
     </Record>
     <Record>
       <Key>ItemSteelFrames</Key>
-      <Value>Cadres en Acier</Value>
+      <Value>Armature en Acier</Value>
     </Record>
     <Record>
       <Key>ItemSteelIngot</Key>
@@ -1451,7 +1451,7 @@
     </Record>
     <Record>
       <Key>StructureConveyorRiser</Key>
-      <Value>Convoyeur (Riser)</Value> <!-- https://fr.wikipedia.org/wiki/Riser -->
+      <Value>Convoyeur (Prolongateur)</Value>
     </Record>
     <Record>
       <Key>StructureConveyorStraight</Key>
@@ -1487,7 +1487,7 @@
     </Record>
     <Record>
       <Key>StructureFlashingLight</Key>
-      <Value>Lumière Aveuglante</Value>
+      <Value>Gyrophare</Value>
     </Record>
     <Record>
       <Key>StructureFrame</Key>
@@ -1499,7 +1499,7 @@
     </Record>
     <Record>
       <Key>StructureFrameSide</Key>
-      <Value>Cadre (Cote)</Value>
+      <Value>Cadre (Côté)</Value>
     </Record>
     <Record>
       <Key>StructureFurnace</Key>
@@ -1855,7 +1855,7 @@
     </Record>
     <Record>
       <Key>ItemCableCoilHeavy</Key>
-      <Value>Bobine de Câble (Lourd)</Value> <!-- c'est du câble lourd qui est enroulé sur la bobine -->
+      <Value>Bobine de Câble (Lourd)</Value>
     </Record>
     <Record>
       <Key>StructureFrameIron</Key>
@@ -1863,7 +1863,7 @@
     </Record>
     <Record>
       <Key>ItemIronFrames</Key>
-      <Value>Cadres en fer</Value>
+      <Value>Armature en fer</Value>
     </Record>
     <Record>
       <Key>ItemIronSheets</Key>
@@ -2179,11 +2179,23 @@
     </Record>
     <Record>
       <Key>ItemCableAnalyser</Key>
-      <Value>Kit (Câble Analyzer)</Value>
+      <Value>Kit (Analyseur de câble)</Value>
     </Record>
     <Record>
       <Key>StructureCableAnalysizer</Key>
-      <Value>Câble Analyzer</Value>
+      <Value>Analyseur de câble</Value>
+    </Record>
+    <Record>
+      <Key>StructureLogicDial</Key>
+      <Value>Cadran</Value>
+    </Record>
+    <Record>
+      <Key>StructureConsoleLED1x2</Key>
+      <Value>Affichage à LED (Moyen)</Value>
+    </Record>
+    <Record>
+      <Key>StructureConsoleLED1x3</Key>
+      <Value>Affichage à LED (Grand)</Value>
     </Record>
   </Things>
   <Slots>
@@ -2668,6 +2680,10 @@
     <Record>
       <Key>Decrease</Key>
       <Value>Diminuer</Value>
+    </Record>
+    <Record>
+      <Key>Color</Key>
+      <Value>Color</Value>
     </Record>
   </Interactables>
   <Interface>
@@ -3311,6 +3327,10 @@
      <Record>
       <Key>SettingsChatFadeTimer</Key>
       <Value>Chat délai de fondu</Value>
+    </Record>
+    <Record>
+      <Key>TooltipNeedMoreKit</Key>
+      <Value>&lt;color=red&gt;Need more {0}&lt;/color&gt;.</Value>
     </Record>
   </Interface>
   <Colors>
