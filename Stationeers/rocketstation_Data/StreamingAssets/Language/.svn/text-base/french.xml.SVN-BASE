@@ -3133,11 +3133,11 @@
     </Record>
     <Record>
       <Key>ButtoConfirmExitAsServer</Key>
-      <Value>Êtes-vous sûr de vouloir quitter le jeu sans enregistrer ? Tout progrès non enregistré sera perdu.</Value>
+      <Value>Etes-vous sûr de vouloir quitter le jeu sans enregistrer ? Tout progrès non enregistré sera perdu.</Value>
     </Record>
     <Record>
       <Key>DialogConfirmNoticeUnsaved</Key>
-      <Value>Êtes-vous sûr de vouloir quitter la session sans enregistrer ? Tout progrès non enregistré sera perdu.</Value>
+      <Value>Etes-vous sûr de vouloir quitter la session sans enregistrer ? Tout progrès non enregistré sera perdu.</Value>
     </Record>
     <Record>
       <Key>ButtonExit</Key>
@@ -3149,7 +3149,7 @@
     </Record>
     <Record>
       <Key>DialogConfirmNoticeClientLeaving</Key>
-      <Value>Êtes-vous sûr de vouloir quitter la session ?</Value>
+      <Value>Etes-vous sûr de vouloir quitter la session ?</Value>
     </Record>
     <Record>
       <Key>SettingsPopupChat</Key>
@@ -3334,7 +3334,7 @@
     </Record>
   <Record>
       <Key>PromptResetSettingsBody</Key>
-      <Value>Êtes-vous sûr?</Value>
+      <Value>Etes vous sur?</Value>
     </Record>
   <Record>
       <Key>PromptResetSettingsConfirm</Key>
@@ -3346,7 +3346,7 @@
     </Record>
     <Record>
       <Key>PromptQuitBody</Key>
-      <Value>Êtes-vous sûr de vouloir quitter?</Value>
+      <Value>Etes vous sur de vouloir quitter?</Value>
     </Record>
     <Record>
       <Key>PromptQuitConfirm</Key>
@@ -3358,7 +3358,7 @@
     </Record>
     <Record>
       <Key>PromptOverwriteBody</Key>
-      <Value>Etes-vous sûr de vouloir écraser le monde sauvé existant?</Value>
+      <Value>Etes vous sur de vouloir écraser le monde sauvé existant?</Value>
     </Record>
     <Record>
       <Key>PromptOverwriteConfirm</Key>
@@ -3370,7 +3370,7 @@
     </Record>
     <Record>
       <Key>PromptPublishBody</Key>
-      <Value>Êtes-vous sûr de vouloir publier ce monde sur le Workshop?</Value>
+      <Value>Etes vous sur de vouloir publier ce monde sur le Workshop?</Value>
     </Record>
     <Record>
       <Key>PromptPublishConfirm</Key>
@@ -3382,7 +3382,7 @@
     </Record>
     <Record>
       <Key>PromptDeleteBody</Key>
-      <Value>Êtes-vous sûr?</Value>
+      <Value>Etes vous sur?</Value>
     </Record>
     <Record>
       <Key>PromptDeleteConfirm</Key>
@@ -3394,7 +3394,7 @@
     </Record>
     <Record>
       <Key>PromptDebugLoadBody</Key>
-      <Value>Êtes-vous sûr de vouloir charger ce monde avec un seul caractère?</Value>
+      <Value>Etes vous sur de vouloir charger ce monde avec un seul caractère?</Value>
     </Record>
     <Record>
       <Key>PromptDebugLoadConfirm</Key>
