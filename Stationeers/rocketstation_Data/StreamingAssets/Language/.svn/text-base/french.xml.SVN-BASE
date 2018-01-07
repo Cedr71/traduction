@@ -279,7 +279,7 @@
       <Key>Unlock</Key>
       <Value>Débloquer</Value>
     </Record>
-	<Record>
+	  <Record>
       <Key>Rename</Key>
       <Value>Renommer</Value>
     </Record>
@@ -3328,9 +3328,125 @@
       <Key>SettingsChatFadeTimer</Key>
       <Value>Chat délai de fondu</Value>
     </Record>
+  <Record>
+      <Key>PromptResetSettingsTitle</Key>
+      <Value>Réinitialiser les paramètres</Value>
+    </Record>
+  <Record>
+      <Key>PromptResetSettingsBody</Key>
+      <Value>Êtes-vous sûr?</Value>
+    </Record>
+  <Record>
+      <Key>PromptResetSettingsConfirm</Key>
+      <Value>>Réinitialiser</Value>
+    </Record>
+    <Record>
+      <Key>PromptQuitTitle</Key>
+      <Value>Quitter Stationeers</Value>
+    </Record>
+    <Record>
+      <Key>PromptQuitBody</Key>
+      <Value>Êtes-vous sûr de vouloir quitter?</Value>
+    </Record>
+    <Record>
+      <Key>PromptQuitConfirm</Key>
+      <Value>Quitter</Value>
+    </Record>
+    <Record>
+      <Key>PromptOverwriteTitle</Key>
+      <Value>Écraser</Value>
+    </Record>
+    <Record>
+      <Key>PromptOverwriteBody</Key>
+      <Value>Etes-vous sûr de vouloir écraser le monde sauvé existant?</Value>
+    </Record>
+    <Record>
+      <Key>PromptOverwriteConfirm</Key>
+      <Value>Écraser</Value>
+    </Record>
+    <Record>
+      <Key>PromptPublishTitle</Key>
+      <Value>Publier sur le Workshop</Value>
+    </Record>
+    <Record>
+      <Key>PromptPublishBody</Key>
+      <Value>Êtes-vous sûr de vouloir publier ce monde sur le Workshop?</Value>
+    </Record>
+    <Record>
+      <Key>PromptPublishConfirm</Key>
+      <Value>Publier</Value>
+    </Record>
+    <Record>
+      <Key>PromptDeleteTitle</Key>
+      <Value>Supprimer Sauvegarde</Value>
+    </Record>
+    <Record>
+      <Key>PromptDeleteBody</Key>
+      <Value>Êtes-vous sûr?</Value>
+    </Record>
+    <Record>
+      <Key>PromptDeleteConfirm</Key>
+      <Value>Supprimer</Value>
+    </Record>
+    <Record>
+      <Key>PromptDebugLoadTitle</Key>
+      <Value>Debug Load</Value>
+    </Record>
+    <Record>
+      <Key>PromptDebugLoadBody</Key>
+      <Value>Êtes-vous sûr de vouloir charger ce monde avec un seul caractère?</Value>
+    </Record>
+    <Record>
+      <Key>PromptDebugLoadConfirm</Key>
+      <Value>Debug Load</Value>
+    </Record>
+    <Record>
+      <Key>AlertInvalidIP</Key>
+      <Value>Adresse IP non valide {0} \ nVérifier que l'adresse IP ou l'URL soit valide</Value>
+    </Record>
+    <Record>
+      <Key>AlertPlayerCountExceeded</Key>
+      <Value>Le serveur est plein.</Value>
+    </Record>
+    <Record>
+      <Key>AlertVersionMismatch</Key>
+      <Value>Incompatibilité de la version du jeu avec le serveur.</Value>
+    </Record>
+    <Record>
+      <Key>AlertNoResponse</Key>
+      <Value>Il n'y a pas de réponse du serveur de jeu. \ N \ n Veuillez réessayer.</Value>
+    </Record>
+    <Record>
+      <Key>AlertKicked</Key>
+      <Value>Vous avez été expulsé du serveur.</Value>
+    </Record>
+    <Record>
+      <Key>AlertWrongPassword</Key>
+      <Value>Mot de passe du serveur incorrect.</Value>
+    </Record>
+    <Record>
+      <Key>AlertInvalidPort</Key>
+      <Value>Les valeurs de port doivent être comprises entre 0 et 65535.</Value>
+    </Record>
+    <Record>
+      <Key>AlertCannotUpdatePort</Key>
+      <Value>Impossible de modifier le port de mise à jour pendant l'exécution du serveur.</Value>
+    </Record>
+    <Record>
+      <Key>AlertBlankSaveName</Key>
+      <Value>Vous devez entrer un nom de monde pour enregistrer.</Value>
+    </Record>
+    <Record>
+      <Key>AlertTitleAttention</Key>
+      <Value>Attention</Value>
+    </Record>
+    <Record>
+      <Key>AlertTitlePleaseWait</Key>
+      <Value>S'il vous plaît, attendez...</Value>
+    </Record>    
     <Record>
       <Key>TooltipNeedMoreKit</Key>
-      <Value>&lt;color=red&gt;Need more {0}&lt;/color&gt;.</Value>
+      <Value>&lt;color=red&gt;Besoin de plus {0}&lt;/color&gt;.</Value>
     </Record>
   </Interface>
   <Colors>
