@@ -2197,6 +2197,18 @@
       <Key>StructureConsoleLED1x3</Key>
       <Value>Affichage à LED (Grand)</Value>
     </Record>
+    <Record>
+      <Key>NpcChick</Key>
+      <Value>Poussin</Value>
+    </Record>
+    <Record>
+      <Key>NpcChicken</Key>
+      <Value>Poulet</Value>
+    </Record>
+    <Record>
+      <Key>DynamicSkeleton</Key>
+      <Value>Squelette</Value>
+    </Record>
   </Things>
   <Slots>
     <Record>
@@ -2683,7 +2695,7 @@
     </Record>
     <Record>
       <Key>Color</Key>
-      <Value>Color</Value>
+      <Value>Couleur</Value>
     </Record>
   </Interactables>
   <Interface>
@@ -3414,7 +3426,7 @@
     </Record>
     <Record>
       <Key>AlertNoResponse</Key>
-      <Value>Il n'y a pas de réponse du serveur de jeu. \ N \ n Veuillez réessayer.</Value>
+      <Value>Le serveur de jeu ne répond pas.Veuillez réessayer.</Value>
     </Record>
     <Record>
       <Key>AlertKicked</Key>
@@ -3447,6 +3459,74 @@
     <Record>
       <Key>TooltipNeedMoreKit</Key>
       <Value>&lt;color=red&gt;Besoin de plus {0}&lt;/color&gt;.</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuSearchPlaceholder</Key>
+      <Value>Rechercher par nom de serveur</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuAddressPlaceholder</Key>
+      <Value>Entrez IP: Port ici...</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuServerDetailConnectButton</Key>
+      <Value>Rejoignez le monde</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuServerDetailInfoButton</Key>
+      <Value>Voir les infos</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuServerDetailUnFavoriteButton</Key>
+      <Value>Supprimer le favori</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuServerDetailFavoriteButton</Key>
+      <Value>Favori</Value>
+    </Record>
+    <Record>
+      <Key>SaveMenuSaveWorldButton</Key>
+      <Value>Sauvegarder le monde</Value>
+    </Record>
+    <Record>
+      <Key>SaveMenuOverwriteButton</Key>
+      <Value>Écraser</Value>
+    </Record>
+    <Record>
+      <Key>SaveMenuNamePlaceholder</Key>
+      <Value>Entrer le nom d'enregistrement...</Value>
+    </Record>
+    <Record>
+      <Key>NewWorldModeCreative</Key>
+      <Value>Créative</Value>
+    </Record>
+    <Record>
+      <Key>NewWorldModeSurvival</Key>
+      <Value>Survie</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuServerListMap</Key>
+      <Value>Carte</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuInfoIPAddress</Key>
+      <Value>IP Addresse:</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuInfoMap</Key>
+      <Value>Carte:</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuInfoVersion</Key>
+      <Value>Version:</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuInfoLatency</Key>
+      <Value>Latence:</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuInfoPlayers</Key>
+      <Value>Joueurs:</Value>
     </Record>
   </Interface>
   <Colors>
