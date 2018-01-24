@@ -3412,6 +3412,18 @@
       <Key>PromptDebugLoadConfirm</Key>
       <Value>Debug Load</Value>
     </Record>
+     <Record>
+      <Key>PromptRespawnTitle</Key>
+      <Value>Réapparition</Value>
+    </Record>
+    <Record>
+      <Key>PromptRespawnBody</Key>
+      <Value>Vous etes Mort.</Value>
+    </Record>
+    <Record>
+      <Key>PromptRespawnConfirm</Key>
+      <Value>Réapparition</Value>
+    </Record>   
     <Record>
       <Key>AlertInvalidIP</Key>
       <Value>Adresse IP non valide {0} \ nVérifier que l'adresse IP ou l'URL soit valide</Value>
