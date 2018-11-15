@@ -1267,7 +1267,7 @@
 1512.txt;East West Track
 1521.txt;Track Cart# moving North
 1515.txt;East Track End
-1522.txt;Track Cart#moving East
+1522.txt;Chariot#moving East
 1525.txt;Lame en acier chaude dans pinces en bois
 1524.txt;Ressort d'acier chaud dans pinces en bois
 1526.txt;Lame d'acier froid dans pinces en bois
@@ -1289,7 +1289,7 @@
 1545.txt;Kit de chariot partiel#2 roue
 1546.txt;Kit de chariot partiel#3 roue
 1548.txt;Kit de chariot
-1547.txt;Partial Track Cart Kit#4 roue
+1547.txt;Kit de chariot partiel#4 roue
 1550.txt;West Track End with Cart
 1551.txt;East Track End with Cart
 1552.txt;West Track End with Cart#built
@@ -1323,7 +1323,7 @@
 1590.txt;Track Cart#moving West left cross
 1593.txt;Ressort d'acier chaud dans des pinces en bois#justBent
 1591.txt;Track Cart#moving East left cross
-1592.txt;Partial Track Cart Kit#3 wheel remade
+1592.txt;Kit de chariot partiel#3 roue refaite
 1594.txt;@ Diggable Track
 1596.txt;Route de pierre
 1597.txt;@ Chariot mobile
