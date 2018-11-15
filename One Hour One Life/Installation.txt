@@ -1,7 +1,0 @@
-Installation du Patch FR
-
-Extraire tous le contenu de l'archive à la racine du jeu : .\Steam\steamapps\common\One Hour One Life
-puis lancer le translate.bat en double cliquant dessus.
-Une console s'ouvre et installe la traduction, si tous c'est bien passé , appuyez sur une touche pour continuer.
-
-C est fini, lancer le jeu
