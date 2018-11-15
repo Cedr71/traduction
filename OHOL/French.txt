@@ -1,1838 +1,1838 @@
-1002.txt;Double de serrure et cle $10
-1001.txt;@ Verrouillage gratuit
-100.txt;Pin blanc avec des aiguilles
-1000.txt;serrure et clé retirees $10
-1003.txt;Cle de suppression du verrouillage $10
-1006.txt;Bol d argile#cintreuse
+11.txt;Couleur chair A,B,C,D,E,F
+19.txt;Femelle001 D
+30.txt;Groseillier Sauvage
+31.txt;Groseilles Sauvages
+32.txt;Gros rocher
+33.txt;Pierre
+34.txt;Pierre tranchante
+35.txt;Graine de groseille
+36.txt;Semailles de carottes sauvages
+39.txt;Carotte sauvage d%terr%e
+40.txt;Carotte Sauvage
+45.txt;Peuplier
+48.txt;%rable
+49.txt;Genevrier
+50.txt;Ascl%piade
+51.txt;Ascl%piade fleurissant
+52.txt;Ascl%piade murissant
+53.txt;D%bris d'ascl%piade
+54.txt;D%bris d'ascl%piade#Fleur
+55.txt;D%bris d'ascl%piade#Fruit
+56.txt;Souche d'ascl%piade
+57.txt;Tige d'ascl%piade
+58.txt;Fil
+59.txt;Corde
+60.txt;Souche d'ascl%piade#Fertile
+61.txt;Petit bois
+62.txt;Feuille
+63.txt;%rable#Branche
+64.txt;Branche droite
+65.txt;Peuplier#Branche
+66.txt;Branche courb%e courte
+67.txt;Bout de bois droit long
+68.txt;Branche courb%e %corc%e courte
+69.txt;Bout de bois court
+70.txt;Manche court ficel%
+71.txt;Hachette en pierre
+72.txt;Petit bois
+73.txt;Drille a archet
+74.txt;Drille a archet pour feu
+75.txt;Baton enflam%
+77.txt;Feuille enflam%e
+78.txt;Brindilles fumantes
+79.txt;Brindilles utilis%es
+80.txt;Amadou en Flammes
+82.txt;Feu
+83.txt;Grand feu rapide
+85.txt;Charbons chaud
+86.txt;Cendres
+87.txt;Tombe fraiche
+88.txt;Tombe
+89.txt;Vieille tombe
+92.txt;Manche long ficel%
+96.txt;Aiguilles de pin
+99.txt;Pin Blanc
+100.txt;Pin Blanc avec aiguilles
 101.txt;Cadre en bois
-1012.txt;Tombe marquee# origGrave
-1013.txt;Rose sauvage aux fruits
-1011.txt;Sepulture enterree# origGrave groundOnly
-1014.txt;Rose sauvage# cueilli
-1015.txt;Eglantier sauvage
-1018.txt;Graine de rose plantée humide# rose
-1019.txt;Pousse de rose# rose
-1016.txt;Graine Rose sauvage# rose
-1017.txt;Graine de rose plantée à sec# rose
-1020.txt;Banc de neige
-1023.txt;Bol froid avec graine de rose stratifiée# rose
-1024.txt;Graine de rose stratifiée# rose
-1021.txt;Bol froid
-1022.txt;Bol froid avec graines de rose# rose
-1026.txt;Graine Rose sauvage# Blanc
-1025.txt;Graine Rose sauvage# rouge
-1029.txt;Bol froid avec graines de rose# blanc
-1027.txt;Bol froid avec graines de rose# rouge
-1030.txt;Bol froid avec graine de rose stratifiée# blanc
-103.txt;Cadre en bois maillé
-1028.txt;Bol froid avec graine de rose stratifiée# red
-1031.txt;Graine de rose stratifiée# rouge
-1032.txt;Graine de rose stratifiée# blanc
-1033.txt;Rosier roseh
-1034.txt;Rosier rose sec
-1037.txt;Rosace# rose
-1035.txt;Rosier rose vigoureux
-1039.txt;Graine de Rose# rose
-1041.txt;Graine de Rose# blanc
+103.txt;Cadre en bois quadrille
 104.txt;Cadre en bois partiel
-1042.txt;Dry Planted Rose Seed# red
-1040.txt;Rose Seed# red
-1044.txt;Rose Sprout# red
-1045.txt;Dry Planted Rose Seed# white
-1036.txt;Pink Rose
-1046.txt;Wet Planted Rose Seed# white
-1043.txt;Wet Planted Rose Seed# red
-105.txt;Half Wooden Frame
-1047.txt;Rose Sprout# white
-1051.txt;Red Rose
-1053.txt;Rose Hip# red
-1052.txt;White Rose
-1054.txt;Rose Hip# white
-1059.txt;Red Rose Bush
-1056.txt;Dry Red Rose Bush
-1055.txt;Dry White Rose Bush
-1057.txt;Vigorous Red Rose Bush
-1061.txt;Cold Bowl# just inserted
-106.txt;Pine Panel
-1060.txt;White Rose Bush
-1058.txt;Vigorous White Rose Bush
-1062.txt;Marked Grave# origGrave mother
-1063.txt;Marked Grave# origGrave brother
-1064.txt;Marked Grave# origGrave sister
-1065.txt;Marked Grave# origGrave uncle
-1068.txt;Marked Grave# origGrave aunt
-1066.txt;Marked Grave# origGrave son
-107.txt;Stakes
-1067.txt;Marked Grave# origGrave daughter
-1069.txt;Mother Template Grave# origGrave
-1070.txt;Mother Template Grave with Chisel# origGrave
-1071.txt;Marked Grave with Chisel# origGrave mother
+105.txt;Moitie de cadre en bois
+106.txt;Panneau en pin
+107.txt;Rangs
+108.txt;Piquets de mur est-ouest
+109.txt;Poteaux de mur nord-sud
+110.txt;Piquets de coin de mur
+111.txt;Mur en pin
+112.txt;Mur en pin
+113.txt;Mur en pin
+114.txt;Porte en pin
+115.txt;Porte en pin#installee
+116.txt;Porte en pin#installee verticale
+117.txt;Porte en pin ouverte# installed vert
+119.txt;Porte en epine de pin ouverte# installe
+121.txt;Roseaux
+122.txt;Souches de roseaux
+123.txt;Roseau r%colt%
+124.txt;Fagot de roseau
+125.txt;Gisement d'argile
+126.txt;Argile
+127.txt;Adobe
+128.txt;Jupe en roseau
+131.txt;Baton en Bois d'If
+132.txt;Branche d'If
+133.txt;Silex
+134.txt;Pointe de fl<che en silex
+135.txt;%clat de silex
+136.txt;Arbuste
+137.txt;Souche d'arbuste
+138.txt;Branche d'arbuste coup%e
+139.txt;Branche d'arbuste
+140.txt;Branche d'arbuste ficel%e
+141.txt;%tang avec Bernache
+142.txt;%tang avec Bernache#swimming
+143.txt;%tang avec Bernache#swimming, feather
+144.txt;Plumes de bernache
+146.txt;Plumes
+147.txt;fl<che sans plume
+148.txt;fl<che
+149.txt;fl<che sans pointe
+150.txt;%clats de silex
+151.txt;Arc en Bois d'If
+152.txt;Arc et fl<che
+153.txt;If#Branch
+154.txt;Mur en Adobe
+155.txt;Mur en Adobe
+156.txt;Mur en Adobe
+157.txt;Mur partiel en adobe
+158.txt;Mur partiel en adobe
+159.txt;Mur partiel en adobe
+160.txt;Collet
+161.txt;Trou de lapin#se cachant, seul
+162.txt;Terrier de lapins attrap%#se cachant
+163.txt;Terrier de lapins attrap%s#se cachant
+164.txt;Trou de lapin#sorti, seul
+165.txt;Trou de lapin#coup d oeil2, seul
+166.txt;Trou de lapin#coup d oeil1, seul
+167.txt;Terrier de lapins#caches
+168.txt;Terrier de lapins attrap%#coup d oeil 2, seul
+169.txt;Terrier de lapins attrap%#coup d oeil 1, seul
+171.txt;Terrier de lapins attrap%s#coup d oeil 2
+172.txt;Terrier de lapins attrap%s#coup d oeil 1
+173.txt;Terrier de lapins#sortis
+174.txt;Lapin attrap%#vivant
+175.txt;Famille de lapins#attrap%
+176.txt;Lapin attrap%#mort
+177.txt;Lapin attrap%#mort, famille
+178.txt;Terrier de lapins avec pi<ge use#seul
+179.txt;Terrier de lapins avec pi<ge use#famille
+180.txt;Lapin Mort
+181.txt;Lapin depec%
+182.txt;Lapin depec%
+183.txt;Fourrure de lapin
+184.txt;Quatre bouts de peau de lapin coupes
+185.txt;Brochette de lapin
+186.txt;Lapin Cuit
+187.txt;Lapin carbonis%
+189.txt;Os de lapin
+190.txt;Os de lapin
+191.txt;Aiguille en Os
+192.txt;Aiguille et fil
+193.txt;Terrier de lapins#coup d oeil1
+194.txt;Terrier de lapins#coup d oeil2
+195.txt;Terrier abandonn% de Lapin
+196.txt;Terrier de lapins#poussant
+197.txt;Lapin Cuit
+198.txt;Sac a Dos 
+199.txt;Chapeau en peau de lapin
+200.txt;Pagne en peau de lapin
+201.txt;Chale en peau de lapin
+202.txt;Manteau en peau de lapin
+203.txt;Chaussures en peau de lapin
+204.txt;Deux peaux de lapin
+205.txt;Trois fourrures de lapins
+206.txt;Quatre peau de lapin
+207.txt;Deux pi<ces de peau de lapin
+208.txt;Quatre pi<ces compl<tes et deux Coup%es de peau de lapin
+209.txt;Poche a eau vide
+210.txt;Poche a eau pleine
+211.txt;Gisement de sol fertile
+212.txt;Sac a dos rempli de terre fertile
+213.txt;Rang laboure
+214.txt;Graine d'ascl%piade plant%e s<che
+215.txt;Graine d'ascl%piade arros%e
+216.txt;Graine de Groseille plant%e s<che
+217.txt;Graine de Groseille arros%e#fertile
+218.txt;germ% d'ascl%piade
+219.txt;Pousse de groseiller
+220.txt;Graine d'ascl%piade
+223.txt;Graines de bl%
+224.txt;Bl% r%colt%
+225.txt;Gerbe de bl%
+226.txt;Bl% battu
+227.txt;Paille
+228.txt;Bl% plant% Sec
+229.txt;Bl% arros%
+230.txt;Pousses de bl%
+231.txt;Base de four en adobe
+233.txt;Bol humide en argile 
+234.txt;Assiette humide en argile 
+235.txt;Bol en argile
+236.txt;Assiette en argile
+237.txt;Four en adobe
+238.txt;Four a poterie
+239.txt;Pinces en bois
+240.txt;Assiette humide dans baguettes en Bois
+241.txt;Assiette chaude dans baguettes en bois
+242.txt;Bl% mur
+243.txt;Bl% vert
+244.txt;Tiges de bl% coup%es
+245.txt;Bol de bl%
+247.txt;Four en adobe rempli de Bois
+248.txt;Tison
+249.txt;Four en adobe en flammes
+250.txt;Four en adobe chaud
+251.txt;Bol de Farine
+252.txt;Bol Plein de Pate
+253.txt;Bol de Groseilles
+254.txt;Bol de Lapin
+255.txt;Bol de Lapin Hache
+256.txt;Bol de Groseilles et Lapin
+257.txt;Bol de Groseilles, Lapin et Carotte
+258.txt;Bol de Groseilles et Carotte
+259.txt;Bol de Groseilles, Lapin et Carotte en Puree
+260.txt;Bol de Groseilles et Carotte en Puree
+261.txt;Bol de Groseilles et Lapin en Puree
+262.txt;Bol de Lapin et Carotte
+263.txt;Bol de Lapin et Carotte en Puree
+264.txt;Fond de tarte pas cuite
+265.txt;Tourte de groseilles pas cuite
+266.txt;Tourte de groseilles et carotte pas cuite
+267.txt;Tourte de groseilles, carotte et lapin pas cuite
+268.txt;Tourte de carotte crue
+269.txt;Tourte de carotte lapin crue
+270.txt;Tourte de lapin pas cuite
+271.txt;Tourte de groseilles et lapin
+272.txt;Tourte Cuite de Groseilles 
+273.txt;Tourte Cuite de Carottes
+274.txt;Tourte Cuite de Lapin
+275.txt;Tourte Cuite de Groseilles et Carottes
+276.txt;Tourte Cuite de Groseilles et Lapin
+277.txt;Tourte Cuite de Lapin et Carottes
+278.txt;Tourte Cuite de Groseilles, Carottes et Lapin
+279.txt;Groseillier sauvage r%colt%
+281.txt;Touraille en Adobe remplie de Bois
+282.txt;Fourneau en adobe allume
+283.txt;Pinces en Bois avec Bol Chauff%
+284.txt;Bol Humide dans baguettes en Bois
+285.txt;Embout Humide en Argile
+286.txt;Embout d'argile
+287.txt;Soufflet sans embout
+288.txt;Soufflet
+289.txt;Minerai de fer dans baguettes en bois
+290.txt;Minerai de fer
+291.txt;Pierre plate
+292.txt;Panier
+293.txt;Fourneau en adobe allume et ferme
+294.txt;Four scelle en adobe
+295.txt;Embout Humide dans baguettes en Bois
+296.txt;Embout chaud dans baguettes en bois
+297.txt;Bl% battu#paille arrachee
+298.txt;Panier avec charbon de bois
+299.txt;Four a Poterie avec Charbon
+300.txt;Grand Tas de Charbon#3
+301.txt;Petit tas de charbon de bois#2
+302.txt;Charbon de bois#1
+303.txt;Forge
+304.txt;Forge allum%e
+305.txt;Forge avec charbon de bois
+307.txt;Bloom de fer chaud
+308.txt;Bloom de fer chaud dans baguettes en bois
+309.txt;Bloom de fer chaud sur pierre plate
+310.txt;Lopin de fer froid
+311.txt;Bloom de fer froid dans baguette en bois
+312.txt;Bloom de fer froid sur pierre plate
+313.txt;Fer Forge sur Pierre Plate
+314.txt;Fer Forge
+316.txt;Creuset avec fer et charbon de bois
+317.txt;Creuset avec fer
+318.txt;Creuset avec charbon de bois
+319.txt;Creuset clos avant forge
+320.txt;Creuset avant forge dans baguettes en bois
+321.txt;Creuset forge chaud
+322.txt;Creuset forge
+323.txt;Creuset chaud dans baguettes en bois
+324.txt;Creuset Froid dans baguettes en Bois
+325.txt;Creuset avec acier
+326.txt;Lingot d'acier
+327.txt;Pinces en Bois#lingot d'acier froid
+328.txt;Lingot d'acier chaud
+329.txt;Lingot d'acier chaud dans baguettes en bois
+330.txt;Lingot en acier chaud sur pierre plate
+331.txt;T>te de hache en acier chaude#pierre plate
+332.txt;T>te de hache en acier sur pierre plate
+333.txt;T>te de hache en acier
+334.txt;Hache en acier
+335.txt;Lingot d'acier sur pierre plate
+336.txt;Panier avec terre
+338.txt;Souche
+339.txt;Arbre abattu#gros,buche
+340.txt;Arbre abattu avec bois de chauffage#gros,buche,bois2
+341.txt;Arbre abattu avec bois de chauffage#gros,buche,bois1
+342.txt;Arbre abattu avec bois de chauffage#Petit,bois2
+343.txt;Arbre abattu avec bois de chauffage#Petit, bois1
+344.txt;Feu de bois
+345.txt;Buche
+346.txt;Grand feu lent
+347.txt;Male002 D
+350.txt;Femelle003 D
+351.txt;Femelle004 C
+352.txt;Male005 D
+353.txt;Femelle006 C
+354.txt;Male007 C
+355.txt;Male008 C
+356.txt;Panier avec des Os
+357.txt;Tas d'os
+365.txt;Bordure atteinte
+366.txt;Bordure
+367.txt;@ Source de bois d'allumage
+382.txt;Bol d'eau
+388.txt;@ Pond Water Source
+389.txt;Groseillier Sec
+390.txt;Groseillier mort
+391.txt;Groseillier cultiv%
+392.txt;Groseillier deperissant
+393.txt;Buisson de groseille cultiv% vigoureux
+394.txt;@ Source d'eau potable pleine
+395.txt;Graines de Carotte Sauvage
+396.txt;Carottes Plant%es S<ches
+398.txt;Pousses de Carotte
+399.txt;Carottes Arros%es
+400.txt;Rang%e de Carottes
+401.txt;Semailles de carottes
+402.txt;Carotte
+404.txt;Carotte Sauvage
+405.txt;@ Carotte
+406.txt;If
+408.txt;Trou d'argile vide
+409.txt;Fosse d'argile#partiel
+410.txt;Trou vide de sol fertile
+411.txt;Trou de sol fertile#partiel
+412.txt;@ %tang oie du Canada humide
+416.txt;Lapin Carbonis%
+418.txt;Loup
+420.txt;Loup touche
+421.txt;Loup Mort avec fl<che
+422.txt;Loup Mort
+423.txt;Loup depec%
+424.txt;Loup depec%
+425.txt;Peau de Loup
+426.txt;Bonnet Lupin
+427.txt;Loup attaquant
+428.txt;Loup Bl%sse attaquant
+429.txt;Loup touche agonisant
+433.txt;Test de Jason
+434.txt;Caisse en Bois
+440.txt;T>te de marteau en acier chaude#pierre plate
+441.txt;Marteau de forgeron
+442.txt;Marteau en acier sur pierre plate
+443.txt;T>te de marteau de forgeron
+444.txt;T>te d herminette en acier#pierre plate
+445.txt;Burin en acier#pierre plate
+446.txt;Lame de gouge en acier chaude#pierre plate
+447.txt;%bauche de barre en acier chaude#pierre plate
+448.txt;%bauche de lame en acier#pierre plate
+449.txt;Lame de departoir en acier#pierre plate
+450.txt;%bauche de lime en acier#pierre plate
+451.txt;Burin en acier#pierre plate
+452.txt;%bauche de lame en acier#pierre plate
+453.txt;T>te d'herminette en acier#pierre plate
+454.txt;T>te d'herminette en acier
+455.txt;Burin en acier
+456.txt;Lame de departoir en acier
+457.txt;%bauche de lime en acier
+458.txt;Lime en acier
+459.txt;%bauche de lame en acier
+460.txt;Lame de scie en acier
+461.txt;Scie a Archet
+462.txt;Herminette en acier
+463.txt;Departoir en acier
+464.txt;%bauche de lime huil%e
+465.txt;%bauche de lime huil%e avec burin
+466.txt;%bauche de lime avec burin
+467.txt;Maillet
+468.txt;Gouge encastr% dans buche
+469.txt;Planche avec gouge
+470.txt;Planches
+471.txt;Luge en Bois
+472.txt;Disques en Bois
+473.txt;Disque en Bois
+474.txt;Drille a archet a silex
+475.txt;Roue en Bois
+483.txt;Brouette
+484.txt;Chariot a bras
+485.txt;Plancher
+486.txt;Piquets de plancher
+487.txt;Marqueur de base
+488.txt;Album Enregistre longue duree
+489.txt;Pochette de support audio
+490.txt;Enregistrement longue duree
+491.txt;Phonographe
+492.txt;Phonographe en fonctionnement
+493.txt;Arc en Bois d'If#just shot
+494.txt;@ Arc en if
+495.txt;Creuset avec copeaux d'acier
+496.txt;Souche d%terr%e
+497.txt;Souche d'arbuste d%terr%e
+498.txt;Groseillier d%terr%
+499.txt;T>te de pelle en acier chaude#pierre plate
+500.txt;T>te de pelle en acier#pierre plate
+501.txt;T>te de pelle en acier
+502.txt;Pelle
+503.txt;Grande Pierre d%terr%e
+504.txt;Gros rocher fendu#droit
+505.txt;Gros rocher fendu#gauche
+506.txt;Gros rocher fendu
+507.txt;@ Ronces arrachables
+508.txt;Grande Pierre d%terr%e avec Ciseau
+509.txt;%tang avec bernache morte
+510.txt;%tang avec bernache morte#fl<che
+511.txt;%tang
+512.txt;%tang Sec
+513.txt;Mare inond%e
+514.txt;Bernache du morte
+515.txt;Bernache du plum%e
+516.txt;Brochette de bernache
+517.txt;Bernache Cuite
+518.txt;Bernache Cuite
+519.txt;@ Bruleur de nourriture
+520.txt;Oie Carbonis%e
+521.txt;Oie Carbonis%e
+522.txt;Os de bernache
+524.txt;@ Gateau consommable
+527.txt;Saule
+530.txt;Cypres Chauve
+531.txt;Mouflon
+532.txt;Mouflon avec agneau
+534.txt;Agneau de mouflon
+536.txt;Mouflon touche avec agneau#fl<che
+537.txt;Mouflon touche avec agneau#pas de fl<che
+538.txt;Mouflon Mort#no arrow
+539.txt;Mouflon touche#fl<che
+540.txt;Agneau de mouflon#corde
+541.txt;Mouflon Domestique
+542.txt;Agneau Domestique
+543.txt;Agneau Domestique#rope
+544.txt;Mouflon Domestique avec Agneau
+545.txt;Agneau Domestique#just left parent
+546.txt;Gros rocher fendu#burin
+547.txt;Bol de Carotte
+548.txt;Bol de Carotte en Puree
+549.txt;Cl*ture
+550.txt;Cl*ture
+551.txt;Cl*ture
+553.txt;Trous de Cl*ture Est-Ouest
+554.txt;Trous de Cl*ture nord-sud
+555.txt;Trous de Cl*ture en coin
+556.txt;Kit de Cl*ture
+557.txt;Deux arbres
+558.txt;Cl*ture ouverte
+559.txt;Lame en acier
+560.txt;Couteau
+561.txt;@ Outil a depec%r
+562.txt;Mouflon depec%
+563.txt;Mouflon depec%#avec peau
+564.txt;Peau de mouflon
+565.txt;Mouflon Abattu
+566.txt;Os de mouflon
+567.txt;Deux lame en acier
+568.txt;Cisailles
+569.txt;Mouton cru
+570.txt;Mouton Cuit
+571.txt;Panier avec des Os de Mouflon
+572.txt;Os de mouflon#tas
+573.txt;fl<che#juste tiree
+575.txt;Mouton Domestique
+576.txt;Mouton apprivois% tondu
+577.txt;Mouton apprivois% tondu
+578.txt;Toison
+579.txt;Fuseau
+580.txt;Grande Pelote de Laine
+581.txt;Petite pelote de fil
+582.txt;Enorme pelote de fil
+583.txt;Aiguilles a tricoter
+584.txt;Bonnet en Laine
+585.txt;Pull en Laine
+586.txt;Bottine en Laine
+587.txt;Mouton Abattu
+588.txt;Os de mouton
+589.txt;Os de mouton#tas
+590.txt;Panier avec des Os de Mouton
+591.txt;Mouton depec%#avec peau
+593.txt;Peau de mouton
+595.txt;Mouton Mort
+596.txt;Mouton depec%
+597.txt;Mouton Mort#shorn
+598.txt;Mouton Mort#shorn fleece
+599.txt;Mouflon domestique mort
+600.txt;Mouton Domestique avec Agneau
+601.txt;Agneau de mouflon repu
+602.txt;Agneau apprivois% repu
+603.txt;Agneau de mouflon affam%
+604.txt;Agneau domestique affam%
+605.txt;Agneau de Mouflon Mort
+606.txt;Agneau domestique mort
+608.txt;Agneau Domestique#rope fed
+609.txt;Agneau apprivois% repu#apres faim
+610.txt;Agneau de mouflon repu#apres faim
+612.txt;@ Bol de nourriture d agneau
+613.txt;Agneau Domestique#rope fed post hungry
+614.txt;Mouton apprivois% repu
+615.txt;Rang de carottes mangees
+616.txt;Mouton mangeant une Rang%e de carottes
+617.txt;Petite d%charge
+618.txt;Petite d%charge pleine
+619.txt;@ Petit d%chet
+620.txt;Petite d%charge avec piquet
+621.txt;Petite d%charge remplie avec piquets
+622.txt;Piquets
+623.txt;Tas de Compost sec
+624.txt;Compost
+625.txt;Tas Humide de Compost
+626.txt;@ tuteur plant%s
+627.txt;Parties
+628.txt;Grizzly
+630.txt;Grotte d'un Ours
+631.txt;Grizzly affam%
+632.txt;Grizzly touche#1
+635.txt;Grizzly touche#2
+637.txt;Grizzly touche#3
+639.txt;Grizzly Mort#3
+641.txt;Grizzly Mort#2
+642.txt;Grizzly Mort#1
+643.txt;Grizzly Mort#0
+644.txt;Grizzly touche agonisant#3
+645.txt;Grizzly repu
+646.txt;@ Grizzly non touche
+647.txt;Grotte d'un Ours#dormant
+648.txt;Grotte d'un Ours#eveille
+649.txt;Grotte d'un Ours#vide juste parti
+650.txt;Grotte d'un Ours#vide
+653.txt;Grizzly affam%#attaquant
+654.txt;Grizzly touche#1 attaquant
+655.txt;Grizzly touche#2 attaquant
+656.txt;Tapis en Peau d Ours
+657.txt;Ours depec%#avec peau
+658.txt;Ours depec%
+659.txt;Seau
+660.txt;Seau plein
+661.txt;Tas de pierre
+662.txt;Puits peu profond
+663.txt;Puits Profond
+664.txt;Puits Peu Profond Sec
+665.txt;Puits Profond Sec
+666.txt;Equipement de Colonne de Puits
+667.txt;Peau d Ours
+668.txt;Planches avec peau d ours
+669.txt;@ Source d'eau potable vide
+670.txt;Citerne vide#juste construite
+671.txt;Citerne pleine
+672.txt;Citerne
+673.txt;Citerne vide
+674.txt;Calcaire
+675.txt;Bol de Calcaire
+676.txt;Bol de chaux vive
+677.txt;Bol de Platre
+678.txt;Bol en calcaire avec baguettes de bois
+679.txt;Bol de chaux vive dans baguettes en bois
+680.txt;Filon d'or
+681.txt;Paillettes d'or#juste mine
+682.txt;Pioche de minage en acier chaude#pierre plate
+683.txt;Pioche de minage en acier#pierre plate
+684.txt;Pioche de minage en acier
+685.txt;T>te de pioche de minage en acier
+686.txt;Bol de paillettes d'or
+687.txt;Bol avec Lingot d'or
+688.txt;Paillettes d'or#abandonn%
+689.txt;Lingot d'or
+690.txt;Bol d'or dans baguettes en Bois
+691.txt;Bol avec Lingot d'or dans Pinces en Bois
+692.txt;%bauche couronne
+693.txt;Couronne a Carotte
+694.txt;Couronne feuille
+695.txt;Couronne Lupine
+696.txt;@ Copeau d'acier
+697.txt;%bauche de couronne avec feuille
+698.txt;%bauche de couronne avec carotte
+699.txt;%bauche de couronne avec peau de loup
+700.txt;Couronne feuille avec feuille
+701.txt;Couronne a Carotte avec Carotte
+702.txt;Couronne Lupine avec Peau de Loup
+703.txt;Pingouin
+705.txt;Pinguoin#glissade
+706.txt;Trou dans la glace
+707.txt;Phoque
+708.txt;Phoque Frappe
+709.txt;Phoque depec%#avec pelage
+710.txt;Phoque depec%#sans pelage
+711.txt;Peau de phoque
+712.txt;Manteau en peau de phoque
+713.txt;Indigo
+714.txt;Garance rose
+715.txt;Racine de garance rose
+716.txt;Paquet indigo
+717.txt;Trou dans la glace#phoque rentre
+718.txt;Trou dans la glace#pingouin rentre
+719.txt;Trou dans la glace#phoque sorti
+720.txt;Trou dans la glace#pingouin sorti
+721.txt;Trou dans la glace#animal juste parti
+722.txt;@ Arracheuse de surface
+723.txt;@ Couteau rugueux
+724.txt;Planches avec disque
+725.txt;Pull en laine indigo
+726.txt;Pull en laine rouge
+729.txt;Alun
+730.txt;Eau bouillante
+731.txt;Teinture acre bouillante
+732.txt;Cendres avec bol
+733.txt;Teinture indigo bouillante
+734.txt;Teinture laque de guarance bouillante
+735.txt;@ Liquide bouillant
+736.txt;Chausson en laine pret a teindre
+737.txt;Chapeau en laine pret a teindre
+738.txt;Pull en laine pret a teindre
+739.txt;Chausson en laine indigo
+740.txt;Chausson en laine rouge
+741.txt;Chapeau en laine rouge
+742.txt;Chapeau en laine indigo
+749.txt;Arc en Bois d'If#just murdered
+750.txt;Couteau Sanglant
+752.txt;Tombe d'un meurtre
+753.txt;Gravats d'adobe
+754.txt;Mur en adobe humide
+755.txt;Mur en adobe doux
+756.txt;Mur en adobe humide
+757.txt;Mur en adobe humide
+758.txt;Mur en adobe doux
+759.txt;Mur en adobe doux
+760.txt;Arbre Mort
+761.txt;Cactus
+762.txt;Cactus fleurissant
+763.txt;Cactus murissant
+764.txt;Serpent a sonnette
+765.txt;Peau de serpent
+766.txt;Botte en peau de serpent
+767.txt;Lasso
+768.txt;Fruit du Cactus
+769.txt;Cheval Sauvage
+770.txt;Cheval debourre
+771.txt;Cheval Capture
+772.txt;Cheval attel% sauvage
+773.txt;Cheval attel% apprivois%
+774.txt;Cheval attel%
+775.txt;Cheval debourre en fuite
+776.txt;Selle en peau de mouton
+778.txt;Cal<che
+779.txt;Cal<che attel%e
+780.txt;Cheval a cal<che en fuite
+782.txt;d%charge pleine
+783.txt;@ Construction partielle en adobe
+784.txt;Tas de pierre#gravats
+785.txt;@ Gisement de gravas de pierre
+787.txt;Fosse a Ver de Terre
+788.txt;Fosse de Terre sans Ver
+789.txt;Ver de Terre
+790.txt;Tas de compost compostage
+791.txt;Monolithe
+792.txt;Monolithe plein
+793.txt;L Apocalypse
+794.txt;Cheval sauvage couronne
+795.txt;Cheval couronne capture
+796.txt;Cheval sauvage couronne
+797.txt;Sang de Bl%ssure
+798.txt;Bl%ssure par fl<che
+799.txt;Rang de groseilliers
+800.txt;Groseillier humide avec piquets
+801.txt;Groseillier d%terr% avec Piquets
+802.txt;Tourte de mouton pas cuite
+803.txt;Tourte Cuite de Mouton
+804.txt;Bardane
+805.txt;Oignon Sauvage
+806.txt;Bardane d%terr%e
+807.txt;Racine de Bardane
+808.txt;Oignon Sauvage
+809.txt;Clocher
+810.txt;Deux lingots d'or
+811.txt;Gros rocher fendu avec burin
+812.txt;Bloc de pierre
+813.txt;Bloc de pierre avec burin
+814.txt;Base de demi clocher
+815.txt;Base de clocher instable#.2 Etpemonument
+816.txt;Base de clocher stable#1
+818.txt;Base de clocher instable#.2 Etpemonument
+819.txt;Base de clocher instable#.1 Etpemonument
+820.txt;Base de clocher stable#2
+822.txt;Base de clocher instable#.1 Etpemonument
+823.txt;Base de clocher instable#.2 Etpemonument
+824.txt;Base de clocher stable#3
+825.txt;Base de clocher instable#.1 Etpemonument
+826.txt;Base de clocher instable#.2 Etpemonument
+827.txt;Base de clocher stable#4
+828.txt;Base de clocher instable#.1 Etpemonument
+829.txt;Base de clocher instable#.2 Etpemonument
+830.txt;Base de clocher stable#5
+831.txt;Base de clocher instable#.1 Etpemonument
+832.txt;Base de clocher instable#.2 Etpemonument
+833.txt;Base de clocher stable#6
+834.txt;Base de Clocher# monumentStep
+835.txt;Clocher# monumentDone
+836.txt;Clocher avec corde
+837.txt;Champignon Psilocybe# remapStart
+838.txt;Fosse de Terre sans Ver avec Champignon
+839.txt;Clocher# monumentCall
+840.txt;Clocher coince
+841.txt;Clocher# just rang
+842.txt;Clocher# ready to ring 
+843.txt;Bloc de pierre#Juste extrait
+844.txt;Botte de fruit
+845.txt;Panier disque
+846.txt;Chariot a bras casse
+847.txt;Brochette cass%e
+848.txt;Rang durci
+849.txt;@ Charrue
+850.txt;Houe en pierre
+851.txt;Outil en pierre cass%
+852.txt;Vieille brochette
+853.txt;@ Non-tilling Skewer
+854.txt;Lame de houe en acier chaude#pierre plate
+855.txt;Lame de houe en acier
+856.txt;Lame de houe en acier sur pierre plate
+857.txt;Houe en acier
+858.txt;Outil en acier cass%
+859.txt;Petit outil en pierre cass%
+860.txt;Panier cass%
+861.txt;Vieux chariot a bras
+862.txt;Outil en acier cass%# pas de bois
+863.txt;Outil en bois cass%
+864.txt;Chapeau de chiffon
+865.txt;Chemise en chiffon
+866.txt;Pagne en chiffon
+869.txt;Chaussure en chiffon
+870.txt;@ Chapeau us%
+871.txt;@ Chemise us%e
+872.txt;@ Decaying Bottom
+873.txt;@ Chaussures us%es
+874.txt;Sac a dos en lambeaux
+875.txt;Porte en Bois
+876.txt;Porte en Bois# Installed
+877.txt;Porte en Bois# installed vert
+878.txt;Porte en bois ouverte# installe
+879.txt;Porte en bois ouverte# installed vert
+880.txt;Gros paquet de planches
+881.txt;Pierres taill%es
+882.txt;Gros rocher fendu avec burin
+883.txt;Pierres taill%es avec burin
+884.txt;Sol en pierre
+885.txt;Mur en pierre
+886.txt;Mur en pierre
+887.txt;Mur en pierre
+888.txt;Tapis en Peau d Ours# pierre
+889.txt;Mur d'adobe fissur%
+890.txt;Mur d'adobe fissur%
+891.txt;Mur d'adobe fissur%
+892.txt;Mur en adobe r%par%
+893.txt;Mur en adobe r%par%
+894.txt;Mur en adobe r%par%
+895.txt;Mur ancien en pierre
+896.txt;Mur ancien en pierre
+897.txt;Mur ancien en pierre
+898.txt;Sol ancien en pierre
+899.txt;Crottin de mouton
+900.txt;Pelle a fumier
+903.txt;@ Rang cultiv%
+904.txt;%bauche de serrure
+905.txt;%bauche de serrure avec burin
+906.txt;Lingot d'acier avec burin
+907.txt;%bauche de lame en acier avec burin
+908.txt;pi<ces de serrure et cl%
+910.txt;pi<ces de serrure et cl% avec burin
+911.txt;%bauche de serrure et cl%
+912.txt;Serrure et cl%# $10
+917.txt;cl%# $10
+921.txt;Porte en bois verrouill%# $10
+922.txt;Porte en bois verrouill%# vert $10
+923.txt;Porte en bois serrure ouverte# vert $10
+924.txt;Porte en bois serrure ouverte# $10
+927.txt;%bauche de lame en acier avec cl%# $10
+928.txt;cl%s dupliqu%es# $10
+929.txt;@ Panier us%
+930.txt;Amas de copeaux d'acier
+931.txt;@ Source d'acier tarie
+932.txt;@ Marteau burin fragile
+933.txt;Cl*ture# juste ferm%e
+934.txt;Rail de cl*ture
+935.txt;Arbuste avec coupe
+936.txt;Coupe d'arbuste
+937.txt;Coupe d'arbuste S<che
+938.txt;Bouture d'arbuste Humide
+939.txt;Jeune arbre Domestique
+940.txt;Branche d'arbuste cultiv% coup%e
+941.txt;Jeune arbre Domestique avec coupure
+942.txt;Filon de fer
+943.txt;Mine a ciel ouvert de minerai de fer
+944.txt;Mine de fer
+945.txt;Mine de fer effondr%e
+946.txt;Stock de lettres
+947.txt;Lettre I
+948.txt;Tiret
+949.txt;Lettre V
+950.txt;Stock de lettre flexible
+951.txt;Lettre U
+952.txt;Lettre C
+953.txt;Lettre O
+955.txt;Lettre B
+956.txt;Lettre A
+957.txt;Lettre D
+958.txt;Lettre T
+959.txt;Lettre F
+960.txt;Lettre E
+961.txt;Lettre G
+962.txt;Lettre H
+963.txt;Lettre J
+964.txt;@ Cutter fin
+965.txt;Lettre K
+966.txt;Lettre L
+967.txt;Lettre W
+968.txt;Lettre N
+969.txt;Lettre M
+970.txt;Lettre P
+971.txt;Lettre R
+972.txt;Lettre Q
+973.txt;Lettre S
+974.txt;Lettre X
+975.txt;Lettre Y
+976.txt;Lettre Z
+977.txt;Petit signe
+978.txt;Gros signe
+979.txt;Petit signe libre
+980.txt;Grand signe libre
+981.txt;Petit signe sur mur en pierre
+982.txt;Grand signe sur mur en pierre
+983.txt;Petit signe sur mur ancien en pierre
+984.txt;Grand signe sur mur ancien en pierre
+985.txt;@ Faible Departoir Marteau
+986.txt;Coffre ouvert en bois
+987.txt;Coffre en bois ferm%
+988.txt;Coffre en bois verrouill%# $10
+989.txt;Coffre en bois deverrouill%# $10
+990.txt;Petit signe verrouill%# $10
+991.txt;Grand signe verrouill%# $10
+992.txt;Petit signe verrouill% lache# $10
+993.txt;Grand signe verrouill% lache# $10
+994.txt;Petit signe verrouill% sur mur en pierre# $10
+995.txt;Grand signe verrouill% sur mur en pierre# $10
+996.txt;Petit signe verrouill% sur mur en pierre ancien# $10
+997.txt;Grand signe verrouill% sur mur en pierre ancien# $10
+998.txt;@ Signe deverrouill%
+999.txt;@ Signe verrouill%
+1000.txt;Serrure et cl%# $10 retire
+1001.txt;@ Serrure libre
+1002.txt;Serrure et cl% dupliqu%es# $10
+1003.txt;cl% d'enlevement de serrure# $10
+1006.txt;Bol en argile#cuite
+1007.txt;Femelle009 D
+1008.txt;Male010 D
+1009.txt;Femelle011 C
+1010.txt;Male012 C
+1011.txt;Tombe enfoui# origGrave
+1012.txt;Tombe marqu%e# origGrave
+1013.txt;Rosier sauvage avec fruit
+1014.txt;Rosier sauvage # cueillie
+1015.txt;Fruit de rosier sauvage
+1016.txt;Graine de rosier sauvage
+1017.txt;Graine de rose Plant%e S<che# rose
+1018.txt;Graine de rose Plant%e humide# rose
+1019.txt;Jeune pousse de rosier# rose
+1020.txt;Amas de neige
+1021.txt;Bol froid
+1022.txt;Bol froid avec graine de rose# rose
+1023.txt;Bol froid avec graine de rose lignifiee# rose
+1024.txt;Graine de rose lignifiee# rose
+1025.txt;Graine de rose sauvage# rouge
+1026.txt;Graine de rose sauvage# blanc
+1027.txt;Bol froid avec graine de rose# rouge
+1028.txt;Bol froid avec graine de rose lignifiee# rouge
+1029.txt;Bol froid avec graine de rose# blanche
+1030.txt;Bol froid avec graine de rose lignifiee# blanche
+1031.txt;Graine de rose lignifiee# rouge
+1032.txt;Graine de rose lignifiee# blanche
+1033.txt;Rosier rose
+1034.txt;Rosier rose sec
+1035.txt;Rosier rose vigoureux
+1036.txt;Rose rose
+1037.txt;Fruit de rose# rose
+1039.txt;Graine de rose# rose
+1040.txt;Graine de rose# rouge
+1041.txt;Graine de rose# blanche
+1042.txt;Graine de rose Plant%e S<che# rouge
+1043.txt;Graine de rose Plant%e humide# rouge
+1044.txt;Jeune pousse de rosier# rouge
+1045.txt;Graine de rose Plant%e S<che# blanche
+1046.txt;Graine de rose Plant%e humide# blanche
+1047.txt;Jeune pousse de rosier# blanche
+1051.txt;Rose rouge
+1052.txt;Rose blanche
+1053.txt;Jeune pousse de rosier# rouge
+1054.txt;Jeune pousse de rosier# blanche
+1055.txt;Rosier blanc sec
+1056.txt;Rosier rouge sec
+1057.txt;Rosier rouge vigoureux
+1061.txt;Bol froid# just inserted
+1060.txt;Rosier blanc
+1062.txt;Tombe marqu%e# origGrave mother
+1064.txt;Tombe marqu%e# origGrave sister
+1063.txt;Tombe marqu%e# origGrave brother
+1065.txt;Tombe marqu%e# origGrave uncl%
+1066.txt;Tombe marqu%e# origGrave son
+1067.txt;Tombe marqu%e# origGrave daughter
+1069.txt;Tombe mod<le m<re# origGrave
+107.txt;Rangs
+1070.txt;Tombe mod<le m<re avec ciseau# origGrave
+1068.txt;Tombe marqu%e# origGrave aunt
 1073.txt;Double S
+1071.txt;Tombe marqu%e avec ciseau# origGrave mother
+1072.txt;Tombe marqu%e# origGrave just placed
 1074.txt;Aunt Template Grave# origGrave
-1072.txt;Marked Grave# origGrave just placed
-1075.txt;Aunt Template Grave with Chisel# origGrave
-1077.txt;Marked Grave with Chisel# origGrave aunt
-1078.txt;Uncle Template Grave# origGrave
-1079.txt;Uncle Template Grave with Chisel# origGrave
-108.txt;East-West Wall Stakes
-1080.txt;Marked Grave with Chisel# origGrave uncle
-1081.txt;Brother Template Grave# origGrave
-1082.txt;Brother Template Grave with Chisel# origGrave
-1084.txt;Sister Template Grave# origGrave
-1083.txt;Marked Grave with Chisel# origGrave brother
-1086.txt;Marked Grave with Chisel# origGrave sister
-1088.txt;Son Template Grave with Chisel# origGrave
+1077.txt;Tombe marqu%e avec ciseau# origGrave aunt
+1079.txt;Tombe mod<le oncle avec ciseau# origGrave
+1078.txt;Tombe mod<le oncle# origGrave
+1080.txt;Tombe marqu%e avec ciseau# origGrave uncl%
+1081.txt;Tombe mod<le fr<re# origGrave
+1075.txt;Aunt Template Grave avec ciseau# origGrave
+1082.txt;Tombe mod<le fr<re avec ciseau# origGrave
+1085.txt;Tombe mod<le soeur avec ciseau# origGrave
+1083.txt;Tombe marqu%e avec ciseau# origGrave brother
+1084.txt;Tombe mod<le soeur# origGrave
+1086.txt;Tombe marqu%e avec ciseau# origGrave sister
 1087.txt;Son Template Grave# origGrave
-1089.txt;Marked Grave with Chisel# origGrave son
+1089.txt;Tombe marqu%e avec ciseau# origGrave son
+1088.txt;Son Template Grave avec ciseau# origGrave
+1091.txt;Daughter Template Grave avec ciseau# origGrave
 1090.txt;Daughter Template Grave# origGrave
-109.txt;North-South Wall Stakes
-1085.txt;Sister Template Grave with Chisel# origGrave
-1093.txt;Blue Rose
-1091.txt;Daughter Template Grave with Chisel# origGrave
-1096.txt;Well Site
-1092.txt;Marked Grave with Chisel# origGrave daughter
-1097.txt;Deep Well#full
-11.txt;Skin Tone A,B,C,D,E,F
-1098.txt;Shallow Well# full
-1099.txt;Partial Bucket of Water
-1100.txt;Empty Bucket# just emptied
-1105.txt;@ Non Vigorous Gooseberry
-110.txt;Corner Wall Stakes
-1106.txt;Dug Fertile Soil Pit#partial
-1108.txt;Teosinte Seed Head
+1092.txt;Tombe marqu%e avec ciseau# origGrave daughter
+1096.txt;Emplacement de puits
+1093.txt;Rose Bleu
+1098.txt;Puits peu profond# full
+1097.txt;Puits profond#full
+1099.txt;Seau a moitie rempli d'eau
+1100.txt;Seau vide# just emptied
+1101.txt;Pile de sol fertile
+1105.txt;@ Groseille non vigoureuse
+1108.txt;T>te de graine de teosinte
+1109.txt;Semence de mais plante a sec
 1107.txt;Teosinte
-1101.txt;Fertile Soil Pile
-111.txt;Pine Wall
-1112.txt;Corn Plant
-1109.txt;Dry Planted Corn Seed
-1110.txt;Wet Planted Corn Seed
-1111.txt;Corn Sprout
-1113.txt;Ear of Corn
-1114.txt;Shucked Ear of Corn
-1115.txt;Dried Ear of Corn
-1118.txt;Dried Ear of Corn with Kernel
-1117.txt;Straw Hat
-1119.txt;Corn Kernel
-112.txt;Pine Wall
-1122.txt;Popping Corn
-1120.txt;Bowl with Corn Cob
-1126.txt;Needle and Ball of Thread
+1106.txt;Fosse de sol fertile#partial
+1110.txt;Semence humide de mais
+1112.txt;Plant de mais
+1111.txt;Mais germ%
+1113.txt;%pi de mais
+1115.txt;Oreille de mais S<chee
+1117.txt;Chapeau de paille
+1118.txt;%pi de mais S<che avec noyau
+1114.txt;%pi de mais
+1119.txt;Grain de mais
 1121.txt;Popcorn
-1127.txt;@ Hand Sew
 1123.txt;Bare Teosinte
-1125.txt;Ball of Thread
-1129.txt;Snake-Bit Riding Horse# just died
-1130.txt;Snake-Bit Riding Horse# ground
-1132.txt;Tipped Horse-Drawn Cart# just tipped
-1134.txt;Vigorous Domestic Gooseberry Bush
-1135.txt;Empty Domestic Gooseberry Bush
-113.txt;Pine Wall
-1136.txt;Shallow Tilled Row# groundOnly
-1133.txt;Tipped Horse-Drawn Cart# ground
-1138.txt;Fertile Soil
+1120.txt;Bol avec %pi de mais
+1122.txt;Popcorn
+1125.txt;Pelote de fil
 1128.txt;Dug Teosinte
-114.txt;Pine Door
-1140.txt;Wild Potato
-1137.txt;Bowl of Soil
-1142.txt;Wet Planted Potatoes
-1141.txt;Wild Potato Tubers
-1143.txt;Potato Plants
-1146.txt;Mature Potato Plants
-1144.txt;Mounded Potato Plants
-1147.txt;Raw Potato
-1145.txt;Dry Planted Potatoes
-1149.txt;Half Baked Potato
-1148.txt;Baked Potato
-115.txt;Pine Door# Installed
-1150.txt;Dug Potato
-1154.txt;Sprouting Potato
-1152.txt;Potato in Water
-1155.txt;Split Potato Sprouts
-1153.txt;Sprouting Potato
-1156.txt;Raw Potato# just dug
-116.txt;Pine Door# installed vert
-1157.txt;Wild Bean Plant
-1160.txt;Dry Bean Pod
+1127.txt;@ Coudre a la main
+1126.txt;Aiguille et pelote de fil
+1129.txt;Snake-Bit Riding Horse# just died
+1132.txt;Voiture tiree par cheval# just tipped
+1130.txt;Snake-Bit Riding Horse# ground
+1134.txt;Vigorous Domestic Gooseberry Bush
+1133.txt;Chariot a cheval# ground
+1135.txt;Arbustes domestiques vides
+1136.txt;Rang labourer peut profond# groundOnly
+1137.txt;Bol de terre
+1140.txt;Pomme de terre sauvage
+1141.txt;Tubercules de pommes de terre sauvages
+1142.txt;Pommes de terre mouill%es
+1138.txt;Terre fertile
+1144.txt;Plants de pommes de terre
+1147.txt;Pomme de terre crue
+1143.txt;Plantes de pomme de terre
+1145.txt;Pommes de terre S<ches Plant%es
+1148.txt;Pomme de terre au four
+1146.txt;Plantes de pommes de terre mures
+1149.txt;Pomme de terre a moitie cuite
+1150.txt;Pomme de terre d%terr%
+1152.txt;Pomme de terre dans l'eau
+1154.txt;Pousse de Pomme de terre
+1153.txt;Pousse de Pomme de terre
+1155.txt;Partager pousse pomme de terre
+1156.txt;Pomme de terre cru# just dug
+1157.txt;Haricot sauvage
 1158.txt;Empty Wild Bean Plant
+1160.txt;Gousse haricots secs
 1159.txt;Dug Wild Bean Plant
-1161.txt;Dry Planted Beans
-1163.txt;Bean Sprouts
-1162.txt;Wet Planted Beans
-117.txt;Open Pine Door# installed vert
-1175.txt;Bowl of Green Beans
-1178.txt;Winnowed Dry Beans
-1176.txt;Bowl of Dry Beans
-1172.txt;Dry Bean Plants
-1173.txt;Green Bean Plants
-1177.txt;Dry Beans with Chaff
-1179.txt;Bowl of Cleaned Dried Beans
-1181.txt;Bowl of Soaked Beans
-1180.txt;Bowl of Soaking Beans
-1183.txt;Wild Squash
-1186.txt;Squash Seeds
-1188.txt;Dug Wild Squash Plant
-1185.txt;Empty Wild Squash Plant
-1184.txt;Wild Squash Plant
-1189.txt;@ Pounder
-119.txt;Open Pine Needle Door# installed
-1191.txt;Squash Sprout
-1198.txt;Cut Hubbard Squash
+1163.txt;germes de haricots
+1161.txt;Haricots Secs
+1162.txt;Haricots Plantes Humides
+1172.txt;Plantes de haricots secs
+1175.txt;Bol de haricots verts
+1173.txt;Plantes de haricots verts
+1177.txt;Haricots secs avec paille
+1176.txt;Bol de haricots secs
+1179.txt;Bol de haricots secs nettoyes
+1180.txt;Bol de haricots trempes
+1178.txt;Haricots secs vannes
+1181.txt;Bol de haricots tremp%s
+1184.txt;Courge sauvage
+1185.txt;Plan de courge sauvage vide
+1186.txt;Graines de courge
+1183.txt;Courge sauvage
+1188.txt;plante de courge sauvage creus%e
+1189.txt;@ Pilonner
+1195.txt;Plan de courge en fleurs
 1190.txt;Wet Planted Squash Seed
 1192.txt;Dry Planted Squash Seed
-1196.txt;Ripe Squash Plant
-1200.txt;Hubbard Squash On Plate
-1195.txt;Blooming Squash Plant
-1197.txt;Growing Squash Plant
-1201.txt;Plate of Squash Chunks# just chopped
+1196.txt;Plan de courge mure
+1191.txt;Pousse de courge
 1199.txt;Hubbard Squash
-1203.txt;Wild Cabbage
-1202.txt;Plate of Squash Chunks
-1208.txt;Wet Planted Cabbage Seed
-1204.txt;Dug Wild Cabbage
-1211.txt;Cut Red Cabbage
-1210.txt;Ripe Cabbage Plant
-1206.txt;Cabbage Seed
-1207.txt;Dry Planted Cabbage Seed
-1209.txt;Cabbage Sprout
-121.txt;Tule Reeds
+1198.txt;Cut Hubbard Squash
+1197.txt;Plan de courge en croissance
+1201.txt;Assiette de morceaux de courge# just chopped
+1200.txt;Hubbard Squash On Plate
+1204.txt;Chou sauvage
+1202.txt;Assiette de morceaux de courge
+1203.txt;Chou sauvage
+1206.txt;Graine de chou
+1208.txt;Semence humide de chou
+1207.txt;Graine de chou plant%e $ sec
+1210.txt;Plant de chou mur
+1209.txt;Pousse de chou
+1213.txt;Trois lames d'acier
 1214.txt;Kraut Board
-1215.txt;Seeding Cabbage Plant
-1212.txt;Red Cabbage
-1213.txt;Three Steel Blades
-122.txt;Tule Stumps
-1220.txt;Crock with Kraut Board
-1219.txt;Wooden Tongs with Fired Crock
-1218.txt;Wet Crock in Wooden Tongs
-1216.txt;Wet Clay Crock
-1217.txt;Clay Crock
+1212.txt;Chou rouge
+1211.txt;Chou rouge coup%
+1215.txt;Semis de chou
+1216.txt;Pot d'argile humide
+1218.txt;Pot mouill% dans des pinces en bois
+1217.txt;Pot en terre cuite
+1219.txt;Pinces En Bois avec Pot au feu
 1221.txt;Stomper
-1222.txt;Shredded Cabbage
-1227.txt;@ Any Ice Hole
-1233.txt;Ashes with Bowl of Salt
-1225.txt;Shredded Cabbage with Board
-1231.txt;Simmering Salt Water
-1226.txt;Bowl of Salt Water
-1228.txt;Full Salt Water Pouch
-123.txt;Harvested Tule
+1220.txt;Crock with Kraut Board
+1225.txt;Chou rap% avec planche
+1222.txt;Chou d%chiquet%
+1226.txt;Bol d'eau sal%e
+1227.txt;@ Un trou de glace
+1230.txt;Trou de glace# water dumped
+1233.txt;Cendres avec bol de sel
+1232.txt;Sel S<che
+1228.txt;Pochette pleine d'eau sal%e
+1231.txt;Faire mijoter de l'eau sal%e
+1234.txt;Bol de sel
 1236.txt;Stomped Fresh Sauerkraut
-1230.txt;Ice Hole# water dumped
-1235.txt;Shredded Cabbage with Salt
-1234.txt;Bowl of Salt
-1232.txt;Dried Salt
+1235.txt;Chou d%chiquet% avec du sel
+1237.txt;Covered Fresh Sauerkraut
 1238.txt;Weighted Fresh Sauerkraut
+1242.txt;Bowl of Sauerkraut
 1239.txt;Fermented Sauerkraut
 1240.txt;Covered Fermented Sauerkraut
-1237.txt;Covered Fresh Sauerkraut
-1242.txt;Bowl of Sauerkraut
-124.txt;Reed Bundle
+1243.txt;Pot avec courge
+1244.txt;Pot avec courge et haricots
 1241.txt;Open Fermented Sauerkraut
-1245.txt;Dry Stew Pot
-1244.txt;Crock with Squash and Beans
-1246.txt;Raw Stew Pot
-1247.txt;Bowl with Corn Kernels
-1250.txt;Empty Stew Pot
-1249.txt;Three Sister's Stew
-125.txt;Clay Deposit
-1248.txt;Cooking Three Sisters Stew
-1251.txt;Bowl of Stew
-1243.txt;Crock with Squash
-1252.txt;Ice Hole# water dumped 2
-1256.txt;Domestic Goose
-1254.txt;Weak Skewer# just dug
-1255.txt;Gosling
-1260.txt;Goose Beheaded
-1263.txt;Dung Goose Egg Incubator
-126.txt;Clay
-1262.txt;Cold Goose Egg
-1267.txt;Domestic Goose# held
-1261.txt;Canada Goose Pond with Egg
-1264.txt;Dung with Hatched Egg
-1268.txt;Goose On Stump
-127.txt;Adobe
-1271.txt;Beheaded Goose On Stump
-1265.txt;Dung with Hatched Gosling
-1266.txt;@ Dung Shovel Source
-1269.txt;Domestic Goose# Dropped
-1270.txt;Stump# goose just left
-1277.txt;Domestic Goose with Corn
-1274.txt;Stump with Goose Head# just left
-1272.txt;Beheaded Goose
-1279.txt;Cold Goose Egg# just laid
-1273.txt;Dead Goose
-1275.txt;Stump with Goose Head
-1283.txt;Burned Omelette
-128.txt;Reed Skirt
-1281.txt;Cooked Omelette
-1284.txt;Cool Flat Rock
-1286.txt;Flat Rock with Wheat Dough
-1278.txt;Fed Domestic Goose
-1280.txt;Hot Flat Rock
-1288.txt;Flat Rock with Wheat Tortilla
+1245.txt;Marmite S<che
+1246.txt;Marmite crue
+1250.txt;Marmite vide
+1247.txt;Bol aux grains de maïs
+1248.txt;Cuisson du ragout des trois soeurs
+1249.txt;Ragout des Trois Soeurs
+1252.txt;Trou de glace# water dumped 2
+1251.txt;Bol de ragout
+1254.txt;brochette fragile# just dug
+1256.txt;Oie domestique
+1255.txt;Oison
+1262.txt;Oeuf d'oie froid
+1260.txt;Oie D%capit%e
+1263.txt;Incubateur d oeufs de dinde
+1265.txt;Fumier avec oiseau %clos
+1261.txt;Bernache avec oeuf
+1264.txt;Fumier avec oeuf %clot
+1267.txt;Oie domestique# held
+1268.txt;Oie sur moignon
+1269.txt;Oie domestique# Dropped
+1266.txt;@ Source de pelle à fumier
+1270.txt;Moignon# goose just left
+1271.txt;Oie d%capit%e sur moignon
+1274.txt;Moignon avec t>te d'oie# just left
+1272.txt;Oie d%capit%e
+1278.txt;Oie domestique nourrie
+1273.txt;Oie morte
+1277.txt;Oie domestique avec mais
+1275.txt;Moignon avec t>te d'oie
+1281.txt;Omelette Cuite
+1279.txt;Oeuf d'oie froid# just laid
+1280.txt;Rocher chaud plat
+1283.txt;Omelette Brul%e
+1286.txt;Rocher plat avec pate de bl%
+1287.txt;Rocher plat avec pate de mais
+1284.txt;Rocher plat froid
+1288.txt;Rocher plat avec tortilla de bl%
+1289.txt;Tortilla de bl% cru
 1285.txt;Omelette
-1287.txt;Flat Rock with Masa Dough
-1291.txt;Stack of Wheat Tortillas
-1292.txt;Bowl of Cooked Beans
-1293.txt;Stack of Bean Burritos
-1289.txt;Raw Wheat Tortilla
-1295.txt;Cooked Wheat Tortilla# just cooked
-1294.txt;Bean Burrito
-1290.txt;Cooked Wheat Tortilla
-1296.txt;Stack of Bean Burritos# just Made
-1297.txt;Bowl of Slacked Lime
-1301.txt;Flat Rock with Corn Tortilla
-1298.txt;Bowl of Corn in Lime Water
-1299.txt;Bowl of Limed Corn
-1302.txt;Raw Corn Tortilla
-1303.txt;Cooked Corn Tortilla# just cooked
-1300.txt;Bowl of Masa Dough
-1307.txt;Stack of Bean Tacos
-1305.txt;Stack of Corn Tortillas
-131.txt;Yew Shaft
-1309.txt;Bean Taco
-1304.txt;Cooked Corn Tortilla
-1308.txt;Stack of Bean Tacos# just made
+1290.txt;Tortilla de bl% cuite
+1291.txt;Tortilla de blé
+1292.txt;Bol de haricots cuits
+1297.txt;Bol de chaux %teinte
+1293.txt;Burritos aux haricots
+1294.txt;Burrito aux haricots
+1295.txt;Tortilla de blé cuite# just cooked
+1298.txt;Bol de mais à l'eau de chaux
+1299.txt;Bol de mais chaul%
+1296.txt;Burritos aux haricots# just Made
+1300.txt;Bol de pate de mais
+1301.txt;Rocher plat avec tortilla de maïs
+1303.txt;Tortilla de maïs cuit# just cooked
+1302.txt;Tortilla de maïs crue
+1304.txt;Tortilla de maïs cuit
+1305.txt;Pile de tortillas de maïs
+1308.txt;Pile de tacos aux haricots# just made
 1310.txt;Flat Rock with Wheat Tortilla# just made
-1311.txt;Flat Rock with Corn Tortilla# just made
-1316.txt;Stack of Firewood
+1309.txt;Tacos aux haricots
+1307.txt;Pile de tacos aux haricots
+1311.txt;Rocher plat avec tortilla de maïs# just made
+1313.txt;Bol de graines de courge
+1312.txt;Bol de graines de chou
 1314.txt;Toque Blanche
-1313.txt;Bowl of Squash Seeds
-1317.txt;Stack of Logs
-1318.txt;@ Young Stone Wall
-132.txt;Yew Branch
-1315.txt;White Apron
-1312.txt;Bowl of Cabbage Seeds
-1324.txt;Wild Piglet# held
-1325.txt;Domestic Pig
-1322.txt;Broken Wheelbarrow
-1321.txt;Old Wheelbarrow
-1323.txt;Wild Boar
-1328.txt;Wild Boar with Piglet
-1327.txt;Domestic Piglet
-1332.txt;Dead Boar# no arrow
-1330.txt;Shot Boar# arrow
-1329.txt;Shot Wild Boar with Piglet# arrow
-1336.txt;Hungry Wild Piglet
-1333.txt;Attacking Wild Boar
-1334.txt;Attacking Wild Boar with Piglet
+1315.txt;Tablier blanc
+1317.txt;Pile de buches
+1316.txt;Pile de bois de chauffage
+1318.txt;@ Jeune mur de pierre
+1322.txt;Brouette bris%e
+1321.txt;Vieille brouette
+1323.txt;Sanglier
+1325.txt;Porc domestique
+1328.txt;Sanglier sauvage avec porcelet
+1324.txt;Porcelet sauvage# held
+1327.txt;Porcelet domestique
+1330.txt;Sanglier# arrow
+1329.txt;Tir au sanglier avec porcelet# arrow
+1332.txt;Sanglier mort# no arrow
 1331.txt;Shot Boar with Piglet# no arrow
-133.txt;Flint
-1337.txt;Dead Wild Piglet
 1335.txt;Fleeing Wild Piglet
-1339.txt;Domestic Boar
-1342.txt;Raw Pork
-1338.txt;Fed Wild Piglet
-1340.txt;Butchered Pig
-134.txt;Flint Arrowhead
-1344.txt;Basket of Pig Bones
-1341.txt;Domestic Boar with Piglet
-1343.txt;Pig Bones
-1345.txt;Pig Bones#dumped
-1347.txt;Attacking Boar# domestic
-1350.txt;Dead Piglet
-1348.txt;Attacking Boar with Piglet# domestic
-1349.txt;Hungry Domestic Piglet
-135.txt;Flint Chip
-1351.txt;Fed Domestic Piglet
-1354.txt;Bowl of Raw Pork
-1356.txt;Stack of Pork Tacos
-1352.txt;Dead Domestic Pig
-1353.txt;Domestic Pig with Piglet
-1357.txt;Stack of Pork Tacos# just made
-1358.txt;Pork Taco
+1333.txt;Attaque de sanglier
+1334.txt;Attaque de sanglier avec porcelet
+1336.txt;Porcelet sauvage affam%
+1337.txt;Porcinet sauvage mort
+1339.txt;Sanglier domestique
+1340.txt;cochon d%pec%
+1341.txt;Sanglier domestique avec porcelet
+1338.txt;Porcinet sauvage nourri
+1345.txt;Os de porc#dumped
+1342.txt;Porc cru
+1344.txt;Panier d'os de porc
+1343.txt;Os de porc
+1349.txt;Porcelet domestique affamer
+1347.txt;Attaque de sanglier# domestic
+1350.txt;Porcelet mort
+1351.txt;Porcinet domestique nourri
+1348.txt;Attaque de sanglier avec porcelet# domestic
 1355.txt;Bowl of Carnitas
-136.txt;Sapling
+1354.txt;Bol de porc cru
+1352.txt;Cochon domestique mort
+1353.txt;Porc domestique avec porcelet
+1356.txt;Pile de tacos au porc
+1357.txt;Pile de tacos au porc# just made
+1358.txt;Pork Taco
+1360.txt;Porcinet sauvage nourri# just fed
+1359.txt;Porcinet domestique nourri# just fed
+1364.txt;Porc couper
+1363.txt;Morsure Bl%ssure
 1361.txt;Dirty Raw Corn Tortilla
-1359.txt;Fed Domestic Piglet# just fed
 1362.txt;Dirty Raw Wheat Tortilla
-1363.txt;Bite Wound
-1360.txt;Fed Wild Piglet# just fed
-1365.txt;Embedded Arrowhead Wound
+1365.txt;Pointe de fl<che int%gr%e
 1366.txt;Empty Arrow Wound
-1368.txt;Sterilized Knife
-1364.txt;Hog Cut
-1370.txt;Headless Arrow# just pulled
-137.txt;Sapling Stump
-1374.txt;Antivenom Knife
-1371.txt;Flint Arrowhead# just removed
-1367.txt;Extracted Arrowhead Wound
-1369.txt;@ high heat source
-1372.txt;Knife# surgery
-1373.txt;Bowl of Antivenom Blood
-1376.txt;Red Cross Apron
+1367.txt;Pointe de fl<che extraite
+1368.txt;Couteau st%rilis%
+1369.txt;@ Source de chaleur elevee
+1372.txt;Couteau# surgery
+1370.txt;fl<che sans T>te# just pulled
+1374.txt;Couteau antivenimeux
+1373.txt;Bol de sang antivenimeux
+1371.txt;Pointe de fl<che en silex# just removed
+1377.txt;Morsure de serpent
 1375.txt;Snake-Bit Horse with Blood Leak# ground
-1377.txt;Snake Bite
-1379.txt;Bloody Wool Pad
-138.txt;Cut Sapling Skewer
-1382.txt;Clean Arrow Wound
-1378.txt;Sterile Wool Pad
-1380.txt;Clean Knife Wound
-1381.txt;Clean Bite Wound
-1383.txt;Clean Hog Cut
-1384.txt;Clean Snake Bite
-1386.txt;Bowl of Sterile Pads
-1385.txt;Attacking Rattle Snake
-1389.txt;Sterile Wool Pad# just cleaned
-1388.txt;Knife# no longer sterile
+1378.txt;Tampon en laine ste%rile
+1379.txt;Tampon de laine sanglant
+1376.txt;Tablier croix rouge
+1380.txt;Bl%ssure au couteau
+1381.txt;Plaie de morsure propre
+1382.txt;fl<che propre
+1386.txt;Bol de tampons st%riles
+1383.txt;Coupe de porc propre
+1387.txt;Tampon en laine sale
+1385.txt;Crotale attaquant
+1388.txt;Couteau# non stérile
 1390.txt;Tutorial Stone# tutorial 1
-139.txt;Skewer
-1387.txt;Dirty Wool Pad
-1391.txt;Tutorial Stone# tutorial 2
+1384.txt;Morsure de serpent propre
+1389.txt;Sterile Wool Pad# just cl%aned
+1393.txt;Tutorial Stone# tutorial 99 done
 1392.txt;Tutorial Stone# tutorial 3
+1391.txt;Tutorial Stone# tutorial 2
 1395.txt;Tutorial Stone# tutorial 5
 1394.txt;Tutorial Stone# tutorial 4
-1393.txt;Tutorial Stone# tutorial 99 done
 1399.txt;Tutorial Stone# tutorial 7
-1400.txt;Tutorial Stone# tutorial 8
-1401.txt;Tutorial Stone# tutorial 9
-140.txt;Tied Skewer
 1398.txt;Tutorial Stone# tutorial 6
+1401.txt;Tutorial Stone# tutorial 9
+1400.txt;Tutorial Stone# tutorial 8
 1402.txt;Tutorial Stone# tutorial 601
-1405.txt;Tutorial Stone# tutorial 12
 1404.txt;Tutorial Stone# tutorial 11
 1403.txt;Tutorial Stone# tutorial 10
+1405.txt;Tutorial Stone# tutorial 12
 1406.txt;Tutorial Stone# tutorial 13
 1408.txt;Tutorial Stone# tutorial 14
-141.txt;Canada Goose Pond
-1412.txt;Tutorial Stone# tutorial 18
-1407.txt;Fire# Tut_only burns forever
 1410.txt;Tutorial Stone# tutorial 16
-1411.txt;Tutorial Stone# tutorial 17
 1409.txt;Tutorial Stone# tutorial 15
-1414.txt;Tutorial Stone# tutorial 20
+1407.txt;Feu# Tut_only burns forever
+1412.txt;Tutorial Stone# tutorial 18
+1411.txt;Tutorial Stone# tutorial 17
 1413.txt;Tutorial Stone# tutorial 19
 1415.txt;Final Tutorial Torch
+1414.txt;Tutorial Stone# tutorial 20
+1417.txt;Hot Coals# Tut_only burns forever
 1418.txt;Tutorial Stone# tutorial 1901
-1421.txt;Escaped Riding Horse# just released
-142.txt;Canada Goose Pond#swimming
 1416.txt;Burning Tutorial Torch# tutorial 21 done
 1420.txt;Tutorial Stone# tutorial 1902
-1417.txt;Hot Coals# Tut_only burns forever
 1422.txt;Escaped Horse-Drawn Cart# just released
-1423.txt;Bow Drill with Removed Tip
-1424.txt;Tutorial Stone# tutorial 22
-1428.txt;Tutorial Stone# tutorial 26
+1423.txt;Archet sans embout de percage
 1425.txt;Tutorial Stone# tutorial 23
+1421.txt;Escaped Riding Horse# just released
+1424.txt;Tutorial Stone# tutorial 22
+1427.txt;Tutorial Stone# tutorial 25
 1426.txt;Tutorial Stone# tutorial 24
 1429.txt;Tutorial Stone# tutorial 27
-1427.txt;Tutorial Stone# tutorial 25
-143.txt;Canada Goose Pond#swimming, feather
-1436.txt;Bison with Calf
-1437.txt;Bison Calf
+1428.txt;Tutorial Stone# tutorial 26
+1436.txt;Bison avec veau
 1435.txt;Bison
-1440.txt;Shot Bison with Calf
-1438.txt;Shot Bison
-1442.txt;Dead Bison#arrow 2
-1444.txt;Dead Bison#arrow 1
-144.txt;Goose Feather
-1445.txt;Dead Bison with Calf
-1441.txt;Dead Bison with Calf#arrow 2
-1443.txt;Dead Bison with Calf#arrow 1
-1454.txt;Domestic Cow with Calf
-1446.txt;Dead Bison
-1447.txt;Domestic Bison
-1448.txt;Bison Calf#rope
-1459.txt;Domestic Calf
-146.txt;Fletching
-1450.txt;Domestic Bison with Calf
-1458.txt;Domestic Cow
-1461.txt;Hungry Bison Calf
-1463.txt;Bowl of Whole Milk
-1465.txt;Bowl of Butter
-1462.txt;Hungry Domestic Calf
-1466.txt;Bowl of Leavened Dough 
-1464.txt;Bowl of Cream
-1467.txt;Butter Knife
-1468.txt;Leavened Dough on Clay Plate
-1469.txt;Raw Bread Loaf
-147.txt;Featherless Arrow
-1474.txt;Bread Slice on Clay Plate
-1473.txt;Buttered Bread on Clay Plate
-1478.txt;Full Bucket of Milk
-1479.txt;Partial Bucket of Milk
-1471.txt;Sliced Bread
-1470.txt;Baked Bread
-1480.txt;Bucket of Separated Milk
-148.txt;Arrow
-1484.txt;Fed Bison Calf
-1476.txt;Slice of Bread
-1483.txt;Partial Bucket of Skim Milk
-1481.txt;Bowl of Skim Milk
-1488.txt;Fed Domestic Cow
-1485.txt;Fed Domestic Calf
-1489.txt;Milk Cow
-1487.txt;Dead Domestic Calf
-1486.txt;Dead Bison Calf
-149.txt;Headless Arrow
-1493.txt;Milk Cow#justDrank
-1491.txt;Full Bucket of Milk#just refilled
-1492.txt;Dry Milk Cow
-1511.txt;North Track End
-150.txt;Flint Chips
-151.txt;Yew Bow
-1512.txt;East West Track
-1510.txt;South Track End
-1513.txt;North South Track
+1437.txt;Veau de bison
+1438.txt;Bison abattu
+1440.txt;Bison abattu avec veau
+1441.txt;Bison mort avec veau#arrow 2
+1442.txt;Bison mort#arrow 2
+1446.txt;Bison mort
+1445.txt;Bison mort avec veau
+1443.txt;Bison mort avec veau#arrow 1
+1444.txt;Bison mort#arrow 1
+1447.txt;Bison domestique
+1450.txt;Bison domestique avec veau
+1454.txt;Vache domestique avec veau
+1448.txt;Veau de bison#rope
+1459.txt;Veau domestique
+1458.txt;Vache domestique
+1463.txt;Bol de lait entier
+1462.txt;Veau domestique affam%
+1461.txt;Veau de bison affam%
+1464.txt;Bol de cr<me
+1466.txt;Bol de p&te lev%e 
+1467.txt;Couteau a beurre
+1465.txt;Bol de beurre
+1468.txt;P&te lev%e sur assiette
+1469.txt;Pain de mie cru
+1473.txt;Pain au beurre sur assiette
+1474.txt;Tranche de pain sur assiette
+1470.txt;Pain au four
+1471.txt;Pain tranch%
+1476.txt;Tranche de pain
+1479.txt;Seau partiel de lait
+1478.txt;Seau plein de lait
+1481.txt;Bol de lait %cr%m%
+1483.txt;Seau partiel de lait %cr%m%
+1480.txt;Seau de lait s%par%
+1485.txt;Veau domestique nourri
+1484.txt;Veau de bison nourri
+1486.txt;Veau de bison mort
+1487.txt;Veau domestique mort
+1489.txt;Vache $ lait
+1488.txt;Vache domestique nourrie
+1492.txt;Vache laiti<re
+1493.txt;Vache $ lait#justDrank
+1491.txt;Seau plein de lait#just refilled
+1510.txt;Fin de voie sud
+1511.txt;Fin de voie nord
+1513.txt;Voie nord sud
 1514.txt;West Track End
-152.txt;Bow and Arrow
-1515.txt;East Track End
+1512.txt;East West Track
 1521.txt;Track Cart# moving North
+1515.txt;East Track End
 1522.txt;Track Cart#moving East
-1525.txt;Hot Steel Blade in Wooden Tongs
-1524.txt;Hot Steel Spring in Wooden Tongs
-1526.txt;Cool Steel Blade in Wooden Tongs
-1527.txt;Soft Steel Spring in Wooden Tongs
-1530.txt;Track Kit
-1529.txt;Quenched Spring Steel
-1528.txt;Quenching Spring Steel
-153.txt;Yew Tree#Branch
-1533.txt;North Track End Stakes
-1539.txt;Quenched Steel Spring in Wooden Tongs
-1531.txt;East Track End Stakes
-1532.txt;West Track End Stakes
-1534.txt;South Track End Stakes
-1540.txt;Tempered Steel Spring in Wooden Tongs
-1542.txt;Quenched Steel Spring
-1541.txt;Steel Spring
-1544.txt;Partial Track Cart Kit#1 wheel
-154.txt;Adobe Wall
-1547.txt;Partial Track Cart Kit#4 wheel
-1543.txt;Soft Steel Spring
-1546.txt;Partial Track Cart Kit#3 wheel
-1545.txt;Partial Track Cart Kit#2 wheel
-1548.txt;Track Cart Kit
-155.txt;Adobe Wall
-1551.txt;East Track End with Cart
+1525.txt;Lame en acier chaude dans pinces en bois
+1524.txt;Ressort d'acier chaud dans pinces en bois
+1526.txt;Lame d'acier froid dans pinces en bois
+1528.txt;Ressort en acier trempe
+1529.txt;Ressort en acier trempe
+1530.txt;Kit du traqueur
+1527.txt;Ressort en acier doux dans pinces en bois
+1531.txt;East Track End tuteur
+153.txt;If#Branch
+1533.txt;North Track End tuteur
+1532.txt;West Track End tuteur
+1539.txt;Ressort en acier tremp% dans des pinces en bois
+1534.txt;South Track End tuteur
+1541.txt;Ressort en acier
+1540.txt;Ressort en acier tremp% dans des pinces en bois
+1544.txt;Kit de chariot partiel#1 roue
+1543.txt;Ressort en acier doux
+1542.txt;Ressort en acier trempe
+1545.txt;Kit de chariot partiel#2 roue
+1546.txt;Kit de chariot partiel#3 roue
+1548.txt;Kit de chariot
+1547.txt;Partial Track Cart Kit#4 roue
 1550.txt;West Track End with Cart
+1551.txt;East Track End with Cart
 1552.txt;West Track End with Cart#built
+1554.txt;East Track End with Wound Cart
 1553.txt;East Track End with Cart#built
-1556.txt;East West Track with Cart#movingWest
 1555.txt;West Track End with Wound Cart
 1557.txt;East West Track with Cart#movingEast
-1554.txt;East Track End with Wound Cart
-156.txt;Adobe Wall
+1556.txt;East West Track with Cart#movingWest
 1568.txt;Track Cart#moving East left end
-1569.txt;Track Cart#moving West left end
-157.txt;Partial Adobe Wall
 1567.txt;Track Cart#moving West
+1569.txt;Track Cart#moving West left end
 1571.txt;Track Cart# moving South
-1575.txt;North Track End with Cart#built
-1576.txt;North Track End with Wound Cart
-1574.txt;North Track End with Cart
 1572.txt;Track Cart# moving South left end
-1577.txt;South Track End with Cart
-1579.txt;South Track End with Wound Cart
-1578.txt;South Track End with Cart#built
-158.txt;Partial Adobe Wall
+1575.txt;North Track End with Cart#built
 1573.txt;Track Cart# moving North left end
-1583.txt;Cross Track
+1574.txt;North Track End with Cart
+1577.txt;South Track End with Cart
+1578.txt;South Track End with Cart#built
+1576.txt;North Track End with Wound Cart
+1579.txt;South Track End with Wound Cart
 1580.txt;North South Track with Cart# moving South
-1582.txt;Derailed Cart
 1584.txt;Cross Track with Cart# moving North
 1581.txt;North South Track with Cart# moving North
-1587.txt;Cross Track with Cart#movingWest
+1583.txt;Cross Track
+1582.txt;Chariot déraill%
 1586.txt;Cross Track with Cart#movingEast
 1588.txt;Track Cart# moving North left cross
+1587.txt;Cross Track with Cart#movingWest
+1589.txt;Track Cart# moving South left cross
 1585.txt;Cross Track with Cart# moving South
 1590.txt;Track Cart#moving West left cross
+1593.txt;Ressort d'acier chaud dans des pinces en bois#justBent
 1591.txt;Track Cart#moving East left cross
 1592.txt;Partial Track Cart Kit#3 wheel remade
-159.txt;Partial Adobe Wall
-1593.txt;Hot Steel Spring in Wooden Tongs#justBent
-1589.txt;Track Cart# moving South left cross
 1594.txt;@ Diggable Track
-1596.txt;Stone Road
+1596.txt;Route de pierre
+1597.txt;@ Chariot mobile
 1595.txt;Track Kit# just dug
-1597.txt;@ Moving Cart
-1598.txt;Iron Ore Pile
-160.txt;Snare
+1599.txt;Pile de petit bois
+1598.txt;Pile de minerai de fer
+1602.txt;Pile de plaques d'argile
 1600.txt;@ Pile
-1602.txt;Stack of Clay Plates
 1601.txt;@ Pile Element
-1599.txt;Kindling Pile
-1603.txt;Stack of Clay Bowls
-1608.txt;Pressed Wood Pulp
-1605.txt;Stack of Baskets
-1606.txt;Flat Rock with Wood Pulp
-1609.txt;Flat Rock with Paper
-1610.txt;Wood Shavings in Simmering Water
-1612.txt;Ashes with Bowl of Cooked Wood Shavings
-1607.txt;Flat Rock with Spread Wood Pulp
-161.txt;Rabbit Hole#hiding,single
+1603.txt;Pile de bols d'argile
+1606.txt;Rocher plat avec pate de bois
+1605.txt;Pile de paniers
+1607.txt;Rocher plat avec p&te de bois $ tartiner
+1609.txt;Rocher plat avec papier
+1608.txt;Pate de bois press%e
+1610.txt;Copeaux de bois dans eau fr%missante
+1612.txt;Cendres avec bol de copeaux de bois cuit
+1613.txt;Bol de p&e de bois
 1611.txt;Bowl of Wood Shavings in Water
-1614.txt;Bowl of Cooked Wood Shavings
-1613.txt;Bowl of Wood Pulp
-1616.txt;Blank Paper with Charcoal# &writable
+1614.txt;Bol de copeaux de bois cuits
+1617.txt;Crayon de charbon de bois
 1615.txt;Paper with Charcoal Writing# &written
 1618.txt;Written Paper# &written
-1617.txt;Charcoal Pencil
+1616.txt;Blank Paper with Charcoal# &writable
 1619.txt;Blank Paper
+1620.txt;Copeaux de bois
+1622.txt;Cuit sur Copeaux des charbons ardents
 1621.txt;Written Paper# writing happening &written
-1620.txt;Wood Shavings
-162.txt;Snared Rabbit Hole#hiding
-1624.txt;Bow and Arrow with Note# &written
-1627.txt;Bloody Note# &written
-1622.txt;Cooked Wood Shavings on Hot Coals
+1624.txt;Arc et fl<che avec note# &written
 1625.txt;Note Arrow Wound# &written
+1627.txt;Bloody Note# &written
 1626.txt;Arrow with Note# &written
-1631.txt;Semi-tame Wolf with Puppies#3
-163.txt;Snared Rabbit Family Hole#hiding
 1630.txt;Semi-tame Wolf
+1631.txt;Semi-tame Wolf with Puppies#3
 1632.txt;Wolf Puppy#1
-1633.txt;German Shepherd Puppy
 1634.txt;Collie Puppy
-1635.txt;Semi-tame Wolf with Puppies#2
-1636.txt;Semi-tame Wolf with Puppy#1
+1633.txt;German Shepherd Puppy
 1637.txt;Wolf Puppy#1 held
-164.txt;Rabbit Hole#out,single
-1641.txt;@ Deadly Wolf
-1639.txt;Collie Puppy# held
-1642.txt;Semi-tame Wolf# pregnant
-1640.txt;Semi-tame Wolf# just fed
 1638.txt;German Shepherd Puppy# held
+1636.txt;Semi-tame Wolf with Puppy#1
+1635.txt;Semi-tame Wolf with Puppies#2
+1639.txt;Collie Puppy# held
+1640.txt;Semi-tame Wolf# just fed
+1641.txt;@ Deadly Wolf
+1642.txt;Semi-tame Wolf# pregnant
 1645.txt;Beagle Puppy
 1644.txt;Pit Bull Puppy# held
 1643.txt;Pit Bull Puppy
-1646.txt;Beagle Puppy# held
-1649.txt;Poodle Puppy
-165.txt;Rabbit Hole#peeking2,single
 1647.txt;Airedale Puppy
-1650.txt;Poodle Puppy# held
-1651.txt;Schnauser Puppy
 1648.txt;Airedale Puppy# held
+1650.txt;Poodle Puppy# held
+1646.txt;Beagle Puppy# held
+1651.txt;Schnauser Puppy
 1652.txt;Schnauser Puppy# held
-1655.txt;Chihuahua Puppy
-1654.txt;Dachshund Puppy# held
+1649.txt;Poodle Puppy
 1653.txt;Dachshund Puppy
-1659.txt;Pit Bull
-1658.txt;German Shepherd
+1654.txt;Dachshund Puppy# held
+1655.txt;Chihuahua Puppy
 1657.txt;Collie
 1656.txt;Chihuahua Puppy# held
+1658.txt;German Shepherd
 1660.txt;Beagle
-166.txt;Rabbit Hole#peeking1,single
-1663.txt;Dachshund
-1664.txt;Schnauser
 1661.txt;Airedale
+1663.txt;Dachshund
+1659.txt;Pit Bull
 1662.txt;Poodle
-1669.txt;Pit Bull# pregnant
-167.txt;Rabbit Family Hole#hiding
 1665.txt;Chihuahua
-1667.txt;Collie# pregnant
+1664.txt;Schnauser
 1668.txt;German Shepherd# pregnant
-1671.txt;Airedale# pregnant
-1673.txt;Dachshund# pregnant
-1674.txt;Schnauser# pregnant
-1672.txt;Poodle# pregnant
+1667.txt;Collie# pregnant
+1669.txt;Pit Bull# pregnant
 1670.txt;Beagle# pregnant
+1673.txt;Dachshund# pregnant
+1672.txt;Poodle# pregnant
+1671.txt;Airedale# pregnant
+1675.txt;Chihuahua# pregnant
+1674.txt;Schnauser# pregnant
 1677.txt;German Shepherd# just fed
 1678.txt;Pit Bull# just fed
 1676.txt;Collie# just fed
-1675.txt;Chihuahua# pregnant
 1679.txt;Beagle# just fed
-1680.txt;Airedale# just fed
-1682.txt;Dachshund# just fed
-1683.txt;Schnauser# just fed
-168.txt;Snared Rabbit Hole#peeking2,single
 1681.txt;Poodle# just fed
+1682.txt;Dachshund# just fed
+1680.txt;Airedale# just fed
 1684.txt;Chihuahua# just fed
-1686.txt;Collie with Puppies#3
+1683.txt;Schnauser# just fed
 1685.txt;German Shepherd with Puppies#3
 1687.txt;Pit Bull with Puppies#3
+1688.txt;Beagle with Puppies#3
+1686.txt;Collie with Puppies#3
+1690.txt;Poodle with Puppies#3
 1689.txt;Airedale with Puppies#3
 1691.txt;Dachshund with Puppies#3
-169.txt;Snared Rabbit Hole#peeking1,single
 1692.txt;Schnauser with Puppies#3
-1688.txt;Beagle with Puppies#3
-1690.txt;Poodle with Puppies#3
 1693.txt;Chihuahua with Puppies#3
 1694.txt;German Shepherd with Puppies#2
-1696.txt;Collie with Puppies#2
 1695.txt;German Shepherd with Puppy#1
-1698.txt;Pit Bull with Puppies#2
-1700.txt;Beagle with Puppies#2
-1701.txt;Beagle with Puppy#1
-1702.txt;Airedale with Puppies#2
-1697.txt;Collie with Puppy#1
 1699.txt;Pit Bull with Puppy#1
+1697.txt;Collie with Puppy#1
+1696.txt;Collie with Puppies#2
+1698.txt;Pit Bull with Puppies#2
+1701.txt;Beagle with Puppy#1
+1700.txt;Beagle with Puppies#2
 1703.txt;Airedale with Puppy#1
+1702.txt;Airedale with Puppies#2
 1704.txt;Dachshund with Puppies#2
-171.txt;Snared Rabbit Family Hole#peeking2
-1706.txt;Schnauser with Puppies#2
 1705.txt;Dachshund with Puppy#1
-1709.txt;Chihuahua with Puppy#1
-1707.txt;Schnauser with Puppy#1
+1706.txt;Schnauser with Puppies#2
 1708.txt;Chihuahua with Puppies#2
-1711.txt;Poodle with Puppy#1
+1707.txt;Schnauser with Puppy#1
+1709.txt;Chihuahua with Puppy#1
 1710.txt;Poodle with Puppies#2
-1712.txt;Attacking Pit Bull
-1713.txt;Shot Pit Bull
-1714.txt;@ Pit Bull
 1715.txt;Shot Pit Bull# no arrow
-1718.txt;Hungry Airedale Puppy# held
+1712.txt;Attacking Pit Bull
+1711.txt;Poodle with Puppy#1
+1714.txt;@ Pit Bull
+1713.txt;Shot Pit Bull
 1716.txt;Hungry German Shepherd Puppy
-1720.txt;Hungry Pit Bull Puppy# held
-1719.txt;Hungry Schnauser Puppy# held
 1717.txt;Hungry Poodle Puppy# held
-172.txt;Snared Rabbit Family Hole#peeking1
-1723.txt;Hungry Beagle Puppy# held
-1721.txt;Hungry Collie Puppy# held
+1718.txt;Hungry Airedale Puppy# held
+1719.txt;Hungry Schnauser Puppy# held
 1722.txt;Hungry Chihuahua Puppy# held
+1721.txt;Hungry Collie Puppy# held
+1720.txt;Hungry Pit Bull Puppy# held
+1723.txt;Hungry Beagle Puppy# held
 1724.txt;Hungry German Shepherd Puppy# held
-1728.txt;Hungry Collie Puppy
-1726.txt;Hungry Wolf Puppy#1 held
 1725.txt;Hungry Dachshund Puppy# held
 1727.txt;Hungry Wolf Puppy#1
-173.txt;Rabbit Family Hole#out
+1726.txt;Hungry Wolf Puppy#1 held
 1729.txt;Hungry Pit Bull Puppy
-1732.txt;Hungry Poodle Puppy
-1733.txt;Hungry Schnauser Puppy
-1730.txt;Hungry Beagle Puppy
+1728.txt;Hungry Collie Puppy
 1731.txt;Hungry Airedale Puppy
-1734.txt;Hungry Dachshund Puppy
+1732.txt;Hungry Poodle Puppy
+1730.txt;Hungry Beagle Puppy
 1735.txt;Hungry Chihuahua Puppy
-1737.txt;Dead German Shepherd Puppy
+1734.txt;Hungry Dachshund Puppy
+1733.txt;Hungry Schnauser Puppy
 1736.txt;Dead Wolf Puppy#1
+1737.txt;Dead German Shepherd Puppy
 1738.txt;Dead Collie Puppy
 1739.txt;Dead Pit Bull Puppy
-1740.txt;Dead Beagle Puppy
 1741.txt;Dead Airedale Puppy
-174.txt;Snared Rabbit#alive
 1742.txt;Dead Poodle Puppy
+1740.txt;Dead Beagle Puppy
+1743.txt;Dead Schnauser Puppy
 1744.txt;Dead Dachshund Puppy
 1745.txt;Dead Chihuahua Puppy
-1747.txt;Mean Pit Bull
-1743.txt;Dead Schnauser Puppy
-1749.txt;Old German Shepherd
 1748.txt;Old Semi-tame Wolf
-175.txt;Snared Family Rabbit#alive
-1753.txt;Old Airedale
+1747.txt;Mean Pit Bull
+1749.txt;Old German Shepherd
 1750.txt;Old Pit Bull
-1752.txt;Old Beagle
+1753.txt;Old Airedale
 1754.txt;Old Poodle
-1756.txt;Old Schnauser
-1757.txt;Old Chihuahua
+1752.txt;Old Beagle
 1755.txt;Old Dachshund
+1757.txt;Old Chihuahua
+1756.txt;Old Schnauser
 1759.txt;Dying German Shepherd
 1758.txt;Old Collie
-176.txt;Snared Rabbit#dead
 1760.txt;Dying Collie
 1761.txt;Dying Semi-tame Wolf
 1763.txt;Dying Beagle
-1767.txt;Dying Schnauser
-1762.txt;Dying Pit Bull
 1764.txt;Dying Airedale
+1762.txt;Dying Pit Bull
 1765.txt;Dying Poodle
 1766.txt;Dying Dachshund
-177.txt;Snared Rabbit#dead,family
-1768.txt;Dying Chihuahua
+1767.txt;Dying Schnauser
 1769.txt;Dead German Shepherd
+1768.txt;Dying Chihuahua
 1770.txt;Dead Collie
 1771.txt;Dead Semi-tame Wolf
-1772.txt;Dead Pit Bull
 1775.txt;Dead Poodle
-1777.txt;Dead Schnauser
-1774.txt;Dead Airedale
+1772.txt;Dead Pit Bull
 1773.txt;Dead Beagle
-1781.txt;Collie Puppy# just fed
-1776.txt;Dead Dachshund
+1774.txt;Dead Airedale
+1777.txt;Dead Schnauser
 1779.txt;Wolf Puppy#1 just fed
 1778.txt;Dead Chihuahua
-1782.txt;Pit Bull Puppy# just fed
-178.txt;Rabbit Hole with Used Snare#single
-1784.txt;Airedale Puppy# just fed
-1786.txt;Schnauser Puppy# just fed
-1783.txt;Beagle Puppy# just fed
+1776.txt;Dead Dachshund
 1780.txt;German Shepherd Puppy# just fed
-1788.txt;Chihuahua Puppy# just fed
-179.txt;Rabbit Hole with Used Snare#family
-1787.txt;Dachshund Puppy# just fed
+1781.txt;Collie Puppy# just fed
+1783.txt;Beagle Puppy# just fed
+1782.txt;Pit Bull Puppy# just fed
+1784.txt;Airedale Puppy# just fed
 1785.txt;Poodle Puppy# just fed
+1786.txt;Schnauser Puppy# just fed
+1787.txt;Dachshund Puppy# just fed
+1788.txt;Chihuahua Puppy# just fed
 1789.txt;Abused Pit Bull
 1790.txt;Dry Maple Sapling Cutting
-1793.txt;Wet Poplar Sapling Cutting
-1794.txt;Maple Tree Cutting
 1792.txt;Wet Maple Sapling Cutting
 1791.txt;Dry Poplar Sapling Cutting
-1799.txt;Dry Pine Sapling Cutting
+1794.txt;Maple Tree Cutting
+1793.txt;Wet Poplar Sapling Cutting
 1796.txt;Pine Tree Cutting
 1797.txt;Yew Tree Cutting
-1795.txt;Poplar Tree Cutting
 1798.txt;Dry Yew Sapling Cutting
-180.txt;Dead Rabbit
-1801.txt;Wet Pine Sapling Cutting
+1795.txt;Poplar Tree Cutting
+1799.txt;Dry Pine Sapling Cutting
 1800.txt;Wet Yew Sapling Cutting
-1804.txt;Dry Pine Sapling
 1802.txt;Dry Maple Sapling
+1801.txt;Wet Pine Sapling Cutting
+1803.txt;Dry Poplar Sapling
 1805.txt;Dry Yew Sapling
+1804.txt;Dry Pine Sapling
+1807.txt;Wet Yew Sapling
 1806.txt;Wet Maple Sapling
 1808.txt;Wet Pine Sapling
-1803.txt;Dry Poplar Sapling
-1807.txt;Wet Yew Sapling
-181.txt;Skinned Rabbit
-1811.txt;Wet Yew Cutting in Bowl
-1812.txt;Dead Young Yew Bonsai
-1810.txt;Dry Yew Cutting in Bowl
 1809.txt;Wet Poplar Sapling
+1811.txt;Wet Yew Cutting in Bowl
+1810.txt;Dry Yew Cutting in Bowl
+1812.txt;Dead Young Yew Bonsai
 1813.txt;Dry Yew Sapling in Bowl
-1817.txt;Dead Yew Bonsai
-1814.txt;Dry Young Yew Bonsai in Bowl
 1815.txt;Wet Young Yew Bonsai in Bowl
+1814.txt;Dry Young Yew Bonsai in Bowl
 1816.txt;Overgrown Yew Bonsai in Bowl
-1819.txt;Wet Pruned Yew Bonsai
-182.txt;Skinned Rabbit
-1821.txt;Wet Old Yew Bonsai
-1820.txt;Dry Old Yew Bonsai
+1817.txt;Dead Yew Bonsai
 1818.txt;Dry Pruned Yew Bonsai
-1825.txt;Dry Ancient Yew Bonsai
-1827.txt;Wet Ancient Yew Bonsai
+1819.txt;Wet Pruned Yew Bonsai
 1822.txt;Overgrown Old Yew Bonsai
+1820.txt;Dry Old Yew Bonsai
+1821.txt;Wet Old Yew Bonsai
 1823.txt;Dry Pruned Old Yew Bonsai
-1828.txt;Dead Sapling
-1829.txt;Shears with Maple Cutting
-1830.txt;Shears with Poplar Cutting
-183.txt;Rabbit Fur
 1826.txt;Wet Pruned Old Yew Bonsai
-1831.txt;Shears with Yew Cutting
+1827.txt;Wet Ancient Yew Bonsai
+1825.txt;Dry Ancient Yew Bonsai
+1829.txt;Cisailles a couper l %rable
+1828.txt;Jeune arbre mort
+1830.txt;Cisailles a couper de peuplier
+1832.txt;Cisailles a couper le pin
+1831.txt;Cisailles a couper d'If
 1834.txt;Dead Bonsai out of Bowl
-1833.txt;Dead Bonsai
-1832.txt;Shears with Pine Cutting
-1835.txt;Stack of Blank Paper
-1836.txt;Stack of Flat Rocks
-1837.txt;Stack of Steel Ingots
-1841.txt;Sad Brows
-184.txt;Four Pieces of Cut Rabbit Fur
-1840.txt;Anger Mouth
-1839.txt;Anger Brows
-1844.txt;Blush
-1842.txt;Sad Mouth
-1843.txt;Happy Mouth
-1845.txt;Loose Fence
-1846.txt;Loose Fence
-1847.txt;Loose Fence
-1850.txt;Kindling Pile# just chopped
-185.txt;Skewered Rabbit
-1849.txt;Buried Grave with Dug Stone# origGrave
-1848.txt;Stack of Floppy Baskets
-1854.txt;Flat Rock#just removed
-1851.txt;Fence Gate
-1852.txt;Fence with Dislodged Shaft
-1853.txt;Cut Stones#just removed
-1855.txt;Cut Stones with Bear Skin
-1856.txt;Domestic Piglet# held
-1857.txt;Hungry Domestic Piglet# held
-1858.txt;Hungry Wild Piglet# held
-1859.txt;Stone Wall with Board Stack
-186.txt;Cooked Rabbit
-1862.txt;Shallow Well# was empty
-1863.txt;Domestic Calf# rope
-1860.txt;Stone Wall with Boards
-1861.txt;Deep Well# was empty
-1865.txt;Dumped Wheat Bowl
-1864.txt;Domestic Calf# just unroped
-187.txt;Burnt Rabbit
-1869.txt;Wet Mango Sapling Cutting
+1833.txt;Bonsai mort
+1835.txt;Pile de papier vierge
+1837.txt;Pile de lingots d'acier
+1836.txt;Pile de roches plates
+1839.txt;Sourcils de colere
+1840.txt;Bouche de la colere
+1841.txt;Sourcils tristes
+1842.txt;Bouche triste
+1843.txt;Bouche heureux
+1845.txt;Cl*ture en vrac
+1844.txt;Rougir
+1846.txt;Cl*ture en vrac
+1848.txt;Pile de paniers
+1847.txt;Cl*ture en vrac
+1849.txt;Pierre tombale enterr%e# origGrave
+1851.txt;Portail
+1853.txt;Pierres taill%es#just removed
+1850.txt;Pile d'allumage# just chopped
+1852.txt;Cl*ture avec arbre d%log%
+1854.txt;Rocher plat#just removed
+1855.txt;Pierres taill%es avec peau d ours
+1858.txt;Porcelet sauvage affam%# held
+1857.txt;Porcelet domestique affam%# held
+1859.txt;Mur de pierre avec pile de planches
+1856.txt;Porcelet domestique# held
+1860.txt;Mur de pierre avec des conseils
+1862.txt;Puits peu profond# etait vide
+1861.txt;Puits profond# etait vide
+1863.txt;Veau domestique# rope
 1868.txt;Dry Mango Sapling Cutting
+1864.txt;Veau domestique# just unroped
 1866.txt;@ Bowl Flipper
-1871.txt;Mango Tree Cutting
+1865.txt;Bol de bl% d%charge
+1869.txt;Coupe de mangue humide
 1870.txt;Shears with Mango Cutting
-1877.txt;Mango
-1873.txt;Wet Mango Sapling
-1875.txt;Fruiting Domestic Mango Tree
-1872.txt;Dry Mango Sapling
-1878.txt;Mango Leaf
-1880.txt;Mango Slices
-1874.txt;Wild Mango Tree
-1876.txt;Languishing Domestic Mango Tree
-1879.txt;Mango on a Plate
-1883.txt;Plaster Wall
-189.txt;Rabbit Bone
-1884.txt;Plaster Wall
-1885.txt;Plaster Wall
-1888.txt;Adobe Wall# just deplastered
-1887.txt;Adobe Wall# just deplastered
-1892.txt;Bowl of Lapis Lazuli
-1886.txt;Adobe Wall# just deplastered
+1871.txt;Coupe de manguier
+1873.txt;Pousse de mangue humide
+1872.txt;germ% de mangue sec
+1876.txt;Manguier domestique langoureux
+1874.txt;Arbre Manguier sauvage
+1875.txt;Arbre Manguier domestique
+1877.txt;Mangue
+1878.txt;Feuille de mangue
+1880.txt;Tranches de mangue
+1879.txt;Mangue sur une assiette
+1883.txt;Mur de platre
+1887.txt;Adobe mur# just deplastered
+1885.txt;Mur de platre
+1884.txt;Mur de platre
+1886.txt;Adobe mur# just deplastered
+1888.txt;Adobe mur# just deplastered
+1891.txt;Cinabar
 1890.txt;Lapis Lazuli
-1893.txt;Bowl of Cinnabar
-1895.txt;Bowl of Vermilion Pigment
-1894.txt;Bowl of Ultramarine Pigment
-1897.txt;Bowl of Indian Yellow Pigment
-1898.txt;Bowl of Mango-Infused Cow Urine
-190.txt;Rabbit Bones
-1896.txt;Urushiol Poisoned Cow
-1903.txt;Bucket of Milk Paint
-1900.txt;Dead Cow
-1904.txt;Bucket of Blue Paint
-1891.txt;Cinnabar
-1905.txt;Bucket of Red Paint
-1909.txt;Blue Plaster Wall
-1907.txt;Blue Plaster Wall
-1908.txt;Blue Plaster Wall
-1906.txt;Bucket of Yellow Paint
-191.txt;Bone Needle
-1910.txt;Red Plaster Wall
-1914.txt;Yellow Plaster Wall
-1911.txt;Red Plaster Wall
-1913.txt;Yellow Plaster Wall
-1912.txt;Red Plaster Wall
-1915.txt;Yellow Plaster Wall
-1920.txt;Baby Bones# fromDeath
-192.txt;Needle and Thread
-1919.txt;Dehydrated Urushiol Poisoned Cow
+1892.txt;Bol de Lapis Lazuli
+1893.txt;Bol de Cinabre
+1894.txt;Bol de pigment ultramarine
+1895.txt;Bol de pigment vermillon
+1896.txt;Vache Empoisonn%e
+1898.txt;Bol d urine de vache impregn%e de mangue
+1897.txt;Bol de pigment jaune indien
+1904.txt;Seau de peinture Bleu
+1900.txt;Vache morte
+1903.txt;Seau de peinture au lait
+1905.txt;Seau de peinture rouge
+1906.txt;Seau de peinture jaune
+1908.txt;Mur de platre Bleu
+1907.txt;Mur de platre Bleu
+1909.txt;Mur de platre Bleu
+1910.txt;Mur de platre rouge
+1914.txt;Mur de platre jaune
+1912.txt;Mur de platre rouge
+1911.txt;Mur de platre rouge
+1913.txt;Mur de platre jaune
+1915.txt;Mur de platre jaune
+1919.txt;Vache empoisonn%e a l urushiol d%shydrat%e
+1920.txt;Os de b%b%# fromDeath
 1922.txt;Dry Fertile Domestic Mango Tree
-1927.txt;Tule Stumps with Basket
 1923.txt;Wet Fertile Domestic Mango Tree
-1929.txt;Tutorial Stone# tutorial 28
-1925.txt;@ Cutting-source Mango Tree
 1924.txt;@ Leaf-source Mango Tree
+1925.txt;@ Cutting-source Mango Tree
+1927.txt;Souches tule avec panier
 1928.txt;Tutorial Stone# tutorial 1921
-1931.txt;Twenty Minute Barricade
+1929.txt;Tutorial Stone# tutorial 28
 1930.txt;Twenty Minute Wooden Door# Installed
 1932.txt;Tutorial Stone# tutorial 29
-193.txt;Rabbit Family Hole#peeking1
+1931.txt;Twenty Minute Barricade
 1933.txt;Tutorial Stone# tutorial 30
-1938.txt;Smooth Ground
+1936.txt;Tutorial Stone# tutorial 33
 1934.txt;Tutorial Stone# tutorial 31
 1935.txt;Tutorial Stone# tutorial 32
-1936.txt;Tutorial Stone# tutorial 33
 1937.txt;Tutorial Stone# tutorial 34
-194.txt;Rabbit Family Hole#peeking2
-1941.txt;Ace of Clubs
-1942.txt;Two of Clubs
-1945.txt;Five of Clubs
+1938.txt;Sol lisse
 1939.txt;Unknown Card
+1942.txt;Two of Clubs
 1943.txt;Three of Clubs
-1944.txt;Four of Clubs
+1941.txt;Ace of Clubs
 1947.txt;Deck of Cards
+1944.txt;Four of Clubs
 1948.txt;Revealed Card
-1952.txt;Hidden Card# 3 of Clubs
+1945.txt;Five of Clubs
 1949.txt;@ Any Card
-1951.txt;Hidden Card# 2 of Clubs
-195.txt;Abandoned Rabbit Hole
 1950.txt;Hidden Card# A of Clubs
-1954.txt;Hidden Card# 5 of Clubs
+1952.txt;Hidden Card# 3 of Clubs
 1953.txt;Hidden Card# 4 of Clubs
-1955.txt;Last Card
-1956.txt;Die
-1962.txt;Die Roll of Five
-1959.txt;Die Roll of Two
+1954.txt;Hidden Card# 5 of Clubs
+1951.txt;Hidden Card# 2 of Clubs
+1956.txt;Mourir
 1958.txt;Die Roll of One
-196.txt;Rabbit Hole#growing
+1955.txt;Last Card
 1960.txt;Die Roll of Three
+1959.txt;Die Roll of Two
 1961.txt;Die Roll of Four
-1965.txt;Rolling Die
-1967.txt;@ Rolled Die
 1963.txt;Die Roll of Six
+1965.txt;Rolling Die
+1962.txt;Die Roll of Five
+1967.txt;@ Rolled Die
+1968.txt;Rolling Dice
 1966.txt;Random Die Roll
 1969.txt;Dice Roll of Two# 1 1
-1968.txt;Rolling Dice
-1971.txt;Dice Roll of Five# 1 4
-1972.txt;Dice Roll of Three# 1 2
 1970.txt;Dice Roll of Four# 1 3
-197.txt;Cooked Rabbit
+1971.txt;Dice Roll of Five# 1 4
 1974.txt;Dice Roll of Seven# 1 6
-1973.txt;Dice Roll of Six# 1 5
-1978.txt;Dice Roll of Five# 2 3
 1976.txt;@ Rolled Dice
+1972.txt;Dice Roll of Three# 1 2
+1973.txt;Dice Roll of Six# 1 5
+1975.txt;Random Dice Roll
+1978.txt;Dice Roll of Five# 2 3
+1979.txt;Dice Roll of Six# 2 4
 1977.txt;Dice Roll of Four# 2 2
 1980.txt;Dice Roll of Seven# 2 5
-1981.txt;Dice Roll of Eight# 2 6
-1975.txt;Random Dice Roll
-1979.txt;Dice Roll of Six# 2 4
-198.txt;Backpack
-1983.txt;Dice Roll of Seven# 3 4
 1982.txt;Dice Roll of Six# 3 3
-1986.txt;Dice Roll of Nine# 4 5
-1985.txt;Dice Roll of Nine# 3 6
+1981.txt;Dice Roll of Eight# 2 6
 1984.txt;Dice Roll of Eight# 3 5
+1985.txt;Dice Roll of Nine# 3 6
+1983.txt;Dice Roll of Seven# 3 4
 1987.txt;Dice Roll of Ten# 4 6
-199.txt;Rabbit Fur Hat
-1990.txt;Dice Roll of Eleven# 5 6
-1988.txt;Dice Roll of Eight# 4 4
+1986.txt;Dice Roll of Nine# 4 5
 1989.txt;Dice Roll of Ten# 5 5
+1988.txt;Dice Roll of Eight# 4 4
+1990.txt;Dice Roll of Eleven# 5 6
+1994.txt;Die in Bowl
 1991.txt;Dice Roll of Twelve# 6 6
+1993.txt;Dice in Bowl
 1995.txt;Six of Clubs
 1996.txt;Seven of Clubs
-1993.txt;Dice in Bowl
-1994.txt;Die in Bowl
-1997.txt;Eight of Clubs
-200.txt;Rabbit Fur Loincloth
-2000.txt;Jack of Clubs
-1998.txt;Nine of Clubs
 1999.txt;Ten of Clubs
-2001.txt;Queen of Clubs
-2007.txt;Five of Spades
+1998.txt;Nine of Clubs
+1997.txt;Eight of Clubs
+2000.txt;Jack of Clubs
 2003.txt;Ace of Spades
-2002.txt;King of Clubs
-2006.txt;Four of Spades
+2001.txt;Queen of Clubs
 2004.txt;Two of Spades
+2002.txt;King of Clubs
 2005.txt;Three of Spades
-2009.txt;Seven of Spades
 2008.txt;Six of Spades
-201.txt;Rabbit Fur Shawl
+2006.txt;Four of Spades
+2009.txt;Seven of Spades
+2007.txt;Five of Spades
 2010.txt;Eight of Spades
-2013.txt;Jack of Spades
-2012.txt;Ten of Spades
 2011.txt;Nine of Spades
+2012.txt;Ten of Spades
 2014.txt;Queen of Spades
-2015.txt;King of Spades
-2019.txt;Four of Hearts
+2013.txt;Jack of Spades
 2017.txt;Two of Hearts
+2015.txt;King of Spades
 2016.txt;Ace of Hearts
-202.txt;Rabbit Fur Coat
+2019.txt;Four of Hearts
 2018.txt;Three of Hearts
-2021.txt;Six of Hearts
 2020.txt;Five of Hearts
-2023.txt;Eight of Hearts
+2021.txt;Six of Hearts
 2022.txt;Seven of Hearts
-2027.txt;Queen of Hearts
-2025.txt;Ten of Hearts
+2023.txt;Eight of Hearts
 2024.txt;Nine of Hearts
+2025.txt;Ten of Hearts
 2026.txt;Jack of Hearts
-2028.txt;King of Hearts
-2031.txt;Three of Diamonds
-2029.txt;Ace of Diamonds
-2032.txt;Four of Diamonds
+2027.txt;Queen of Hearts
 2030.txt;Two of Diamonds
-203.txt;Rabbit Fur Shoe
-2033.txt;Five of Diamonds
+2028.txt;King of Hearts
+2029.txt;Ace of Diamonds
+2031.txt;Three of Diamonds
+2032.txt;Four of Diamonds
 2035.txt;Seven of Diamonds
+2033.txt;Five of Diamonds
 2034.txt;Six of Diamonds
 2037.txt;Nine of Diamonds
-2039.txt;Jack of Diamonds
-2038.txt;Ten of Diamonds
 2036.txt;Eight of Diamonds
-2040.txt;Queen of Diamonds
-2042.txt;Hidden Card# 6 of Clubs
-204.txt;Two Rabbit Furs
+2038.txt;Ten of Diamonds
+2039.txt;Jack of Diamonds
 2041.txt;King of Diamonds
-2046.txt;Hidden Card# 10 of Clubs
-2045.txt;Hidden Card# 9 of Clubs
+2040.txt;Queen of Diamonds
 2043.txt;Hidden Card# 7 of Clubs
-2047.txt;Hidden Card# J of Clubs
 2044.txt;Hidden Card# 8 of Clubs
-205.txt;Three Rabbit Furs
-2049.txt;Hidden Card# K of Clubs
+2042.txt;Hidden Card# 6 of Clubs
+2045.txt;Hidden Card# 9 of Clubs
+2047.txt;Hidden Card# J of Clubs
+2046.txt;Hidden Card# 10 of Clubs
 2048.txt;Hidden Card# Q of Clubs
+2049.txt;Hidden Card# K of Clubs
+2051.txt;Hidden Card# 2 of Spades
 2050.txt;Hidden Card# A of Spades
 2054.txt;Hidden Card# 5 of Spades
 2052.txt;Hidden Card# 3 of Spades
-2051.txt;Hidden Card# 2 of Spades
 2053.txt;Hidden Card# 4 of Spades
 2055.txt;Hidden Card# 6 of Spades
 2056.txt;Hidden Card# 7 of Spades
-2057.txt;Hidden Card# 8 of Spades
 2058.txt;Hidden Card# 9 of Spades
+2057.txt;Hidden Card# 8 of Spades
 2059.txt;Hidden Card# 10 of Spades
-206.txt;Four Rabbit Furs
-2061.txt;Hidden Card# Q of Spades
 2060.txt;Hidden Card# J of Spades
+2062.txt;Hidden Card# K of Spades
+2064.txt;Hidden Card# 2 of Hearts
+2061.txt;Hidden Card# Q of Spades
 2063.txt;Hidden Card# A of Hearts
 2065.txt;Hidden Card# 3 of Hearts
-2062.txt;Hidden Card# K of Spades
 2066.txt;Hidden Card# 4 of Hearts
-2064.txt;Hidden Card# 2 of Hearts
+2067.txt;Hidden Card# 5 of Hearts
 2069.txt;Hidden Card# 7 of Hearts
 2068.txt;Hidden Card# 6 of Hearts
-2067.txt;Hidden Card# 5 of Hearts
-2073.txt;Hidden Card# J of Hearts
-207.txt;Two Pieces of Cut Rabbit Fur
 2070.txt;Hidden Card# 8 of Hearts
-2072.txt;Hidden Card# 10 of Hearts
-2077.txt;Hidden Card# 2 of Diamonds
-2074.txt;Hidden Card# Q of Hearts
 2071.txt;Hidden Card# 9 of Hearts
+2072.txt;Hidden Card# 10 of Hearts
+2074.txt;Hidden Card# Q of Hearts
+2073.txt;Hidden Card# J of Hearts
+2075.txt;Hidden Card# K of Hearts
 2076.txt;Hidden Card# A of Diamonds
-208.txt;Four Full and Two Cut Rabbit Furs
+2077.txt;Hidden Card# 2 of Diamonds
+2078.txt;Hidden Card# 3 of Diamonds
 2079.txt;Hidden Card# 4 of Diamonds
-2080.txt;Hidden Card# 5 of Diamonds
 2082.txt;Hidden Card# 7 of Diamonds
+2080.txt;Hidden Card# 5 of Diamonds
 2084.txt;Hidden Card# 9 of Diamonds
-2083.txt;Hidden Card# 8 of Diamonds
 2081.txt;Hidden Card# 6 of Diamonds
 2085.txt;Hidden Card# 10 of Diamonds
+2083.txt;Hidden Card# 8 of Diamonds
 2087.txt;Hidden Card# Q of Diamonds
-2086.txt;Hidden Card# J of Diamonds
-209.txt;Empty Water Pouch
-2078.txt;Hidden Card# 3 of Diamonds
-2091.txt;Fishing Pole
-2094.txt;Baited Fishing Pole
-2090.txt;Bound Deck of Cards
-2093.txt;@ Thorn Source
-2092.txt;Fishing Pole without Hook
 2088.txt;Hidden Card# K of Diamonds
-2095.txt;Perhaps a Fish
-2096.txt;Arctic Char
-2098.txt;Fishing Pole with Old Boot
-210.txt;Full Water Pouch
-2101.txt;Cast Fishing Pole
-2097.txt;Fishing Pole with Char# just caught
-2100.txt;Fishing Pole with Char
-2075.txt;Hidden Card# K of Hearts
-2099.txt;Old Boot
-2104.txt;Cooked Fish
-2105.txt;Burnt Fish
-2107.txt;Fish Bones
-2106.txt;Cooked Fish
+2086.txt;Hidden Card# J of Diamonds
+2090.txt;Bound Deck of Cards
+2091.txt;Canne $ p>che
+2092.txt;Canne $ p>che sans crochet
+2095.txt;Peut-etre un poisson
+2093.txt;@ Source d epine
+2094.txt;Canne $ p>che avec appat
+2096.txt;Omble chevalier
+2098.txt;Canne $ p>che avec vieille botte
+2099.txt;Vieille botte
+2097.txt;Canne $ p>che avec omble# just caught
+2100.txt;Canne $ p>che avec omble
+2102.txt;Omble chevalier# alive
+2104.txt;Poisson cuit
+2101.txt;Canne $ p>che en fonte
+2103.txt;Brochettes de poisson
+2105.txt;Poisson brul%
+2106.txt;Poisson cuit
+2107.txt;Aretes de poisson
 2109.txt;Wet Blank Die
-2102.txt;Arctic Char# alive
-2108.txt;Burnt Fish
-211.txt;Fertile Soil Deposit
-2103.txt;Skewered Fish
 2111.txt;Wet Die in Wooden Tongs
-2112.txt;Fired Die in Wooden Tongs
+2108.txt;Poisson brul%
+2110.txt;Bec en Argile
+2112.txt;Cuit dans des pinces en bois
 2114.txt;Blank Card Stack
-2113.txt;Blank Die
-2119.txt;Tutorial Stone# tutorial 1201
-2110.txt;Clay with Nozzle
-2117.txt;Deck of Damp Cards
-2118.txt;Deck of Cards with No Black
-2115.txt;Deck of Blank Cards
-212.txt;Soil-filled Backpack
-2120.txt;Tutorial Stone# tutorial 1202
+2113.txt;Matrice vierge
 2116.txt;Deck of Cards with No Red
-2123.txt;Stack of Wrought Iron
-2121.txt;Bowl of Corn Seeds
-2124.txt;Full Bucket of Skim Milk
-2122.txt;@ Seed Bowl
-2128.txt;Partial Bucket of Salt Water
-2126.txt;Track Kit with Separated Blade
-2125.txt;Full Bucket of Skim Milk#just refilled
-2129.txt;@ Any Crown
-213.txt;Deep Tilled Row# groundOnly
-214.txt;Dry Planted Milkweed Seed
-216.txt;Dry Planted Gooseberry Seed#fertile
-2127.txt;Full Bucket of Salt Water
-215.txt;Wet Planted Milkweed Seed
-219.txt;Gooseberry Sprout
-2130.txt;Gold Ingot# just hammered
-217.txt;Wet Planted Gooseberry Seed#fertile
-218.txt;Milkweed Sprout
-226.txt;Threshed Wheat
-220.txt;Milkweed Seed
-224.txt;Harvested Wheat
-223.txt;Wheat Seed Head
-225.txt;Wheat Sheaf
-227.txt;Straw
-228.txt;Dry Planted Wheat
-229.txt;Wet Planted Wheat
-233.txt;Wet Clay Bowl
-235.txt;Clay Bowl
-239.txt;Wooden Tongs
-230.txt;Wheat Sprouts
-234.txt;Wet Clay Plate
-231.txt;Adobe Oven Base
-237.txt;Adobe Oven
-240.txt;Wet Plate in Wooden Tongs
-238.txt;Adobe Kiln
-243.txt;Unripe Wheat
-242.txt;Ripe Wheat
-248.txt;Firebrand
-241.txt;Fired Plate in Wooden Tongs
-236.txt;Clay Plate
-247.txt;Wood-filled Adobe Oven
-244.txt;Wheat Stumps
-250.txt;Hot Adobe Oven
-249.txt;Burning Adobe Oven
-252.txt;Bowl of Dough
-245.txt;Bowl of Wheat
-254.txt;Bowl of Rabbit
-255.txt;Bowl of Minced Rabbit
-253.txt;Bowl of Gooseberries
-258.txt;Bowl of Gooseberries and Carrot
-251.txt;Bowl of Flour
-259.txt;Bowl of Mashed Berries, Rabbit, and Carrot
-256.txt;Bowl of Gooseberries And Rabbit
-260.txt;Bowl of Mashed Berries and Carrot
-257.txt;Bowl of Gooseberries, Rabbit, and Carrot
-262.txt;Bowl of Rabbit and Carrot
-263.txt;Bowl of Mashed Rabbit and Carrot
-261.txt;Bowl of Mashed Berries and Rabbit
-265.txt;Raw Berry Pie
-264.txt;Raw Pie Crust
-266.txt;Raw Berry Carrot Pie
-267.txt;Raw Berry Carrot Rabbit Pie
-269.txt;Raw Carrot Rabbit Pie
-268.txt;Raw Carrot Pie
-272.txt;Cooked Berry Pie
-270.txt;Raw Rabbit Pie
-273.txt;Cooked Carrot Pie
-278.txt;Cooked Berry Carrot Rabbit Pie
-275.txt;Cooked Berry Carrot Pie
-276.txt;Cooked Berry Rabbit Pie
-271.txt;Raw Berry Rabbit Pie
-277.txt;Cooked Rabbit Carrot Pie
-274.txt;Cooked Rabbit Pie
-283.txt;Wooden Tongs with Fired Bowl
-282.txt;Firing Adobe Kiln
-284.txt;Wet Bowl in Wooden Tongs
-287.txt;Bellows Without Nozzle
-279.txt;Empty Wild Gooseberry Bush
-281.txt;Wood-filled Adobe Kiln
-285.txt;Wet Clay Nozzle
-289.txt;Iron Ore in Wooden Tongs
-288.txt;Bellows
-290.txt;Iron Ore
-286.txt;Clay Nozzle
-294.txt;Sealed Adobe Kiln
-296.txt;Fired Nozzle in Wooden Tongs
-292.txt;Basket
-293.txt;Firing Adobe Kiln Sealed
-291.txt;Flat Rock
-297.txt;Threshed Wheat#straw removed
-30.txt;Wild Gooseberry Bush
-295.txt;Wet Nozzle in Wooden Tongs
-298.txt;Basket of Charcoal
-299.txt;Adobe Kiln with Charcoal
-300.txt;Big Charcoal Pile#3
-302.txt;Charcoal#1
-301.txt;Small Charcoal Pile#2
-303.txt;Forge
-304.txt;Firing Forge
-309.txt;Hot Iron Bloom on Flat Rock
-305.txt;Forge with Charcoal
-307.txt;Hot Iron Bloom
-308.txt;Hot Iron Bloom in Wooden Tongs
-31.txt;Gooseberry
-311.txt;Cold Iron Bloom in Wooden Tongs
-312.txt;Cold Iron Bloom on Flat Rock
-313.txt;Wrought Iron on Flat Rock
-314.txt;Wrought Iron
-318.txt;Crucible with Charcoal
-310.txt;Cold Iron Bloom
-319.txt;Unforged Sealed Crucible
-316.txt;Crucible with Iron and Charcoal
-32.txt;Big Hard Rock
-321.txt;Hot Forged Crucible
-320.txt;Unforged Crucible in Wooden Tongs
-323.txt;Hot Crucible in Wooden Tongs
-317.txt;Crucible with Iron
-325.txt;Crucible with Steel
-324.txt;Cool Crucible in Wooden Tongs
-322.txt;Forged Crucible
-326.txt;Steel Ingot
-328.txt;Hot Steel Ingot
-327.txt;Wooden Tongs#cool steel ingot
-330.txt;Hot Steel Ingot on Flat Rock
-331.txt;Hot Steel Axe Head#flat rock
-329.txt;Hot steel Ingot in Wooden Tongs
-333.txt;Steel Axe Head
-332.txt;Steel Axe Head on Flat Rock
-338.txt;Stump
-33.txt;Pierre
-34.txt;Pierre tranchante
-334.txt;Steel Axe
-335.txt;Steel Ingot on Flat Rock
-336.txt;Basket of Soil
-343.txt;Chopped Tree with Firewood#Small,wood1
-340.txt;Chopped Tree with Firewood#big,log,wood2
-342.txt;Chopped Tree with Firewood#Small,wood2
-339.txt;Chopped Tree#big,log
-341.txt;Chopped Tree with Firewood#big,log,wood1
-346.txt;Large Slow Fire
-345.txt;Butt Log
-344.txt;Firewood
-35.txt;Gooseberry Seed
-356.txt;Basket of Bones
-36.txt;Seeding Wild Carrot
-365.txt;Touched Edge
-366.txt;Edge
-388.txt;@ Pond Water Source
-382.txt;Bowl of Water
-357.txt;Bone Pile# origGrave
-367.txt;@ Kindling Source
-390.txt;Dead Gooseberry Bush
-389.txt;Dying Gooseberry Bush
-391.txt;Domestic Gooseberry Bush
-39.txt;Dug Wild Carrot
-392.txt;Languishing Domestic Gooseberry Bush
-393.txt;Dry Domestic Gooseberry Bush
-396.txt;Dry Planted Carrots
-395.txt;Carrot Seed Head
-394.txt;@ Full Portable Water Source
-399.txt;Wet Planted Carrots
-402.txt;Carrot
-400.txt;Carrot Row
-398.txt;Carrot Sprouts
-40.txt;Wild Carrot
-404.txt;Wild Carrot
-401.txt;Seeding Carrots
-405.txt;@ Carrot
-406.txt;Yew Tree
-409.txt;Clay Pit#partial
-408.txt;Empty Clay Pit
-410.txt;Wormy Empty Fertile Soil Pit
-411.txt;Fertile Soil Pit#partial
-416.txt;Burnt Rabbit
-421.txt;Dead Wolf with Arrow
-418.txt;Wolf
-412.txt;@ Wet Canada Goose Pond
-422.txt;Dead Wolf
-423.txt;Skinned Wolf
-420.txt;Shot Wolf
-424.txt;Skinless Wolf
-428.txt;Attacking Shot Wolf
-425.txt;Wolf Skin
-429.txt;Dying Shot Wolf
-426.txt;Wolf Hat
-427.txt;Attacking Wolf
-441.txt;Smithing Hammer
-440.txt;Hot Steel Hammer Head#flat rock
-432.txt;Groseille cultiv%434.txt;Wooden Box
-442.txt;Steel Hammer Head on Flat Rock
-445.txt;Hot Steel Chisel#flat rock
-446.txt;Hot Steel Froe Blade#flat rock
-443.txt;Smithing Hammer Head
-447.txt;Hot Steel File Blank#flat rock
-444.txt;Hot Steel Adze Head#flat rock
-449.txt;Steel Froe Blade#flat rock
-450.txt;Steel File Blank#flat rock
-448.txt;Hot Steel Blade Blank#flat rock
-45.txt;Lombardy Poplar Tree
-454.txt;Steel Adze Head
-452.txt;Steel Blade Blank#flat rock
-453.txt;Steel Adze Head#flat rock
-455.txt;Steel Chisel
-451.txt;Steel Chisel#flat rock
-459.txt;Steel Blade Blank
-456.txt;Steel Froe Blade
-457.txt;Steel File Blank
-462.txt;Steel Adze
-458.txt;Steel File
-461.txt;Bow Saw
-460.txt;Steel Saw Blade
-464.txt;Oiled File Blank
-465.txt;Oiled File Blank with Chisel
-463.txt;Steel Froe
-466.txt;Steel File with Chisel
-469.txt;Boards with Froe
-467.txt;Mallet
-471.txt;Wooden Sledge
-472.txt;Wooden Disks
-468.txt;Froe Wedged In Log
-474.txt;Flint-tipped Bow Drill
-470.txt;Boards
-475.txt;Wooden Wheel
-486.txt;Floor Stakes
-473.txt;Wooden Disk
-484.txt;Hand Cart
-48.txt;Maple Tree
-485.txt;Wooden Floor
-488.txt;Long Play Phonorecord Album
-487.txt;Home Marker
-483.txt;Wheelbarrow
-489.txt;Phonorecord Sleeve
-494.txt;@ Yew Bow
-49.txt;Juniper Tree
-490.txt;Long Play Phonorecord
-491.txt;Phonograph
-492.txt;Playing Phonograph
-495.txt;Crucible with Scrap Steel
-493.txt;Yew Bow#just shot
-499.txt;Hot Steel Shovel Head#flat rock
-497.txt;Dug Sapling Stump
-496.txt;Dug Stump
-50.txt;Milkweed
-498.txt;Dug Gooseberry Bush
-500.txt;Steel Shovel Head#flat rock
-502.txt;Shovel
-504.txt;Split Big Rock#right
-503.txt;Dug Big Rock
-505.txt;Split Big Rock#left
-501.txt;Steel Shovel Head
-507.txt;@ Diggable Live Berry Bush
-506.txt;Split Big Rock
-508.txt;Dug Big Rock with Chisel
-51.txt;Flowering Milkweed
-509.txt;Pond with Dead Goose
-510.txt;Pond with Dead Goose#arrow
-512.txt;Dry Pond
-515.txt;Plucked Goose
-511.txt;Pond
-513.txt;Flooded Pond
-518.txt;Cooked Goose
-517.txt;Cooked Goose
-516.txt;Skewered Goose
-521.txt;Burnt Goose
-519.txt;@ Food Burner
-514.txt;Dead Canada Goose
-520.txt;Burnt Goose
-52.txt;Fruiting Milkweed
-527.txt;Willow Tree
-522.txt;Goose Bones
-530.txt;Bald Cypress Tree
-531.txt;Mouflon
-532.txt;Mouflon with Lamb
-524.txt;@ Edible Pie
-53.txt;Milkweed Debris
-534.txt;Mouflon Lamb
-538.txt;Dead Mouflon#no arrow
-536.txt;Shot Mouflon with Lamb#arrow
-537.txt;Shot Mouflon with Lamb#no arrow
-542.txt;Domestic Lamb
-540.txt;Mouflon Lamb#rope
-541.txt;Domestic Mouflon
-539.txt;Shot Mouflon#arrow
-54.txt;Milkweed Debris#Flowering
-543.txt;Domestic Lamb#rope
-545.txt;Domestic Lamb#just left parent
-547.txt;Bowl of Carrot
-546.txt;Split Big Rock#chisel
-548.txt;Bowl of Mashed Carrot
-544.txt;Domestic Mouflon with Lamb
-553.txt;East-West Fence Holes# groundOnly
-551.txt;Fence
-55.txt;Milkweed Debris#Fruit
-549.txt;Fence
-554.txt;North-South Fence Holes# groundOnly
-555.txt;Corner Fence Holes# groundOnly
-559.txt;Steel Blade
-556.txt;Fence Kit
-557.txt;Two Shafts
-550.txt;Fence
-558.txt;Open Fence Gate
-561.txt;@ Skinning Tool
-562.txt;Skinned Mouflon
-560.txt;Knife
-566.txt;Mouflon Bones
-565.txt;Butchered Mouflon
-564.txt;Mouflon Hide
-563.txt;Skinned Mouflon#with hide
-56.txt;Milkweed Stump
-567.txt;Two Steel Blades
-568.txt;Shears
-571.txt;Basket of Mouflon Bones
-569.txt;Raw Mutton
-57.txt;Milkweed Stalk
-570.txt;Cooked Mutton
-576.txt;Shorn Domestic Sheep
-577.txt;Shorn Domestic Sheep
-572.txt;Mouflon Bones#dumped
-575.txt;Domestic Sheep
-573.txt;Arrow#just pulled
-578.txt;Fleece
-579.txt;Drop Spindle
-58.txt;Thread
-580.txt;Big Ball of Yarn
-581.txt;Small Ball of Yarn
-584.txt;Wool Hat
-583.txt;Knitting Needles
-582.txt;Huge Ball of Yarn
-585.txt;Wool Sweater
-587.txt;Butchered Sheep
-586.txt;Wool Booty
-591.txt;Skinned Sheep#with hide
-590.txt;Basket of Sheep Bones
-588.txt;Sheep Bones
-589.txt;Sheep Bones#dumped
-59.txt;Rope
-593.txt;Sheep Skin
-596.txt;Skinned Sheep
-595.txt;Dead Sheep
-598.txt;Dead Sheep#shorn fleece
-599.txt;Dead Domestic Mouflon
-597.txt;Dead Sheep#shorn
-601.txt;Fed Mouflon Lamb
-60.txt;Milkweed Stump#Fertile
-600.txt;Domestic Sheep with Lamb
-602.txt;Fed Domestic Lamb
-605.txt;Dead Mouflon Lamb
-604.txt;Hungry Domestic Lamb
-603.txt;Hungry Mouflon Lamb
-608.txt;Domestic Lamb#rope fed
-609.txt;Fed Domestic Lamb#post hungry
-606.txt;Dead Domestic Lamb
-61.txt;Juniper Tinder
-610.txt;Fed Mouflon Lamb#post hungry
-612.txt;@ Lamb Food Bowl
-613.txt;Domestic Lamb#rope fed post hungry
-615.txt;Eaten Carrot Row
-616.txt;Sheep Eating Carrot Row
-614.txt;Fed Shorn Domestic Sheep
-618.txt;Filled Small Trash Pit
-617.txt;Small Trash Pit
-619.txt;@ Small Trash
-62.txt;Leaf
-620.txt;Small Trash Pit with Stakes# groundOnly
-621.txt;Filled Small Trash Pit with Stakes
-622.txt;Pit Stakes
-623.txt;Dry Compost Pile
-624.txt;Composted Soil
-625.txt;Wet Compost Pile
-627.txt;Parts
-626.txt;@ Planted Stakes
-630.txt;Bear Cave
-628.txt;Grizzly Bear
-63.txt;Maple Tree#Branch
-631.txt;Hungry Grizzly Bear
-637.txt;Shot Grizzly Bear#3
-632.txt;Shot Grizzly Bear#1
-635.txt;Shot Grizzly Bear#2
-639.txt;Dead Grizzly Bear#3
-641.txt;Dead Grizzly Bear#2
-64.txt;Straight Branch
-643.txt;Dead Grizzly Bear#0
-645.txt;Fed Grizzly Bear
-642.txt;Dead Grizzly Bear#1
-644.txt;Dying Shot Grizzly Bear#3
-648.txt;Bear Cave#awake
-650.txt;Bear Cave#empty
-647.txt;Bear Cave#waking
-649.txt;Bear Cave#empty just left
-646.txt;@ Unshot Grizzly Bear
-65.txt;Lombardy Poplar Tree#Branch
-654.txt;Shot Grizzly Bear#1 attacking
-655.txt;Shot Grizzly Bear#2 attacking
-653.txt;Hungry Grizzly Bear#attacking
-656.txt;Bear Skin Rug
-659.txt;Empty Bucket
-658.txt;Skinned Bear
-66.txt;Small Curved Branch
-657.txt;Skinned Bear#with hide
-660.txt;Full Bucket of Water
-661.txt;Stone Pile
-665.txt;Dry Deep Well
-664.txt;Dry Shallow Well
-663.txt;Deep Well
-662.txt;Shallow Well
-668.txt;Boards with Bearskin
-669.txt;@ Empty Portable Water Source
-666.txt;Stanchion Kit
-667.txt;Bear Skin
-67.txt;Long Straight Shaft
-670.txt;Empty Cistern#just built
-671.txt;Full Cistern
-672.txt;Cistern
-675.txt;Bowl of Limestone
-678.txt;Limestone Bowl in Wooden Tongs
-677.txt;Bowl of Plaster
-676.txt;Bowl of Quicklime
-674.txt;Limestone
-683.txt;Steel Mining Pick#flat rock
-68.txt;Small Curved Shaft
-679.txt;Quicklime Bowl in Wooden Tongs
-673.txt;Empty Cistern
-680.txt;Gold Vein
-682.txt;Hot Steel Mining Pick#flat rock
-681.txt;Gold Flakes#just mined
-686.txt;Bowl of Gold Flakes
-684.txt;Steel Mining Pick
-685.txt;Steel Mining Pick Head
-687.txt;Bowl with Gold Ingot
-688.txt;Gold Flakes#dumped
-691.txt;Bowl with Gold Ingot in Wooden Tongs
-689.txt;Gold Ingot
-69.txt;Short Shaft
-695.txt;Wolf Crown
-690.txt;Bowl of Gold in Wooden Tongs
-696.txt;@ New Scrap Steel
-692.txt;Crown Blank
-694.txt;Leaf Crown
-698.txt;Crown Blank with Carrot
-70.txt;Tied Short Shaft
-697.txt;Crown Blank with Leaf
-693.txt;Carrot Crown
-700.txt;Leaf Crown with Leaf
-701.txt;Carrot Crown with Carrot
-699.txt;Crown Blank with Wolf Skin
-705.txt;Penguin#slide
-706.txt;Ice Hole
-703.txt;Penguin
-702.txt;Wolf Crown with Wolf Skin
-708.txt;Clubbed Seal
-707.txt;Antarctic Fur Seal
-709.txt;Skinned Seal#with fur
-711.txt;Seal Skin
-710.txt;Skinned Seal#no fur
-71.txt;Stone Hatchet
-714.txt;Rose Madder
-713.txt;Indigo
-717.txt;Ice Hole#seal in
-712.txt;Sealskin Coat
-716.txt;Indigo Bundle
-718.txt;Ice Hole#penguin in
-715.txt;Rose Madder Root
-720.txt;Ice Hole#penguin out
-72.txt;Kindling
-724.txt;Boards with Disk
-723.txt;@ Rough Cutter
-725.txt;Indigo Wool Sweater
-721.txt;Ice Hole#animal just left
-722.txt;@ Shallow Digger
-726.txt;Red Wool Sweater
-733.txt;Simmering Indigo Dye
-729.txt;Alum
-734.txt;Simmering Rose Madder Dye
-73.txt;Bow Drill Bow
-730.txt;Simmering Water
-732.txt;Ashes with Bowl
-731.txt;Simmering Dye Mordant
-719.txt;Ice Hole#seal out
-737.txt;Dye-Ready Wool Hat
-735.txt;@ Simmering Liquid
-736.txt;Dye-Ready Wool Booty
-739.txt;Indigo Wool Booty
-738.txt;Dye-Ready Wool Sweater
-74.txt;Fire Bow Drill
-740.txt;Red Wool Booty
-741.txt;Red Wool Hat
-749.txt;Yew Bow#just murdered
-75.txt;Ember Shaft
-742.txt;Indigo Wool Hat
-752.txt;Murder Grave# origGrave fromDeath
-753.txt;Adobe Rubble
-757.txt;Damp Adobe Wall
-755.txt;Soft Adobe Wall
-750.txt;Bloody Knife
-756.txt;Damp Adobe Wall
-754.txt;Damp Adobe Wall
-758.txt;Soft Adobe Wall
-760.txt;Dead Tree
-759.txt;Soft Adobe Wall
-761.txt;Barrel Cactus
-762.txt;Flowering Barrel Cactus
-765.txt;Snake Skin
-764.txt;Rattle Snake
-766.txt;Snake Skin Boot
-763.txt;Fruiting Barrel Cactus
-77.txt;Ember Leaf
-768.txt;Cactus Fruit
-767.txt;Lasso
-769.txt;Wild Horse
-771.txt;Captured Horse
-770.txt;Riding Horse
-772.txt;Hitched Wild Horse
-774.txt;Hitched Riding Horse
-773.txt;Hitched Tame Horse
-776.txt;Sheepskin Saddle
-780.txt;Escaped Horse-Drawn Cart
-778.txt;Horse-Drawn Cart
-775.txt;Escaped Riding Horse
-779.txt;Hitched Horse-Drawn Cart
-782.txt;Filled Empty Trash Pit
-78.txt;Smoldering Tinder
-787.txt;Worm Pit
-783.txt;@ Partial Adobe Build
-784.txt;Stone Pile#rubble
-785.txt;@ Stone Rubble Sources
-788.txt;Wormless Soil Pit
-789.txt;Worm
-79.txt;Spent Tinder
-791.txt;Monolith
-790.txt;Composting Compost Pile
-792.txt;Full Monolith
-794.txt;Crowned Wild Horse
-796.txt;Crowned Wild Horse
-793.txt;The Apocalypse
-797.txt;Knife Wound
-795.txt;Crowned Captured Horse
-798.txt;Arrow Wound
-799.txt;Staked Gooseberry Bush
-80.txt;Burning Tinder
-804.txt;Burdock
-801.txt;Dug Gooseberry Bush with Stakes
-800.txt;Moist Staked Gooseberry Bush
-803.txt;Cooked Mutton Pie
-806.txt;Dug Burdock
-808.txt;Wild Onion
-807.txt;Burdock Root
-805.txt;Wild Onion
-802.txt;Raw Mutton Pie
-809.txt;Tower Bell
-814.txt;Half Bell Tower Base
-811.txt;Split Big Rock with Chisel
-810.txt;Two Gold Ingots
-813.txt;Stone Block with Chisel
-820.txt;Stable Bell Tower Base#2
-816.txt;Stable Bell Tower Base#1
-812.txt;Stone Block
-819.txt;Unstable Bell Tower Base#2.1 monumentStep
-815.txt;Unstable Bell Tower Base#1.2
-818.txt;Unstable Bell Tower Base#2.2 monumentStep
-822.txt;Unstable Bell Tower Base#3.1 monumentStep
-82.txt;Fire
-825.txt;Unstable Bell Tower Base#4.1 monumentStep
-826.txt;Unstable Bell Tower Base#4.2 monumentStep
-824.txt;Stable Bell Tower Base#3
-823.txt;Unstable Bell Tower Base#3.2 monumentStep
-827.txt;Stable Bell Tower Base#4
-828.txt;Unstable Bell Tower Base#5.1 monumentStep
-829.txt;Unstable Bell Tower Base#5.2 monumentStep
-831.txt;Unstable Bell Tower Base#6.1 monumentStep
-832.txt;Unstable Bell Tower Base#6.2 monumentStep
-830.txt;Stable Bell Tower Base#5
-836.txt;Tower Bell with Rope
-833.txt;Stable Bell Tower Base#6
-83.txt;Large Fast Fire
-835.txt;Bell Tower# monumentDone
-834.txt;Bell Tower Structure# monumentStep
-839.txt;Bell Tower# monumentCall
-838.txt;Wormless Soil Pit with Mushroom
-837.txt;Psilocybe Mushroom# remapStart
-842.txt;Bell Tower# ready to ring
-844.txt;Fruit Boot
-846.txt;Broken Hand Cart
-840.txt;Stuck Bell Tower
-841.txt;Bell Tower# just rang
-843.txt;Stone Block#justDug
-847.txt;Broken Skewer
-848.txt;Hardened Row
-85.txt;Hot Coals
-845.txt;Floppy Basket
-849.txt;@ Row Tiller
-850.txt;Stone Hoe
-852.txt;Weak Skewer
-855.txt;Steel Hoe Blade
-851.txt;Broken Stone Tool
-853.txt;@ Non-tilling Skewer
-857.txt;Steel Hoe
-854.txt;Hot Steel Hoe Blade#flat rock
-859.txt;Broken Small Stone Tool
-856.txt;Steel Hoe Blade on Flat Rock
-860.txt;Broken Basket
-858.txt;Broken Steel Tool
-86.txt;Ashes
-864.txt;Rag Hat
-861.txt;Old Hand Cart
-862.txt;Broken Steel Tool# no wood
-866.txt;Rag Loincloth
-863.txt;Broken Wood Tool
-869.txt;Rag Shoe
-87.txt;Fresh Grave# origGrave fromDeath
-865.txt;Rag Shirt
-871.txt;@ Decaying Shirt
-870.txt;@ Decaying Hat
-874.txt;Tattered Backpack
-872.txt;@ Decaying Bottom
-873.txt;@ Decaying Shoe
-875.txt;Wooden Door
-877.txt;Wooden Door# installed vert
-879.txt;Open Wooden Door# installed vert
-876.txt;Wooden Door# Installed
-878.txt;Open Wooden Door# installed
-880.txt;Big Stack of Boards
-881.txt;Cut Stones
-882.txt;Split Big Rock with Chisel
-883.txt;Cut Stones with Chisel
-88.txt;Grave# origGrave
-885.txt;Stone Wall
-884.txt;Stone Floor
-888.txt;Bear Skin Rug# stone
-886.txt;Stone Wall
-889.txt;Cracking Adobe Wall
-887.txt;Stone Wall
-890.txt;Cracking Adobe Wall
-891.txt;Cracking Adobe Wall
-892.txt;Fixed Adobe Wall
-89.txt;Old Grave# origGrave
-893.txt;Fixed Adobe Wall
-894.txt;Fixed Adobe Wall
-896.txt;Ancient Stone Wall
-895.txt;Ancient Stone Wall
-897.txt;Ancient Stone Wall
-899.txt;Sheep Dung
-898.txt;Ancient Stone Floor
-902.txt;Rang labour% avec vers905.txt;Lock Blank with Chisel
-900.txt;Shovel of Dung
-904.txt;Lock Blank
-903.txt;@ Tillable Row
-901.txt;Rang%e Durcie avec des Vers906.txt;Steel Ingot with Chisel
-907.txt;Steel Blade Blank with Chisel
-910.txt;Lock and Key Parts with Chisel
-917.txt;Key $10
-92.txt;Tied Long Shaft
-908.txt;Lock and Key Parts
-911.txt;Lock and Key Blank
-921.txt;Locked Wooden Door# $10
-912.txt;Lock and Key $10
-922.txt;Locked Wooden Door# vert $10
-924.txt;Open Locked Wooden Door# $10
-927.txt;Steel Blade Blank with Key $10
-923.txt;Open Locked Wooden Door# vert $10
-931.txt;@ Broken Steel Source
-930.txt;Clump of Scrap Steel
-929.txt;@ Decaying Basket
-928.txt;Duplicate Keys $10
-933.txt;Fence# just closed
-932.txt;@ Weak Chisel Breaker
-934.txt;Fence Rail
-935.txt;Sapling with Cutting
-936.txt;Sapling Cutting
-937.txt;Dry Sapling Cutting
-940.txt;Cut Domestic Sapling Skewer
-939.txt;Domestic Sapling
-938.txt;Wet Sapling Cutting
-941.txt;Domestic Sapling with Cutting
-942.txt;Iron Vein
-943.txt;Iron Pit
-944.txt;Iron Mine
-945.txt;Collapsed Iron Mine
-948.txt;Hyphen
-946.txt;Letter Stock
-949.txt;Letter V
-952.txt;Letter C
-947.txt;Letter I
-950.txt;Bendy Letter Stock
-955.txt;Letter B
-951.txt;Letter U
-957.txt;Letter D
-953.txt;Letter O
-956.txt;Letter A
-958.txt;Letter T
-961.txt;Letter G
-959.txt;Letter F
-96.txt;Pine Needles
-960.txt;Letter E
-964.txt;@ Fine Cutter
-962.txt;Letter H
-966.txt;Letter L
-965.txt;Letter K
-963.txt;Letter J
-970.txt;Letter P
-973.txt;Letter S
-967.txt;Letter W
-969.txt;Letter M
-968.txt;Letter N
-971.txt;Letter R
-972.txt;Letter Q
-975.txt;Letter Y
-974.txt;Letter X
-976.txt;Letter Z
-977.txt;Small Sign
-981.txt;Small Sign on Stone Wall
-979.txt;Loose Small Sign
-980.txt;Loose Big Sign
-978.txt;Big Sign
-982.txt;Big Sign on Stone Wall
-983.txt;Small Sign on Ancient Stone Wall
-985.txt;@ Weak Froe Breaker
-984.txt;Big Sign on Ancient Stone Wall
-989.txt;Unlocked Wooden Chest# $10
-986.txt;Open Wooden Chest
-988.txt;Locked Wooden Chest# $10
-990.txt;Locked Small Sign# $10
-987.txt;Closed Wooden Chest
-99.txt;White Pine Tree
-991.txt;Locked Big Sign# $10
-994.txt;Locked Small Sign on Stone Wall# $10
-993.txt;Loose Locked Big Sign# $10
-992.txt;Loose Locked Small Sign# $10
-995.txt;Locked Big Sign on Stone Wall# $10
-996.txt;Locked Small Sign on Ancient Stone Wall# $10
-1008.txt;Male010 D
-1010.txt;Male012 C
-999.txt;@ Locked Sign
-997.txt;Locked Big Sign on Ancient Stone Wall# $10
-998.txt;@ Unlocked Sign
-1629.txt;Male014 A
-19.txt;Female001 D
-347.txt;Male002 D
-351.txt;Female004 C
-350.txt;Female003 D
-354.txt;Male007 C
-352.txt;Male005 D
-355.txt;Male008 C
-353.txt;Female006 C
-433.txt;Jason Test
-1007.txt;Female009 D
-1009.txt;Female011 C
-1628.txt;Female013 F
+2115.txt;Deck of Blank Cards
+2118.txt;Deck of Cards with No Black
+2120.txt;Tutorial Stone# tutorial 1202
+2117.txt;Deck of Damp Cards
+2119.txt;Tutorial Stone# tutorial 1201
+212.txt;Sac $ dos rempli de terre fertile
+2121.txt;Bol de graines de mais
+2123.txt;Pile de fer forge
+2124.txt;Seau plein de lait %cr%m%
+2122.txt;@ Bol a graines
+2125.txt;Seau plein de lait %cr%m%#vient de remplir
+2127.txt;Seau plein d'eau sal%e
+2126.txt;Kit de piste avec lame s%par%e
+213.txt;Rang labour%
+2128.txt;Seau rempli a moitie d'eau sal%e
+2129.txt;@ Toute couronne
+2130.txt;Lingot d'or# juste martele
