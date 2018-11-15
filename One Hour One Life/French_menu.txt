@@ -160,8 +160,8 @@ loadingMapFailedMessage "ECHEC POUR CHARGER LA CARTE."
 loadingMapFailedSubMessage "LE FICHIER SUIVANT EST MANQUANT OU CORROMPU:##%s####LA REINSTALLATION DU JEU DOIT FIXER CE PROBLEME."
 
 
-lastAte "ATE"
-lastAtePermanent "ATE FROM"
+lastAte "MANGE"
+lastAtePermanent "MANGE"
 
 breastMilk "LAIT MATERNEL"
 
@@ -175,11 +175,11 @@ yum "MIAM"
 meh "MEH"
 
 
-eatHint "MOUTH"
-bareHandHint "BARE HAND"
-bareGroundHint "BARE GROUND"
-nothingHint "NOTHING"
-eventuallyHint "(EVENTUALLY)"
+eatHint "BOUCHE"
+bareHandHint "MAIN NUE"
+bareGroundHint "SOL NU"
+nothingHint "RIEN"
+eventuallyHint "(EVENTUELLEMENT)"
 
 
 noHint "NO INFORMATION" 
